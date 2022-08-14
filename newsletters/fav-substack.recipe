@@ -2,9 +2,10 @@
 
 from calibre.web.feeds.news import BasicNewsRecipe, classes
 
-_name = 'Favourite Newsletters'
+_name = 'Substack Newsletters'
+
 class Newsletters(BasicNewsRecipe):
-    title = u'Newsletters'
+    title = _name
     description = 'My Favourite Newsletters from Substack.'
     language = 'en_IN'
     __author__ = 'Arpan'
@@ -23,9 +24,11 @@ class Newsletters(BasicNewsRecipe):
         ('The Signal', 'https://daily.thesignal.co/feed'),
         ('Public Policy' ,'https://publicpolicy.substack.com/feed'),
         ('Multitudes' ,'https://shantanukishwar.substack.com/feed'),
+        ('India Wants to Know', 'https://iwtkquiz.substack.com/feed'),
         ('Wisdom Project', 'https://wisdomproject.substack.com/feed'),
         ('Bank on Basak', 'https://www.bankonbasak.com/feed'),
         ('Curated Commons', 'https://subbu.substack.com/feed'),
+        ('Environment of India', 'https://www.environmentofindia.com/feed'),
         ]
 
 #        ('Network Capital', 'https://www.thenetworkcapital.com/feed'),       
