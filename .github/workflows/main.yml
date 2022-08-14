@@ -17,7 +17,8 @@ jobs:
           python-version: 3.9 #install the python needed
       - name: execute py script # run the run.py to get the latest data
         run: |
-          python ./feedgen-scripts/civil.py
+          pip3 install requests feedgen beautifulsoup4 python-dateutil
+          python ./feedgen-scripts/civil.py          
           cp *.xml ./public/
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
