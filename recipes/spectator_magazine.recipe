@@ -1,0 +1,70 @@
+#!/usr/bin/env python
+# vim:fileencoding=utf-8
+# License: GPLv3 Copyright: 2015, Kovid Goyal <kovid at kovidgoyal.net>
+
+from __future__ import absolute_import, division, print_function, unicode_literals
+
+import time
+from calibre import random_user_agent
+from calibre.web.feeds.news import BasicNewsRecipe, prefixed_classes
+
+
+def absolutize(url):
+    if url.startswith('/'):
+        url =  'https://spectator.co.uk' + url
+    return url
+
+
+class Spectator(BasicNewsRecipe):
+
+    title = 'Spectator Magazine'
+    __author__ = 'Kovid Goyal'
+    description = 'Magazine'
+    language = 'en'
+    no_stylesheets = True
+
+    keep_only_tags = [
+        prefixed_classes('ContentPageHeader_main__ ContentPageHeader_metadata__ ContentPageHero_container__ ContentPageBody_body__container__'),
+        dict(name='noscript'),
+    ]
+    remove_attributes = ['style']
+
+    def parse_index(self):
+        soup = self.index_to_soup('https://www.spectator.co.uk/magazine/latest')
+        raw = str(soup)
+        # open('/t/raw.html', 'w').write(raw)
+        section, articles = 'Featured', []
+        feeds = []
+        for art in soup.findAll(**prefixed_classes(
+                'MagazineContent_spectator-magazine__section-title__ MagazineContent_spectator-magazine-content__article-card__')):
+            cls = art['class']
+            if not isinstance(cls, str):
+                cls = ' '.join(cls)
+            if 'section-title' in cls:
+                if articles:
+                    feeds.append((section, articles))
+                section = self.tag_to_string(art).strip()
+                articles = []
+                self.log(section)
+                continue
+            a = art.find('a', href=True)
+            url = absolutize(a['href'])
+            title = self.tag_to_string(a).strip()
+            hd = art.find(**prefixed_classes('ArticleCard_spectator-article-card__headline__'))
+            if hd:
+                title = self.tag_to_string(hd).strip()
+            desc = ''
+            dd = art.find(**prefixed_classes('ArticleCard_spectator-article-card__media-teaser__'))
+            if dd:
+                desc = self.tag_to_string(dd).strip()
+            self.log('\t', title, url)
+            if desc:
+                self.log('\t\t', desc)
+            articles.append({'title': title, 'url': url, 'description': desc})
+        if not feeds and '<script src="/main.js' in raw:
+            ua = random_user_agent(allow_ie=False)
+            self.log('Got old style main.js page, retrying with user agent:', ua)
+            self.browser.set_user_agent(ua)
+            time.sleep(1)
+            return self.parse_index()
+        return feeds
