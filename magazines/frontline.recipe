@@ -13,10 +13,10 @@ class Frontline(BasicNewsRecipe):
     use_embedded_content = False
     encoding = 'utf-8'
     oldest_article = 14
-    max_articles_per_feed = 50
     compress_news_images = True
     compress_news_images_auto_size = 10
     scale_news_images = (800, 800)
+    max_articles_per_feed = 50
     ignore_duplicate_articles = {'url'}
     # masthead_url = 'https://fl.thgim.com/static/theme/default/base/img/fllogo.png'
     remove_attributes = ['height', 'width']
@@ -36,7 +36,7 @@ class Frontline(BasicNewsRecipe):
             'overline mainart-title marginBottom10px articleBottomLine swiper-slide slide-caption artlead-text body-main article-container'
         )
     ]
-    remove_tags = [classes('dispatche-middle bigtitle')]
+    remove_tags = [classes('dispatche-middle bigtitle mobilesocialicons ece_frontpage')]
 
     remove_tags_after = [
         classes('body-main'),
