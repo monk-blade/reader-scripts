@@ -36,11 +36,17 @@ class Frontline(BasicNewsRecipe):
             'overline mainart-title marginBottom10px articleBottomLine swiper-slide slide-caption artlead-text body-main article-container'
         )
     ]
-    remove_tags = [classes('dispatche-middle bigtitle mobilesocialicons ece_frontpage')]
+    remove_tags = [classes('dispatche-middle bigtitle mobilesocialicons ece_frontpage shareicon-article')]
 
     remove_tags_after = [
         classes('body-main'),
     ]
+
+
+    extra_css = """
+    .lead-img-caption { font-size: 0.8rem; color: #c7c7c7; }
+    """
+
 
     feeds = [
         ('Cover Story',
