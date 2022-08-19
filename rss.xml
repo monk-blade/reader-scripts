@@ -1,781 +1,355 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 18 Aug 2022 01:48:22 +0000</lastBuildDate><item><title>History of the PIN code, which turns 50 this I-Day</title><link>https://www.civilsdaily.com/news/history-of-the-pin-code-which-turns-50-this-i-day/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Fri, 19 Aug 2022 01:44:25 +0000</lastBuildDate><item><title>Microsoft joins India’s Open Network for Digital Commerce (ONDC)</title><link>https://www.civilsdaily.com/news/microsoft-joins-indias-open-network-for-digital-commerce-ondc/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>PIN code</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>The 75th Independence Day coincides with another milestone in the country’s history — it was on August 15, 1972, that the Postal Index Number (PIN) was introduced in India.</p>
-<p>As the PIN code turns 50 on Monday, we look at its history and evolution.</p>
-<h4>Why was the PIN code introduced?</h4>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>ONDC</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>US firm Microsoft has become the first big tech company to join the Open Network for Digital Commerce (ONDC).</p>
+<p><strong>What does Microsoft joining ONDC mean?</strong></p>
 <ul>
-<li>According to the Department of Posts, there were 23,344 post offices, primarily in urban areas, in India at the time of Independence.</li>
-<li>But, the country was growing rapidly and the postal network had to keep pace.</li>
-<li>The PIN code was meant to ease the process of mail sorting and delivery in a country where different places, often, have the same or similar names, and letters are written in a wide variety of languages.</li>
+<li>Microsoft getting on board the ONDC wagon means the project gets its first international marquee name ahead of its Bengaluru launch.</li>
+<li>A number of participants are currently live on the ONDC network, offering a number of services in the e-commerce supply chain such as buying, selling and offering logistics services.</li>
 </ul>
-<h4>How does the PIN code work?</h4>
+<p><strong>Who else is on board</strong></p>
 <ul>
-<li>The PIN is made up of six digits.</li>
-<li>The first number indicates the postal region — Northern, Eastern, Western, Southern; and number 9, which signifies the Army Postal Service.</li>
-<li>The second number denotes a sub-region, and the third represents the sorting district.</li>
-<li>The remaining numbers narrow the geography further to the specific post office making the delivery.</li>
+<li>Among those that are live are Paytm, which has joined the platform as a buyer, and Reliance-backed Dunzo, which is offering logistics services for hyperlocal deliveries.</li>
+<li>Companies like Kotak, PhonePe, Zoho and Snapdeal are in the “advanced stage of development”, according to the ONDC website.</li>
+<li>Axis Bank, HDFC Bank and Airtel have already initiated integration with the network.</li>
+<li>According to some media reports, e-commerce giants Flipkart and Amazon are also considering joining the network.</li>
 </ul>
-<h4>Who was the person behind the initiative?</h4>
+<h4><strong>What is ONDC?</strong></h4>
 <ul>
-<li>The person behind the initiative was <strong><u>Shriram Bhikaji Velankar</u></strong>, additional secretary in the Union Ministry of Communications and a senior member of the Posts and Telegraphs Board.</li>
-<li>Velankar was also a Sanskrit poet of eminence who had been conferred the President’s Award for Sanskrit in 1996, three years before he died in Mumbai.</li>
-<li>He had set up a cultural group in Mumbai, called the Dev Vani Mandiram, which worked to create awareness about Sanskrit in India and foreign countries.</li>
-<li>Velankar was also the chairman of the World Philatelic Exhibition, called Indipex, which was held in New Delhi in 1973 and featured 120 countries.</li>
-<li>He retired from his government service on December 31, 1973.</li>
+<li>ONDC seeks to promote open networks, which are developed using the open-source methodology.</li>
+<li>The project is aimed at curbing “digital monopolies”.</li>
+<li>This is a step in the direction of making e-commerce processes open-source, thus creating a platform that can be utilized by all online retailers.</li>
+<li>They will encourage the usage of standardized open specifications and open network protocols, which are not dependent on any particular platform or customized one.</li>
 </ul>
-<h4>What are some parallel systems followed world over?</h4>
+<h4><strong>What does one mean by ‘Open-sourcing’?</strong></h4>
 <ul>
-<li>Globally, in the US, the Zone Improvement Plan (ZIP) code was introduced July 1, 1963, under the aegis of the Postal Service Nationwide Improved Mail Service plan to improve the speed of mail delivery.</li>
-<li>Under the old system letters went through about 17 sorting stops – the new system was going to be considerably less time-consuming utilizing newer, more mechanical systems.</li>
+<li>An open-source project means that anybody is free to use, study, modify and distribute the project for any purpose.</li>
+<li>These permissions are enforced through an open-source licence easing adoption and facilitating collaboration.</li>
 </ul>
-<h4>Is the PIN code still relevant?</h4>
+<h4><strong>What processes are expecting to be open-sourced with this project?</strong></h4>
 <ul>
-<li>With the spread of the Internet, when people are sending fewer letters, it is easy to question the relevance of the PIN code.</li>
-<li>But try to order food delivery or a parcel over online shopping and the importance of Velankar’s work in India will become evident.</li>
+<li>Several operational aspects including onboarding of sellers, vendor discovery, price discovery and product cataloguing could be made open source on the lines of Unified Payments Interface (UPI).</li>
+<li>If mandated, this could be problematic for larger e-commerce companies, which have proprietary processes and technology deployed for these segments of operations.</li>
 </ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/history-of-the-pin-code-which-turns-50-this-i-day/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Women heroes of India’s freedom struggle, mentioned by PM in his I-Day speech</title><link>https://www.civilsdaily.com/news/women-heroes-of-indias-freedom-struggle-mentioned-by-pm-in-his-i-day-speech/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Freedom fighters in news</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>In his Independence Day address to the nation the Prime Minister paid tributes to women freedom fighters for showing the world the true meaning of India’s “nari shakti”. A look at the women he named in his speech:</p>
-<h4>Rani Laxmibai</h4>
+<h4><strong>What is the significance of making something open-source?</strong></h4>
 <ul>
-<li>The queen of the princely state of Jhansi, Rani Laxmibai is known for her role in the First War of India’s Independence in 1857.</li>
-<li>Born Manikarnika Tambe in 1835, she married the king of Jhansi.</li>
-<li>The couple adopted a son before the king’s death, which the British East India Company refused to accept as the legal heir and decided to annex Jhansi.</li>
-<li>Refusing to cede her territory, the queen decided to rule on behalf of the heir, and later joined the uprising against the British in 1857.</li>
-<li>Cornered by the British, she escaped from Jhansi fort. She was wounded in combat near Gwalior’s Phool Bagh, where she later died.</li>
-<li>Sir Hugh Rose, who was commanding the British army, is known to have described her as “personable, clever…and one of the most dangerous Indian leaders”.</li>
+<li>Making a software or a process open-source means that the code or the steps of that process is made available freely for others to use, redistribute and modify.</li>
+<li>If the ONDC gets implemented and mandated, it would mean that all e-commerce companies will have to operate using the same processes.</li>
+<li>This could give a huge booster shot to smaller online retailers and new entrants.</li>
 </ul>
-<h4>Jhalkari Bai</h4>
+<h4><strong>What does the DPIIT intend from the project?</strong></h4>
 <ul>
-<li>A soldier in Rani Laxmibai’s women’s army, Durga Dal, she rose to become one of the queen’s most trusted advisers.</li>
-<li>She is known for putting her own life at risk to keep the queen out of harm’s way.</li>
-<li>Till date, the story of her valour is recalled by the people of Bundelkhand, and she is often presented as a representative of Bundeli identity.</li>
-<li>According to Ministry of Culture’s Amrit Mahotsav website, “Many Dalit communities of the region look up to her as an incarnation of God and also celebrate Jhalkaribai Jayanti every year in her honour.”</li>
+<li>ONDC is expected to digitize the entire value chain, standardize operations, promote inclusion of suppliers, derive efficiencies in logistics and enhance value for stakeholders and consumers.</li>
 </ul>
-<h4>Durga Bhabhi</h4>
+<h4><strong>Countering ‘Digital Monopoly’</strong></h4>
 <ul>
-<li>Durgawati Devi, who was popularly known as Durga Bhabhi, was a revolutionary who joined the armed struggle against colonial rule.</li>
-<li>A member of the Naujawan Bharat Sabha, she helped Bhagat Singh escape in disguise from Lahore after the 1928 killing of British police officer John P Saunders.</li>
-<li>During the train journey that followed, Durgawati and Bhagat Singh posed as a couple, and Rajguru as their servant.</li>
-<li>Later, as revenge for the hanging of Bhagat Singh, Rajguru, and Sukhdev, she made an unsuccessful attempt to kill the former Punjab Governor, Lord Hailey.</li>
-<li>Born in Allahabad in 1907 and married to Hindustan Socialist Republican Association (HSRA) member Bhagwati Charan Vohra, Durgawati, along with other revolutionaries, also ran a bomb factory in Delhi.</li>
+<li>Digital monopolies refer to a scenario wherein e-commerce giants or Big Tech companies tend to dominate and flout competition law pertaining to monopoly.</li>
+<li>The Giants have built their own proprietary platforms for operations.</li>
+<li>In March, India moved to shake up digital monopolies in the country’s $ 1+ trillion retail market by making public a draft of a code of conduct — Draft Ecommerce Policy, reported Bloomberg.</li>
+<li>The government sought to help local start-ups and reduce the dominance of giants such as Amazon and Walmart-Flipkart.</li>
+<li>The rules sought to define the cross-border flow of user data after taking into account complaints by small retailers.</li>
 </ul>
-<h4>Rani Gaidinliu</h4>
+<h4><strong>Processes in the ONDC</strong></h4>
 <ul>
-<li>Born in 1915 in present-day Manipur, Rani Gaidinliu was a Naga spiritual and political leader who fought the British.</li>
-<li>She joined the Heraka religious movement which later became a movement to drive out the British. She rebelled against the Empire, and refused to pay taxes, asking people to do the same.</li>
-<li>The British launched a manhunt, but she evaded arrest, moving from village to village.</li>
-<li>Gaidinliu was finally arrested in 1932 when she was just 16, and later sentenced for life. She was released in 1947.</li>
-<li>Then PM Nehru described Gaidinliu as the “daughter of the hills”, and gave her the title of ‘Rani’ for her courage.</li>
+<li>Sellers will be onboarded through open networks. Other open-source processes will include those such as vendor and price discovery; and product cataloging.</li>
+<li>The format will be similar to the one which is used in the Unified Payments Interface (UPI).</li>
+<li>Mega e-commerce companies have proprietary processes and technology for these operations.</li>
+<li>Marketplaces such as Amazon, Flipkart, Zomato, BigBasket and Grofers will need to register on the ONDC platform to be created by DPIIT and QCI.</li>
+<li>The task of implementing DPIIT’s ONDC project has been assigned to the Quality Council of India (QCI).</li>
 </ul>
-<h4>Rani Chennamma</h4>
+<h4><strong>Why such a move by the govt?</strong></h4>
 <ul>
-<li>The queen of Kittur, Rani Chennamma, was among the first rulers to lead an armed rebellion against British rule.</li>
-<li>Kittur was a princely state in present-day Karnataka.</li>
-<li>She fought back against the attempt to control her dominion in 1824 after the death of her young son. She had lost her husband, Raja Mallasarja, in 1816.</li>
-<li>She is seen among the few rulers of the time who understood the colonial designs of the British.</li>
-<li>Rani Chennamma defeated the British in her first revolt, but was captured and imprisoned during the second assault by the East India Company.</li>
+<li>This COVID pandemic has made every business to go digital.</li>
+<li>India is a country with 700 million internet users of whom large crunch of population are active buyers on e-coms.</li>
+<li>There are 9 platforms in the world which are billion user platform and all are private. This is the monopoly which the govt aims to hit.</li>
+<li>No country would ever want a few (foreign) companies to control their domestic e-commerce ecosystem.</li>
+<li>Countries like US are struggling to control their monopoly over the e-commerce giants leaving no space for Indian legislations to control these overseas companies.</li>
+<li>In India Amazon, Walmart, Uber are controlling larger crunch of share in the market leaving very less scope for domestic companies to cope up with.</li>
 </ul>
-<h4>Begum Hazrat Mahal</h4>
+<h4><strong>Scope for ONDCs success</strong></h4>
 <ul>
-<li>After her husband, Nawab of Awadh Wajid Ali Shah, was exiled after the 1857 revolt, Begum Hazrat Mahal, along with her supporters, took on the British and wrested control of Lucknow.</li>
-<li>She was forced into a retreat after the colonial rulers recaptured the area.</li>
+<li>Over last 50 years India is dealing with Big Tech companies with responsibility and pragmatic manner. Now it is also coming with new policies to control them.</li>
+<li>The drafting panel has extraordinary persons like Mr. Nandan Nilekani and others who were in Aadhar, NPCI, MyGov, Retail industry and these make it inclusive and innovative.</li>
+<li>India has successfully executed various public digital platforms like JAM Trinity, Aadhar linked projects. India for sure can handle its digital ecosystem better in e-coms too.</li>
+<li>Open-sourcing will benefit society at large as did the UPI.</li>
 </ul>
-<h4>Velu Nachiyar</h4>
+<h4><strong>Issues that can be raised</strong></h4>
 <ul>
-<li>Many years before the revolt of 1857, Velu Nachiyar waged a war against the British and emerged victorious. Born in Ramanathapuram in 1780, she was married to the king of Sivagangai.</li>
-<li>After her husband was killed in battle with the East India Company, she entered the conflict, and won with support of neighbouring kings.</li>
-<li>She went on to produce the first human bomb as well as establish the first army of trained women soldiers in the late 1700s.</li>
-<li>Her army commander Kuyili is believed to have set herself ablaze and walked into a British ammunition dump.</li>
-<li>She was succeeded by her daughter in 1790, and died a few years later in 1796.</li>
+<li>Draft E-Commerce policy can raise resistance from companies like Amazon, Flipkart, Walmart etc.</li>
+<li>They may raise hues over operability and ease of doing business.</li>
+<li>MSMEs have already raised the growing compliance burden for e-commerce.</li>
+<li>They have argued that the govt is technologically and digitally motivating everybody to get online and on the other hand it is culling their very ability to reach out to the consumer to get more people on board.</li>
 </ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/women-heroes-of-indias-freedom-struggle-mentioned-by-pm-in-his-i-day-speech/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Punjab bans use of 10 insecticides</title><link>https://www.civilsdaily.com/news/punjab-bans-use-of-10-insecticides/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Maximum Residue Limit (MRL)</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>Amid reports that several samples of basmati rice contained the residue of certain pesticides above the maximum residue level (MRL), the Punjab government has decided to ban the use of 10 formulations.</p>
-<h4>Which are the chemicals banned?</h4>
+<h4><strong>Possible issues with ONDC</strong></h4>
 <ul>
-<li>The State government believed that the sale, stock distribution, and use of Acephate, Buprofezin, Chloropyriphos, Methamidophos, Propiconazole, Thiamethoxam, Profenofos, Isoprothiolane, Carbendazim, and Tricyclazole was not in the interest of basmati rice growers.</li>
-<li>It is said that there is a risk of breaching the MRL fixed by the competent authority for basmati rice.</li>
-</ul>
-<h4>What is the Maximum Residue Limit (MRL)?</h4>
-<ul>
-<li>MRL is the highest level of pesticide residue that is legally tolerated in or on food or feed when pesticides are applied correctly in accordance with Good Agricultural Practice promulgated by Food and Agriculture Organization (FAO).</li>
-<li>The MRL is usually determined by repeated (on the order of 10) field trials at an appropriate pre-harvest interval or withholding period has elapsed.</li>
-<li>For many pesticides, this is set at the Limit of determination (LOD) – since only major pesticides have been evaluated and understanding of acceptable daily intake (ADI) is incomplete.</li>
-</ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/punjab-bans-use-of-10-insecticides/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Who was Kakasaheb Gadgil?</title><link>https://www.civilsdaily.com/news/who-was-kakasaheb-gadgil/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Kakasaheb Gadgil</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><img alt="" class="alignnone size-medium wp-image-621721" height="300" loading="lazy" sizes="(max-width: 290px) 100vw, 290px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/gadgil-290x300.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/gadgil-290x300.jpg 290w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/gadgil.jpg 550w" width="290"/></p>
-<p>The Gadgil Wada of Pune was recently lighted into tricolour for the 75th anniversary of Independence.</p>
-<blockquote><p><em>Gadgil Wada was where plans for the reconstitution of the socialist Rashtra Seva Dal took place in early 1940s, with socialists like S.M. Joshi, N.G. Gore, Shirubhau Limaye and Kakasaheb in the lead.</em></p></blockquote>
-<h4>Kakasaheb Gadgil</h4>
-<ul>
-<li>Gadgil was an Indian freedom fighter and politician from Maharashtra, India.</li>
-<li>He was also a writer. He wrote in both Marathi and English.</li>
-<li>Gadgil graduated from Fergusson College in Pune in 1918, and obtained a degree in Law in 1920.</li>
-<li>In India’s pre-independence days, freedom fighters Lokmanya Tilak, Mahatma Gandhi, Jawaharlal Nehru, and Vallabhbhai Patel influenced Gadgil.</li>
-<li>He joined the Indian National Congress in 1920, immediately after obtaining his law degree and started his active participation in the national freedom movement.</li>
-<li>He suffered imprisonment from the ruling British government eight times for the participation.</li>
-</ul>
-<h4>Notable work during freedom struggle</h4>
-<ul>
-<li>In India’s pre-independence days, Gadgil served as the secretary of Poona District Congress Committee (1921–25), the president of Maharashtra Pradesh Congress Committee (1937–45).</li>
-<li>He was elected to the central Legislative Assembly in 1934.</li>
-<li>Gadgil was a pioneer in social reform movements in Maharashtra in the 1930s.</li>
-<li>During the Civil Disobedience Movement, which began in 1930, Gadgil was listed as a leader for the Maharashtra Civil Disobedience Committee and the Pune War Council.</li>
-<li>He was associated with several public associations and institutions, including Sarvajanik Sabha, Pune; Young Men’s Association, Pune; Maharashtra Youth League, Bombay; Pune Central Cooperative Bank; and Pune Municipality.</li>
-</ul>
-<h4>Service after India’s independence</h4>
-<ul>
-<li>Between 1947 and 1952 Gadgil served as a minister in the first central cabinet of independent India.</li>
-<li>He held the portfolios of Public Works, and Mines and Power.</li>
-<li>In his first year in the central Cabinet, he initiated the project of building a military-caliber road from Pathankot to Srinagar via Jammu in Kashmir as a part of India’s activities in the 1947 Indo-Pakistan War.</li>
-<li>As a cabinet minister, he also initiated the important development projects pertaining to Bhakra, Koyna, and Hirakund dams.</li>
-<li>He was a member of the Congress Working Committee from 1952 to 1955.</li>
-<li>His son Vitthalrao Gadgil was a veteran congressman and MP from Pune Lok Sabha constituency, and his grandson Anant Gadgil is currently spokesman for Maharashtra Pradesh Congress Committee.</li>
-</ul>
-<h4>Authorship</h4>
-<ul>
-<li>Gadgil wrote several books and articles on politics, economics, law, and history.</li>
-<li>The following are some of Gadgil’s books:</li>
-</ul>
-<ol>
-<li>Pathik (autobiography)</li>
-<li>Rajya Shastra Wichar</li>
-<li>Shubha Shastra</li>
-<li>Waktrutwa Shastra</li>
-<li>Gyanbache Arthashastra</li>
-<li>Government from Inside</li>
-<li>Shikhancha Itihaas (history of Sikhs)</li>
-</ol>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/who-was-kakasaheb-gadgil/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Panel moots district-level survey to bring more children into adoption ambit</title><link>https://www.civilsdaily.com/news/panel-moots-district-level-survey-to-bring-more-children-into-adoption-ambit/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>CARA</p><p><strong>Mains level : </strong>Child Adoption</p></div></div><p>A report recently tabled on “Review of Guardianship and Adoption Laws” in Parliament has stated that- India despite a country with millions of orphans, there are only 2,430 children available for adoption.</p>
-<h4>What is the news?</h4>
-<ul>
-<li>There are many enthusiastic parents who are ready to adopt children.</li>
-<li>To address this paradox, a Parliamentary panel has recommended district-level surveys to proactively identify orphaned and abandoned children.</li>
-<li>According to the report, there were 27,939 prospective parents registered with the Child Adoption Resource Authority (CARA) as on December 2021, up from nearly 18,000 in 2017.</li>
-</ul>
-<h4>What is CARA?</h4>
-<ul>
-<li>Central Adoption Resource Authority (CARA) is an autonomous and statutory body of the Ministry of Women and Child Development. It was set up in 1990.</li>
-<li>It functions as the nodal body for the adoption of Indian children and is mandated to monitor and regulate in-country and inter-country adoptions.</li>
-<li>CARA is designated as the Central Authority to deal with inter-country adoptions in accordance with the provisions of the 1993 Hague Convention on Inter-country Adoption, ratified India in 2003.</li>
-<li>It primarily deals with the adoption of orphaned, abandoned and surrendered children through its associated and recognized adoption agencies.</li>
-</ul>
-<h4>Adoption Process</h4>
-<ul>
-<li>The eligibility of prospective adoptive parents living in India, duly registered on the <strong>Child Adoption Resource Information and Guidance System (CARINGS)</strong>, irrespective of marital status and religion, is Procedure for adoption adjudged by<strong> specialised adoption agencies</strong> preparing home study reports.</li>
-</ul>
-<ul>
-<li>The specialized adoption agency then secures court orders approving the adoption.</li>
-<li>All <strong>non-resident persons</strong> approach authorized adoption agencies in their foreign country of residence for registration under CARINGS.</li>
-<li>Their eligibility is adjudged by authorised foreign adoption agencies through home study reports.</li>
-<li>CARA then issues a pre-adoption ‘no objection’ certificate for foster care, followed by a court adoption order.</li>
-<li>A final <strong>‘no objection’ certificate from CARA</strong> or a conformity certificate under the adoption convention is mandatory for a passport and visa to leave India.</li>
-</ul>
-<h4>What else regulates child adoption?</h4>
-<ul>
-<li>The <strong><u>Juvenile Justice (Care and Protection of Children) Act, 2015</u></strong> permits the <strong><u>adoption of same-sex children</u></strong>, allowing biological or adopted parents to adopt a child of the same gender.</li>
-<li>A single or divorced person can adopt under the JJ Act, but a single male cannot adopt a girl child.</li>
-<li>According the <strong><u>Hindu Adoption and Maintenance Act, 1956 (HAMA)</u></strong>, a Hindu parent or guardian can place a child for adoption with another Hindu parent under the Act.</li>
-<li>A prospective parent can also adopt a male child if he has no other male children or grandchildren, or a female child if he has no other female children or grandchildren.</li>
-</ul>
-<h4>Issues with child adoption in India</h4>
-<ul>
-<li><strong>Parent-centrism:</strong> The current adoption approach is very parent-centred, but parents must make it child-centred.</li>
-<li><strong>Age of child:</strong> Most Indian parents also want a child between the ages of zero and two, believing that this is when the parent-child bond is formed.</li>
-<li><strong>Institutional issues:</strong> Because the ratio of abandoned children to children in institutionalised care is lopsided, there are not enough children available for adoption.</li>
-<li><strong>Lineage discrimination:</strong> Most Indians have a distorted view of adoption because they want their genes, blood, and lineage to be passed down to their children.</li>
-<li><strong>Red-tapism:</strong> Child adoption is also not so easy task after the Juvenile Justice Rules of 2016 and the Adoption Regulations of 2017 were launched.</li>
-</ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/panel-moots-district-level-survey-to-bring-more-children-into-adoption-ambit/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Have coastal ecosystem norms been violated?</title><link>https://www.civilsdaily.com/news/have-coastal-ecosystem-norms-been-violated/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>CAG Audit, CRZ norms</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>This week, the Comptroller and Auditor General (CAG) of India tabled a report in Parliament on whether steps taken by the Union Environment Ministry to conserve India’s coastal ecosystems have been successful.</p>
-<h4>Why in news?</h4>
-<ul>
-<li>The CAG frequently undertakes ‘performance audits’ of government programmes and ministries.</li>
-</ul>
-<h4>Centre’s obligations on conserving the coastline</h4>
-<ul>
-<li>The government has issued notifications under the <strong><u>Environment Protection Act, 1986</u></strong>, to regulate activities along India’s coasts particularly regarding construction.</li>
-<li>The <strong><u>Coastal Regulation Zone Notification (CRZ), 2019</u></strong> implemented by the Ministry, <strong><u>classifies the coastal area into different zones</u></strong> to manage infrastructure activities and regulate them.</li>
-</ul>
-<p>The three institutions responsible for the implementation of the CRZ are:</p>
-<ol>
-<li>National Coastal Zone Management Authority (NCZMA) at the <strong><u>Centre</u></strong>,</li>
-<li>State/Union Territory Coastal Zone Management Authorities (SCZMAs/UTCZMAs) in every <strong><u>coastal State and Union Territory</u></strong></li>
-<li>District Level Committees (DLCs) in <strong><u>every district</u></strong> that has a coastal stretch and where the CRZ notification is applicable</li>
-</ol>
-<h4>Functions under CRZ rules</h4>
-<ul>
-<li>These bodies examine if CRZ clearances granted by the government are as per procedure, if project developers are once given the go-ahead are complying with conditions and if the project development objectives under the Integrated Coastal Zone Management Programme (ICZMP) are successful.</li>
-<li>They also evaluate the measures taken up by the government towards achieving the targets under Sustainable Development Goals.</li>
-</ul>
-<h4>Also read</h4>
-<blockquote class="wp-embedded-content" data-secret="1kBr0inoKN"><p><a href="https://www.civilsdaily.com/news/what-are-crz-norms/">What are CRZ norms?</a></p></blockquote>
-<p><iframe class="wp-embedded-content" data-secret="1kBr0inoKN" frameborder="0" height="327" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.civilsdaily.com/news/what-are-crz-norms/embed/#?secret=2v1N5NP6nJ#?secret=1kBr0inoKN" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“What are CRZ norms?” — Civilsdaily" width="580"></iframe></p>
-<h4>Why did the CAG undertake this audit?</h4>
-<ul>
-<li>The CAG has a constitutional mandate to investigate and report on publicly funded programmes.</li>
-<li>The CAG conducted “pre-audit studies” and found that there were large-scale CRZ violations in the coastal stretches.</li>
-<li>Incidences of illegal construction activities (reducing coastal space) and effluent discharges from local bodies, industries and aquaculture farms had been reported by the media and this prompted it to undertake a detailed investigation.</li>
-</ul>
-<h4>What did the recent audit find?</h4>
-<p>The audit pointed out <strong><u>various categories of violations</u></strong>.</p>
-<ul>
-<li>There were instances of the Expert Appraisal Committees —who evaluate the feasibility of an infrastructure project and its environmental consequences — not being present during project deliberations.</li>
-<li>There were also instances of the members of the EAC being fewer than half of the total strength during the deliberations.</li>
-<li>The SCZMA had <strong><u>not been reconstituted</u></strong> in Karnataka and there was delayed reconstitution in the States of Goa, Odisha and West Bengal.</li>
-<li>The DLCs of Tamil Nadu lacked participation from local traditional communities. In Andhra Pradesh, DLCs were not even established.</li>
-<li>There were instances of <strong><u>projects being approved despite inadequacies</u></strong> in the Environment Impact Assessment (EIA) reports.</li>
-</ul>
-<h4>What problems did the CAG find in the States?</h4>
-<ul>
-<li><strong>Lack of strategy:</strong> Tamil Nadu didn’t have a strategy in place to conserve the Gulf of Mannar Islands.</li>
-<li><strong>Lack of monitoring:</strong> In Goa, there was no system for monitoring coral reefs and no management plans to conserve turtle nesting sites.</li>
-<li><strong>No scientific oversight:</strong> In Gujarat, instruments procured to study the physiochemical parameters of soil and water of the inertial area of the Gulf of Kutch weren’t used.</li>
-<li><strong>Monitoring issues:</strong> Sea patrolling in Gahirmatha Sanctuary, in Kendrapara, Odisha did not happen.</li>
-<li><strong>No information in public domain:</strong> There was no website to disseminate the information related to the NCZMA, the CAG found, which is a clear violation of the mandated requirements of the Authority.</li>
-</ul>
-<h4>What lies ahead?</h4>
-<ul>
-<li>These reports are placed before the Standing Committees of Parliament, which select those findings and recommendations that they judge to be the most critical to public interest and arrange hearings on them.</li>
-<li>In this case, the Environment Ministry is expected to explain omissions pointed out by the CAG and make amends.</li>
-</ul>
-<hr/>
-<h4>Back2Basics: Comptroller and Auditor General (CAG) of India</h4>
-<ul>
-<li>The CAG is the Constitutional Authority, established under Article 148 of the Constitution of India.</li>
-<li>They are empowered to Audit all receipts and expenditure of the GoI and the State Governments, including those of autonomous bodies and corporations substantially financed by the Government.</li>
-<li>The CAG is also the statutory auditor of Government-owned corporations.</li>
-<li>It conducts supplementary audit of government companies in which the Government has an equity share of at least 51 per cent or subsidiary companies of existing government companies.</li>
-<li>The reports of the CAG are laid before the Parliament/Legislatures and are being taken up for discussion by the Public Accounts Committees (PACs) and Committees on Public Undertakings (COPUs).</li>
-</ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/have-coastal-ecosystem-norms-been-violated/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Five years after SC verdict, talaq petitioners living as ‘half-divorcees’</title><link>https://www.civilsdaily.com/news/five-years-after-sc-verdict-talaq-petitioners-living-as-half-divorcees/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>Five years after the Supreme Court’s five-judge Bench under then CJI J.S. Khehar invalidated instant triple talaq in August 2017, the women petitioners continue to live a life of half-divorcees.</p>
-<h4>What is triple talaq?</h4>
-<ul>
-<li>‘Triple Talaq’ is a procedure of divorce under the Sharia Law which is a body of the Islamic law.</li>
-<li>Under this, a husband can divorce his wife by pronouncing ‘Talaq’ thrice.</li>
-<li>The Supreme Court invalidated instant triple talaq in the Shayara Bano versus the Union of India case while refraining from commenting on the state of their marriages directly.</li>
-</ul>
-<h4>What was the issue all about?</h4>
-<ul>
-<li>The case dates back to 2016 when the Supreme Court had sought assistance from the then Attorney General Mukul Rohatgi on pleas challenging the <strong><u>constitutional validity of “triple talaq”.</u></strong></li>
-<li>The hearing also included cases of <strong>“nikah halala” </strong>and<strong> “polygamy”</strong>, to assess whether Muslim women face gender discrimination in cases of divorce.</li>
-<li>The issue gained political momentum on March 2017 when the Personal Law Board (AIMPLB) told the Supreme Court that <strong>the issue of triple talaq falls outside the judiciary’s realm.</strong></li>
-<li>However, on August 22, the Supreme Court set aside the decade-old practice of instant triple talaq saying it was<strong> <u>violative of Article 14 and 21 of the Indian Constitution</u></strong>.</li>
-</ul>
-<h4>Why was triple talaq abolished?</h4>
-<ul>
-<li>In spite of protests by Muslim women and activists world-wide the procedure was <strong><u>most prevalent throughout the country.</u></strong></li>
-<li>There are several instances where ‘triple talaq’ has enabled husbands to <strong><u>divorce arbitrarily, devoid of any substantiation.</u></strong></li>
-<li>Oral talaq or ‘triple talaq’ <strong><u>delivered through social media platforms</u></strong> like Skype, text messages, email and WhatsApp have become an increasing cause of worry for the community.</li>
-<li>The ‘triple talaq’ has been <strong><u>abolished in 21 countries including Pakistan</u></strong>, but is still prevalent in India.</li>
-<li>The Centre reasons that these practices are <strong><u>against constitutional principles</u></strong> such as gender equality, secularism, international laws etc.</li>
-<li>When these practices are <strong><u>banned in Islamic theocratic countries</u></strong>, the practices could have absolutely no base in religion and are only prevalent to permit the dominance of men over women.</li>
-</ul>
-<h4>Why in news now?</h4>
-<ul>
-<li><strong>Half-divorce:</strong> Technically still married, practically divorced, they enjoy no conjugal rights nor receive any regular maintenance from the estranged husbands.</li>
-<li><strong>Cannot remarry:</strong> Practically abandoned, the women cannot remarry in the absence of a legally valid divorce.</li>
-<li><strong>No legal action:</strong> After the verdict, none of the men were visited by law enforcement bodies and told to take back their wives.</li>
-<li><strong>No legal implementation:</strong> Further, no arrests could be made for giving instant triple as the Muslim Women (Protection of Rights on Marriage) Act, 2019 came into force long after the pronouncement of instant talaq.</li>
-</ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/five-years-after-sc-verdict-talaq-petitioners-living-as-half-divorcees/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Controversial visit of a Chinese vessel to Hambantota</title><link>https://www.civilsdaily.com/news/controversial-visit-of-a-chinese-vessel-to-hambantota/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Chinese takeover of Hambantota port</p></div></div><p><img alt="" class="alignnone wp-image-621713" height="209" loading="lazy" sizes="(max-width: 371px) 100vw, 371px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/yang-300x169.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/yang-300x169.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/yang.jpg 600w" width="371"/></p>
-<p>Much recently, Sri Lanka approved the arrival of a Chinese satellite-tracking vessel to its southern Chinese-funded Hambantota port.</p>
-<h4>Why in news?</h4>
-<ul>
-<li>India has raised concerns over the ship’s visit.</li>
-<li>Caught in a delicate diplomatic and geopolitical spot, <strong><u>Colombo gave its nod despites India’s requests to deny the permission.</u></strong></li>
-<li>It is asserted that <a href="https://www.civilsdaily.com/sansad-tv-perspective-the-sri-lankan-default/">bankrupt Sri Lanka</a> succumbed to Chinese pressure after <strong><u>initially refusing</u></strong> the ship to dock.</li>
-</ul>
-<h4>Yuan Wang 5: The vessel</h4>
-<ul>
-<li>Yuan Wang 5 was described by the Sri Lankan government as a “scientific research ship”.</li>
-<li>The BRISL (Belt &amp; Road Initiative Sri Lanka), a Colombo-based organisation studying China’s ambitious connectivity project, was the first to draw attention to the visit.</li>
-<li>It said that the Yuan Wang 5 will conduct “satellite control and research tracking in the northwestern part of the Indian Ocean Region”.</li>
-<li>Vessels of the Yuan Wang class are said to be used for tracking and supporting satellite as well as intercontinental ballistic missiles by the People’s Liberation Army Strategic Support Force.</li>
-</ul>
-<h4>India’s reaction</h4>
-<ul>
-<li>India has expressed its concern over the Chinese vessel visit.</li>
-<li>It is carefully monitoring any development having a bearing on its security and economic interests.</li>
-</ul>
-<h4>How have other countries reacted?</h4>
-<ul>
-<li>The developments showed that Colombo was caught between the U.S. and India on the one hand, and China on the other.</li>
-<li>That too at a time when the Sri Lankan government is counting on all their support as the island nation, hit by a devastating economic crisis, embarks on debt restructuring ahead of a promised IMF package.</li>
-</ul>
-<h4>How did China respond?</h4>
-<ul>
-<li>China reacted strongly at Sri Lanka, following concerns voiced by India.</li>
-<li>It clarified that Sri Lanka is a transportation hub in the Indian Ocean.</li>
-<li>Scientific research vessels from various countries including China have made port calls in Sri Lanka for replenishment.</li>
-<li>Secondly, it invoked Sri Lanka’s sovereignty and the right to develop relations with other countries based on its development interests.</li>
-</ul>
-<h4>What is Sri Lanka’s stand?</h4>
-<ul>
-<li>It is reported that the US and Indian envoys were asked to provide concrete reasons for their objections.</li>
-<li>Not satisfied with the reasons being sufficient to refuse entry to the Chinese vessel, SL decided to inform the Chinese embassy in Colombo to inform the ship to continue its journey to Hambantota.</li>
-</ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/controversial-visit-of-a-chinese-vessel-to-hambantota/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Inclusive growth and social justice</title><link>https://www.civilsdaily.com/news/inclusive-growth-and-social-justice/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Inclusive growth, Social justice</p></div></div><h4><strong>Context </strong></h4>
-<ul>
-<li>Key findings of the World Inequality Report 2022 related to India: National Income: In India, the top 10% and top 1% hold respectively 57% and 22% of total national income.</li>
-</ul>
-<h4><strong>What is inclusive growth?</strong></h4>
-<ul>
-<li>Organization for Economic Co-operation and Development (OECD) defines Inclusive growth as the economic growth that is distributed fairly across society and creates opportunities for all. It refers to ‘broad-based’, ‘shared’, and ‘pro-poor growth’.</li>
-</ul>
-<h4><strong>What is social justice?</strong></h4>
-<ul>
-<li>Social justice is the view that everyone deserves equal economic, political and social rights and opportunities. Social workers aim to open the doors of access and opportunity for everyone, particularly those in greatest need.</li>
-</ul>
-<h4><strong>Meaning of Inclusiveness</strong></h4>
-<ul>
-<li>Inclusiveness is a concept that encompasses equity, equality of opportunity, and protection in market and employment transitions and is, therefore, an essential ingredient of any successful growth strategy.</li>
-</ul>
-<h4><strong>Need of inclusive growth </strong></h4>
-<ul>
-<li><strong>Complete development</strong>: India is the 7th largest by area and 2nd by population and 12th largest economy at market exchange rate. Yet, India is away from the development<strong>.</strong></li>
-<li><strong>Income inequality</strong>: Low agriculture growth, low quality employment growth, low human development, rural-urban divides, gender and social inequalities, and regional disparities etc. are the problems for the nation.</li>
-<li><strong>Human development: </strong>Reducing poverty and inequality and increasing economic growth are the main aim of the country through inclusive growth<strong>.</strong></li>
-</ul>
-<h4><strong>Need of social justice </strong></h4>
-<ul>
-<li><strong>Equality</strong>: We should shift from equality of outcomes to equality of opportunities.</li>
-<li><strong>Peace and Order</strong>: If the majority disregards smaller sections in the community, it drives them to rebellion.</li>
-<li><strong>Dignity</strong>: To ensure life to be meaningful and liveable with human dignity.</li>
-<li><strong>Mitigate Sufferings: </strong>It is a dynamic device to mitigate the sufferings of the poor, weak Dalits, tribal and deprived sections of the society.</li>
-<li><strong>Human Resources</strong>: It will help in the conservation of human resource by provision of health and education facilities.</li>
-<li><strong>Freedom to form political</strong>, economic or religious institutions: It will help to eradicate the challenges of caste system, untouchability and other discrimination in the society.</li>
-</ul>
-<h4><strong>Challenges before inclusive growth and social justice </strong></h4>
-<ul>
-<li><strong>Wage Gap: </strong>When it comes to wages in the workplace, there is a noticeable differentiation between men and women. According to the American Association of University Women (AAUW), in 2018, the gender pay gap from men and women for the same job was 82 percent. Stated simply, women make 82 percent of what men make doing the same work. This can be further broken down into a pay gap for minority men and women.</li>
-<li><strong>LGBTQ Oppression: </strong>When it comes to oppression and human rights, individuals of the Lesbian, Gay, Bisexual, Transsexual and Queer (LGBTQ) community face several forms of social injustice and oppression. For example, same sex marriages are outlawed in some states and countries. Additionally, transsexual students often face discrimination and bullying within school settings.</li>
-<li><strong>Education System: </strong>Globally, steps are being made to close the education gap between male and female students. However, there are still several areas around the world where girls may never set foot into a classroom at all. UNESCO notes that more than nine million girls never go to school, compared to only six million boys in areas of Africa.</li>
-<li><strong>Child Welfare: </strong>Social workers and human rights activists are working tirelessly to combat issues relating to children and their welfare. Despite their efforts, there are still several problems children face that are harmful to their health and mental wellbeing.</li>
-<li><strong>Forced Child Labour</strong>: Laws are in place around the world to ensure a safe work environment for children. These laws were drafted from historically harsh and dangerous working conditions for children. While many would like to believe that child labour is a thing of the past, it persists in some areas around the globe.</li>
-<li><strong>Child Abuse and Neglect</strong>: Thousands of children globally are being neglected. They’re also being physically, sexually and emotionally abused. The World Health Organization (WHO) reports that as many as a quarter of adults have been abused as children. This abuse has both social and economic impacts that include mental health problems.</li>
-</ul>
-<h4><strong>Government measures to address this challenge </strong></h4>
-<ul>
-<li>SETU(Self Employment and Talent Utilization)</li>
-<li>Skill India</li>
-<li>Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)</li>
-<li>Pradhan Mantri Jan Dhan Yojana</li>
-<li>MUDRA (Micro Units Development and Refinance Agency)Bank</li>
-</ul>
-<h4><strong>Way forward </strong></h4>
-<ul>
-<li>Equality of opportunity is the core of inclusive growth, and the inclusive growth emphasises to create employment and other development opportunities through rapid and sustained economic growth, and to promote social justice and the equality of sharing of growth results by reducing and eliminating inequality of opportunity.</li>
-</ul>
-<blockquote><p><strong>Mains question </strong></p>
-<p>Explain the term inclusive growth in brief. How we can achieve social justice through inclusive growth?</p></blockquote>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/inclusive-growth-and-social-justice/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Importance of India EU ties</title><link>https://www.civilsdaily.com/news/importance-of-india-eu-ties/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Green strategic partnership</p><p><strong>Mains level : </strong>EU–India Cooperation Agreement, Strategic Partnership</p></div></div><h4><strong>Context </strong></h4>
-<ul>
-<li>While India celebrates its 75th year of Independence, it also <strong>celebrates 60 years</strong> of diplomatic relations with the European Union (EU).</li>
-<li>A cooperation agreement signed in 1994 took the bilateral relationship beyond trade and economic cooperation.</li>
-</ul>
-<h4><strong>Definition </strong></h4>
-<ul>
-<li>Relations between the European Union and the Republic of India are currently defined by <strong>the 1994 EU–India Cooperation Agreement.</strong> The EU is a significant trade partner for India and the two sides have been attempting to negotiate <strong>a free trade</strong> deal since 2007.</li>
-</ul>
-<h4><strong>Common roadmap and shared vision</strong></h4>
-<ul>
-<li>The road map highlights engagement across five domains: foreign policy and security cooperation; trade and economy; sustainable modernisation partnership; global governance; and people-to-people relations.</li>
-</ul>
-<p> </p>
-<p><img alt="" class="alignnone wp-image-621903" height="322" loading="lazy" sizes="(max-width: 644px) 100vw, 644px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/euind-300x150.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/euind-300x150.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/euind-1024x512.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/euind-768x384.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/euind.jpg 1200w" width="644"/></p>
-<h4><strong>Brief history </strong></h4>
-<ul>
-<li>India-EU relations date to the early 1960s, with India being amongst the first countries to establish diplomatic relations with the European Economic Community.</li>
-<li>At the 5th India-EU Summit at The Hague in 2004, the relationship was upgraded to a <strong>‘Strategic Partnership’.</strong></li>
-<li>The two sides adopted <strong>a Joint Action Plan</strong> in 2005 (which was reviewed in 2008) that provided for strengthening dialogue and consultation mechanisms in the political and economic spheres, enhancing trade and investment, and bringing peoples and cultures together.</li>
-</ul>
-<h4><strong>What is strategic partnership?</strong></h4>
-<ul>
-<li>A ‘strategic partnership’, as the term suggests, involves a shared understanding between the two or more states involved on the nature of threats in the environment and the place of their collective power in helping mitigate the threats.</li>
-</ul>
-<h4><strong>Why they are important?</strong></h4>
-<ul>
-<li>As the world’s two largest democracies, the EU and India share a commitment to protecting and promoting human rights, a rules-based global order, effective multilateralism, sustainable development and open trade.</li>
-</ul>
-<h4><strong>Significance </strong></h4>
-<p>[A] <strong>Political Partnership</strong></p>
-<ul>
-<li>The Joint Political Statement signed in 1993, opened the way for annual ministerial meetings and a broad political dialogue.</li>
-<li>The <strong><u>Cooperation Agreement signed in 1994</u></strong> took the bilateral relationship beyond trade and economic cooperation.</li>
-<li>A multi-tiered institutional architecture of cooperation has since been created, presided over by the <strong><u>India-EU Summit since 2000</u></strong><strong>.</strong></li>
-<li>Today EU stands as a major reference for India’s legislative process in the field of <strong><u>Data security and privacy.</u></strong></li>
-</ul>
-<p>[B] <strong>Economic Ties</strong></p>
-<ul>
-<li><strong>Bilateral trade</strong>: The EU is India’s largest trading partner, while India is the EU’s 9<sup>th</sup> largest trading partner. It is the second-largest destination for Indian exports after the United States.</li>
-<li><strong>Investment</strong>: The EU’s share in foreign investment inflows to India has more than doubled from 8% to 18% in the last decade. This makes the EU an important foreign investor in India.</li>
-<li><strong>Preferential treatment</strong>: India is the benefactor of the unilateral preferential tariffs under the EU Generalised Scheme of Preferences (GSP).</li>
-<li><strong>Energy</strong>: Both sides have finalised civil nuclear cooperation agreement after 13 years of negotiations called as the European Atomic Energy Community (EURATOM). It involves collaboration in the civil nuclear energy sector.</li>
-<li><strong>Development cooperation:</strong><strong> </strong>Over €150 million worth of projects by EU are currently ongoing in India. European Investment Bank (EIB) is providing loans for Lucknow, Bangalore, and Pune Metro Projects.</li>
-</ul>
-<p>[C] <strong>Defence &amp; Security</strong></p>
-<ul>
-<li>EU and India have instituted several mechanisms for greater cooperation on pressing security challenges like <strong><u>counterterrorism, maritime security, and nuclear non-proliferation</u></strong><strong>.</strong></li>
-<li>Information Fusion Centre – Indian Ocean Region in New Delhi (IFC-IOR) has recently been linked-up with the Maritime Security Centre – Horn of Africa (MSC-HOA) established by the EU Naval Force (NAVFOR).</li>
-</ul>
-<p>[D] <strong>Climate Change</strong></p>
-<ul>
-<li>EU and India also underline their highest political commitment to the<strong> <u>effective implementation of the Paris Agreement</u> </strong>and the UNFCCC despite US withdrawing from the same.</li>
-<li><strong><u>India-EU Clean Energy and Climate Partnership</u></strong> was agreed at the 2016 Summit – to promote access to and disseminate clean energy and climate friendly technologies and encourage R&amp;D.</li>
-<li><strong><u>Energy cooperation</u></strong> is now ongoing on a broad range of energy issues, like smart grids, energy efficiency, offshore wind and solar infrastructure, and research and innovation.</li>
-<li>EU and India also cooperate closely on the <strong><u>Clean Ganga initiative</u></strong> and deal with other water-related challenges in coordinated manner.</li>
-</ul>
-<p>[E] <strong>Research and Development</strong></p>
-<ul>
-<li>India-EU Science &amp; Technology Steering Committee meets annually to review scientific cooperation.</li>
-<li>Both have official mechanisms in fields such as Digital Communications, 5G technology, Biotechnology, artificial intelligence etc.</li>
-<li>ISRO has a long-standing cooperation with the European Union, since 1970s. It has contributed towards the <strong><u>EU’s satellite navigation system Galileo</u></strong><strong>.</strong></li>
-</ul>
-<h4><strong>Future scope </strong></h4>
-<ul>
-<li><strong>Trade figures and Investments</strong>: Bilateral trade between the two surpassed $116 billion in 2021-22. The EU is India’s second largest trading partner after the U.S., and the second largest destination for Indian exports.</li>
-<li><strong>Job creation</strong>: There are 6,000 European companies in the country that directly and indirectly create 6.7 million jobs.</li>
-<li><strong>Green strategic partnership:</strong> between India and Denmark aims to address climate change, biodiversity loss and pollution, and the India-Nordic Summit focused on green technologies and industry transformation that are vital for sustainable and inclusive growth.</li>
-<li><strong>Energy security</strong>: Energy serves as an important aspect of the relationship between India and the EU. Given the impacts of climate change, this aspect has become extremely crucial today. Both entities have been pursuing cooperation for the joint development of clean energy.</li>
-<li><strong>Political cooperation</strong>: India and the EU may benefit from increasing cooperation in the resolution of issues such as terrorism and radicalization, cyber-security, coordinating on certain key and relevant aspects of foreign policy, and other humanitarian issues.</li>
-<li><strong>International support</strong>: It is crucial that Europe recognize India as a partner for peace that is committed to human rights, both regionally and internationally.</li>
-</ul>
-<h4><strong>Challenges before them </strong></h4>
-<ul>
-<li><strong>Deadlock over BTIA</strong>: The negotiations for a Broad-based Bilateral Trade and Investment Agreement (BTIA) were held between 2007 to 2013 but have remained dormant/suspended since then.</li>
-<li><strong>Export hurdles</strong>: Indian demands for ‘Data secure’ status (important for India’s IT sector) to ease norms on temporary movement of skilled workers, relaxation of Sanitary and Phytosanitary (SPS), etc. stands largely ignored.</li>
-<li><strong>Trade imbalance</strong>: This heavily leans towards China. India accounts for only 1.9% of EU total trade in goods in 2019, well behind China (13.8%).</li>
-<li><strong>Brexit altercations</strong>: In the longer term of balancing of global powers, a smaller Europe without the key military and economic force UK, is much weaker in the wake of an ambitious China and an increasingly protectionist US.</li>
-<li><strong>EU primarily remains a trade bloc:</strong> This has resulted in a lack of substantive agreements on matters such as regional security and connectivity.</li>
-<li><strong>Undue references to sovereign concerns</strong>: The European Parliament was critical of both the Indian government’s decision to scrap Jammu and Kashmir’s special status in 2019 and the Citizenship (Amendment) Act.</li>
-<li><strong>China’s influence</strong>: EU’s affinity lies with China. This is because of its high dependence on the Chinese market. It is a major partner in China’s Belt and Road Initiative (BRI).</li>
-<li><strong>Ukrainian war</strong>: EAM S. Jaishankar’s witty reply about EU’s oil import from Russia has not been welcomed across the EU. It still expects India to criticize Russia.</li>
-</ul>
-<p><strong>Way forward </strong></p>
-<ul>
-<li>A close bilateral relation between India and the EU has far-reaching economic, political and strategic implications on the crisis-driven international order.</li>
-<li>Both sides should realise this potential and must further the growth of the bilateral ties with a strong political will.</li>
-</ul>
-<blockquote><p><strong>Mains question</strong></p>
-<p>What do you understand by the term strategic partnership? India and EU are celebrating 60 years of diplomatic relations trace their journey with significance and challenges in their ties.</p></blockquote>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-<p> </p>
-<p> </p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/importance-of-india-eu-ties/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Nehru’s luminous legacy</title><link>https://www.civilsdaily.com/news/nehrus-luminous-legacy/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Public sector enterprise</p><p><strong>Mains level : </strong>Challenges of public sector undertakings</p></div></div><h4><strong><img alt="" class="alignnone size-medium wp-image-621908" height="300" loading="lazy" sizes="(max-width: 209px) 100vw, 209px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru-209x300.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru-209x300.jpg 209w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru-712x1024.jpg 712w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru-768x1104.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru-1069x1536.jpg 1069w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru-626x900.jpg 626w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru-1200x1725.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/Jnehru.jpg 1365w" width="209"/>Context </strong></h4>
-<ul>
-<li>Seventy-five years ago, India’s first Prime Minister Pandit Jawaharlal Nehru made these remarks in his <a href="https://www.youtube.com/watch?v=g0HvWuCiPZ4" rel="noopener" target="_blank">stirring speech on India attaining freedom at midnight</a>: “The achievement we celebrate today is but a step, an opening of opportunity, to the greater triumphs and achievements that await us. Are we brave enough and wise enough to grasp this opportunity and accept the challenge of the future?”</li>
-</ul>
-<h4><strong>Nehru’s vision for India </strong></h4>
-<ul>
-<li>Nehru’s vision of India was anchored in a set of ideas such as democracy, secularism, inclusive economic growth, free press and non-alignment in international affairs and also in institutions that would lay the foundation for India’s future growth.</li>
-</ul>
-<h4><strong>Leadership of Nehru after independence </strong></h4>
-<ul>
-<li>In 1947, Nehru, as Prime Minister, inherited an India that was politically shattered, socially divided and emotionally devastated. Yet, with restraint and self-confidence, he steered the country through those turbulent times and laid out the vision of a modern, progressive nation that quietly earned the respect of the global community.</li>
-</ul>
-<h4><strong>Temple of modern India </strong></h4>
-<ul>
-<li><strong>The Bhakra-Nangal Dam: </strong>The Bhakra-Nangal Dam project is a series of multi-purpose dams that were among the earliest river valley developments schemes undertaken by the government of India after independence. The project, though, had been conceived long before independence.</li>
-<li><strong>Bhilai Steel Plant</strong>: Bhilai, located in Chhattisgarh, was home to massive iron-ore deposits at Dalli Rajhara. Taking this into consideration, the government of India and the USSR entered into an agreement which was signed on March 2nd 1955, at New Delhi.</li>
-<li><strong>Bhabha Atomic Research Centre</strong>: The Atomic Energy Establishment, Trombay (AEET), was started by the government of India on January 3rd 1954 with the intention of consolidating all research and development activities for nuclear reactors and technology under the Atomic Energy Commission.</li>
-<li><strong>Indian Council of Agricultural Research (ICAR)</strong>: to support indigenous scientists like Boshi Sen, who is credited with producing hybrid maize and irradiated wheat mutant.</li>
-</ul>
-<p><img alt="" class="alignnone size-full wp-image-621909" height="168" loading="lazy" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/psu.jpeg" width="300"/></p>
-<h4><strong>Relevance of these institutions </strong></h4>
-<ul>
-<li><strong>Economic Development</strong>:Economic development mainly depends upon industrial development. Heavy &amp; basic industries like iron &amp; steel, shipping, mining, etc. are required for supplying raw materials to small industries.</li>
-<li><strong>Regional Development</strong>:Private sector usually neglect backward area. But public sector organizations set up their units in economically backward areas. By this public sector removes regional imbalance &amp; brings regional development.</li>
-<li><strong>Employment</strong>:Various public sectors operating in India needs lot of manpower &amp; this provide employment to unlimited individuals according to their education, experience &amp; abilities.</li>
-<li><strong>Service Motive</strong>: Public sector organizations are working with the only motive of providing public utility services to society at large irrespective of profit.</li>
-<li><strong>Sound Infrastructure</strong>:Rapid industrial growth in a country needs sound infrastructure. Infrastructural industries require huge capital for construction of Roads, Railways, Electricity &amp; many such industries. Private sector is unable to have such huge capital &amp; that also without any high return but public sector can easily afford to provide all infrastructural facilities.</li>
-</ul>
-<h4><strong>Some challenges they face today </strong></h4>
-<ul>
-<li><strong>Inefficient Management: </strong>It has been found that these enterprises are managed by public savants. They are not professionally qualified nor experts in the management of industrial enterprises.</li>
-<li><strong>Lack of Efficiency: </strong>They are not run on commercial principles. Their main motto is social welfare, not profit earning.</li>
-<li><strong>Lack of Innovations</strong>: Innovations are essential for economic development. Public enterprise lacks it due to monopoly or lack of competition. The private sector is always busy with innovating new techniques, new production methods, etc. For the purpose of cost reduction and profit maximization.</li>
-</ul>
-<h4><strong>Some suggestions to address the challenges </strong></h4>
-<ul>
-<li><strong>Sound business principles</strong>: The enterprise should be run on sound business principles. There should be focus on improving efficiency in all functional areas. Policies, systems and procedures should be modified with the aim of making the enterprise flexible, efficient and profitable.</li>
-<li><strong>Autonomy</strong>: Public enterprises should have considerable autonomy in their functioning. Authority should be delegated and they should have the freedom to take decisions. Autonomy would ensure that decisions are taken at the right time and growth opportunities utilized in the best possible manner.</li>
-<li><strong>Freedom from political interference</strong>: Many public enterprises are considered to be the kingdoms of politicians. They are run to suit the needs and requirements of the ruling party.</li>
+<li>Every platform has its own challenges so would the ONDC may have.</li>
+<li>While UPI was ruled out (BHIM being the first) people were reluctant in using it due to transaction failures.</li>
+<li>With subsequent improvements and openness people and businesses are using it in every walks of life. So it would work with ONDC.</li>
 </ul>
 <h4><strong>Conclusion</strong></h4>
 <ul>
-<li>Today, opinions are divided about the iconic leader. While Nehru always had his critiques even back in the day, a significant section of the masses despise the dynasty politics of the Congress that ensued after his passing in 1964.</li>
-<li>However, his contributions to India’s freedom, and as a Prime Minister to his country are acknowledged by people both within and outside India. His shortcomings do not take away from the legacy he cemented as a propagator for freedom, and as the free nation’s first Prime Minister.</li>
+<li>Once adopted, ONDC will make sure consumer and seller interest will be protected as the UPI did.</li>
+<li>Best is yet to come and we are in 4th industrial revolution where the Govt should strengthen itself accordingly and make businesses inclusive and restrict the monopolies.</li>
 </ul>
-<blockquote><p><strong>Mains question </strong></p>
-<p>Assess the Nehruvian legacy of public sector. Do you think they are still relevant today? While discussing challenges they face what suggestion will you give to improve their performance.</p></blockquote>
+<p> </p>
 <p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/nehrus-luminous-legacy/</guid><pubDate>Tue, 16 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Assessment of discoms</title><link>https://www.civilsdaily.com/news/assessment-of-discoms/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/microsoft-joins-indias-open-network-for-digital-commerce-ondc/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Justice Lalit appointed 49th CJI</title><link>https://www.civilsdaily.com/news/justice-lalit-appointed-49th-cji/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>National Open Access Registry (NOAR):</p><p><strong>Mains level : </strong>UDAY,RDSS</p></div></div><h4></h4>
-<h4></h4>
-<h4><strong><img alt="" class="alignnone wp-image-621970" height="250" loading="lazy" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/power.jpeg" width="333"/>Context </strong></h4>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Appointment of CJI</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><img alt="" class="alignnone size-full wp-image-618698" height="900" loading="lazy" sizes="(max-width: 665px) 100vw, 665px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/cji.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/cji.jpg 665w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/cji-222x300.jpg 222w" width="665"/></p>
+<p>Justice Uday Umesh Lalit was appointed the 49th Chief Justice of India (CJI) after President Droupadi Murmu signed his warrant of appointment.</p>
+<h4><strong>How is CJI selected?</strong></h4>
 <ul>
-<li>The Andhra Pradesh (A.P.) power distribution companies (DISCOMs) subscribed to the Late Payment Surcharge (LPS) scheme introduced by the Central government to reduce their liability to generators in a phased manner over the next 12 months.</li>
+<li>Justice U.U. Lalit is the senior-most judge in the Supreme Court now.</li>
+<li>The ‘<strong><u>Memorandum of Procedure of Appointment of Supreme Court Judges’</u></strong> says “appointment to the office of the CJI should be of the seniormost Judge of the SC considered fit to hold the office”.</li>
+<li>The <strong><u>process begins with the Union Law Minister seeking the recommendation of the outgoing CJI</u></strong> about the next appointment.</li>
 </ul>
-<h4><strong>What are discoms?</strong></h4>
+<h4><strong>What is the time frame?</strong></h4>
 <ul>
-<li><strong>Power distribution companies </strong>collect payments from consumers against their energy supplies (purchased from generators) to provide necessary cash flows to the generation and transmission sectors to operate.</li>
+<li>The Minister has to seek the CJI’s recommendation at the “<strong><u>appropriate time</u></strong>”.</li>
+<li>The Memorandum <strong><u>does NOT elaborate or specify a timeline</u></strong>.</li>
 </ul>
-<h4><strong>What is UDAY scheme? </strong></h4>
+<h4><strong>Making final appointment</strong></h4>
+<p>The Memorandum says:</p>
+<ol>
+<li>Receipt of the recommendation of the CJI</li>
+<li>The Union Minister of Law, Justice and Company Affairs will put up the recommendation to the PM</li>
+<li>PM will advise the President in the matter of appointment</li>
+<li>President of India appoints the CJI</li>
+</ol>
+<h4><strong>Chief Justice of India: A brief background</strong></h4>
 <ul>
-<li>Ujjwal DISCOM Assurance Yojana is the financial turnaround and revival package for electricity distribution companies of India initiated by the Government of India with the intent to find a permanent solution to the financial mess that the power distribution is in.</li>
+<li>The CJI is the chief judge of the Supreme Court of India as well as the highest-ranking officer of the Indian federal judiciary.</li>
 </ul>
-<h4><strong>What is The Revamped Distribution Sector Scheme (RDSS)? </strong></h4>
+<p><strong>Appointment</strong></p>
 <ul>
-<li>The revamped power distribution sector scheme aims to: Improve operational efficiencies, financial sustainability of discoms and power departments. Provide financial assistance to discoms. Modernise and strengthen distribution infrastructure. Improve reliability and quality of supply to the end consumers.</li>
+<li>The Constitution of India grants power to the President to nominate, and with the advice and consent of the Parliament, appoint a chief justice, who serves until they reach the age of 65 or until removed by impeachment.</li>
+<li>Earlier, it was a convention to appoint seniormost judges.</li>
+<li>However, this has been broken twice. In 1973, Justice A. N. Ray was appointed superseding 3 senior judges.</li>
+<li>Also, in 1977 Justice Mirza Hameedullah Beg was appointed as the chief justice superseding Justice Hans Raj Khanna.</li>
 </ul>
-<h4><strong>Low performance of Discoms</strong></h4>
-<p><strong>1) On the basis of AT&amp;C losses</strong></p>
+<p><strong>Qualifications </strong></p>
+<p>The Indian Constitution says in Article 124 (3) that in order to be appointed as a judge in the Supreme Court of India, the person has to fit in the following criteria:</p>
 <ul>
-<li>A key metric to measure the performance of discoms is<strong> AT&amp;C losses.</strong></li>
-<li>The UDAY scheme had envisaged bringing down these losses to <strong>15 per cent by 2019.</strong></li>
-<li>However, as per data on the UDAY dashboard, the AT&amp;C losses <strong>currently stand at 21.7 per cent at the all-India level.</strong></li>
-<li>In the case of the<strong> low-income north and central-eastern states</strong> — Uttar Pradesh, Bihar, Jharkhand and Chhattisgarh — the losses are considerably higher.</li>
+<li>He/She is a citizen of India and</li>
+<li>has been for at least five years a Judge of a High Court or of two or more such Courts in succession; or</li>
+<li>has been for at least ten years an advocate of a High Court or of two or more such Courts in succession; or</li>
+<li>is, in the opinion of the President, a distinguished jurist</li>
 </ul>
-<p><strong>2) On the basis of cost and revenue per unit</strong></p>
+<h4><strong>Functions</strong></h4>
 <ul>
-<li>On another metric — the gap between discoms costs and revenues — the difference, supposed to have been eliminated by now, <strong>stands at Rs 0.49 per unit</strong> in the absence of regular and commensurate tariff hikes.</li>
-<li>For the<strong> high-income southern states</strong> of Tamil Nadu, Andhra Pradesh, and Telangana,<strong> this gap between costs and revenues is significantly higher.</strong></li>
+<li>As head of the Supreme Court, the CJI is responsible for the allocation of cases and appointment of constitutional benches which deal with important matters of law.</li>
+<li>In accordance with Article 145 of the Constitution and the Supreme Court Rules of Procedure of 1966, the chief justice allocates all work to the other judges.</li>
 </ul>
-<h4><strong>What are the factors responsible for inefficiencies?</strong></h4>
-<p><strong>1) Electrification push without cost restructuring</strong></p>
+<p>On the administrative side, the CJI carries out the following functions:</p>
 <ul>
-<li>The government’s push for ensuring electrification of all have contributed to<strong> greater inefficiency.</strong></li>
-<li> To support higher levels of electrification, cost structures need to be reworked, and the distribution network would need to be augmented —<strong> in the absence of all this, losses are bound to rise</strong>.</li>
+<li>maintenance of the roster; appointment of court officials and general and miscellaneous matters relating to the supervision and functioning of the Supreme Court</li>
 </ul>
-<p><strong>2) Economic fallout of the pandemic</strong></p>
+<p><strong>Removal</strong></p>
 <ul>
-<li>With demand from <strong>industrial and commercial users</strong> falling, revenue from this stream, which is used to <strong>cross-subsidise other consumers,</strong> has declined, exacerbating the stress on discom finances.</li>
-<li>A turnaround in the economy will provide some relief, but will not form the basis of a sustained improvement in finances.</li>
+<li>Article 124(4) of the Constitution lays down the procedure for removal of a judge of the Supreme Court which is applicable to chief justices as well.</li>
+<li>Once appointed, the chief justice remains in the office until the age of 65 years. He can be removed only through a process of removal by Parliament as follows:</li>
+<li>He/She can be removed by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present.</li>
+<li>The voting has been presented to the President in the same session for such removal on the ground of proven misbehavior or incapacity.</li>
 </ul>
-<p><strong>3) Lack of consumer data and metering</strong></p>
-<ul>
-<li> Even six years after UDAY was launched, various levels in the distribution chain — the feeder, the distribution transformer (DT) and the consumer — have not been fully metered.</li>
-<li>As a result, it is difficult to ascertain the level in the chain where losses are occurring.</li>
-<li>Other than discoms in metros like Delhi and Mumbai, there is also <strong>limited data on which consumer is attached to which DT.</strong></li>
-<li>This lack of data makes it difficult to isolate and identify loss-making areas and <strong>take corrective action.</strong></li>
-</ul>
-<p><strong>4) No tariff hike</strong></p>
-<ul>
-<li>The continuing absence of political consensus at the state level <strong>to raise tariffs</strong> or to bring down AT&amp;C losses signal a lack of resolve to tackle the issues plaguing the sector.</li>
-</ul>
-<h4><strong>Suggestions to improve the situation </strong></h4>
-<ul>
-<li><strong>Single discom:</strong> One of the solution centres around a national power distribution company.</li>
-<li><strong>Financial adjustment</strong>: Another option is to deduct discom dues, owed to both public and private power generating companies, from state balances with the RBI forcing states to take the necessary steps to fix discom finances.</li>
-<li><strong>National Open Access Registry (NOAR):</strong> NOAR is a centralized online platform through which the short-term open access to the inter-state transmission system is being managed in India.</li>
-<li><strong>Promote privatization</strong>: Since in an earlier policy statement the government had mentioned that privatization of discoms is to be promoted, it would make sense to consider this transitional support as a catalyst.</li>
-<li><strong>Provide transitional financial support</strong>: An alternate approach that could be considered by the Centre (in lieu of such assistance schemes) is providing only transitional financial support to all discoms, which are privatized under the private-public partnership mode.</li>
-</ul>
-<p><strong style="font-size: 32px; letter-spacing: -0.0415625em; font-family: 'Inter var', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif;">Conclusion</strong></p>
-<ul>
-<li>Continuously subsidising discoms for their AT&amp;C losses (operational inefficiencies), and for not supplying power at commensurate tariffs to low-income households and agricultural customers (for political considerations) will become fiscally untenable.</li>
-</ul>
-<blockquote><p><strong>Mains question</strong></p>
-<p><strong>Q.There</strong><strong> is growing demand for one nation one grid in this context Discuss the problems faced by various discoms. Suggest some robust solutions to address these problems sustainably.</strong></p></blockquote>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 <p> </p>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/assessment-of-discoms/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Journey towards innovation</title><link>https://www.civilsdaily.com/news/journey-towards-innovation/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/justice-lalit-appointed-49th-cji/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Labour welfare necessity</title><link>https://www.civilsdaily.com/news/labour-welfare-necessity/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Samba mashuri rice, Wax Deoiling Technology</p><p><strong>Mains level : </strong>CSIR ,IPR regime</p></div></div><p><strong><img alt="" class="alignnone wp-image-621975" height="290" loading="lazy" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/csir.jpeg" width="387"/>Context </strong></p>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Labour welfare initiatives</p></div></div><p><strong>Context </strong></p>
 <ul>
-<li>Senior scientist Nallathamby Kalaiselvi was appointed the director general of the Council of Scientific and Industrial Research (CSIR), on Saturday, August 6, 2022. This makes her the <strong>first woman to head the largest research and development organisation in India</strong>, which runs 38 laboratories and institutes, 39 outreach centres, and <strong>three innovation centres. </strong></li>
+<li>One of the biggest economic fallout of the pandemic has been the deteriorating labour market conditions.</li>
+<li>In the years ahead when the health crisis subsides and the economy witnesses a rebound, the healing of the labour market may take some more time. This is because the impact of recovery on this market is always felt with a lag.</li>
+<li>Given the ebb and flow of the pandemic, the growth recovery is likely to be fragmented and will weigh on the number and types of jobs available.</li>
 </ul>
-<p><strong>What is CSIR?</strong></p>
+<h4><strong>Definition</strong></h4>
 <ul>
-<li>The Council of Scientific and Industrial Research, abbreviated as CSIR, was established by the Government of India in September 1942 as an autonomous body that has emerged as the largest research and development organisation in India.</li>
-<li>CSIR covers a wide spectrum of science and technology – from oceanography, geophysics, chemicals, drugs, genomics, biotechnology and nanotechnology to mining, aeronautics, instrumentation, environmental engineering and information technology.</li>
+<li>Labour welfare relates to taking care of the well-being of workers by employers, trade unions, governmental and non-governmental institutions and agencies.</li>
+<li>Welfare includes anything that is done for the comfort and improvement of employees and is provided over and above the wages.</li>
 </ul>
-<p><strong>Who established it?</strong></p>
+<h4><strong>What are labour rights?</strong></h4>
 <ul>
-<li><strong>Dr Shanti Swarup Bhatnagar</strong></li>
-<li>He was the Founder Director (and later first Director-General) of CSIR who is credited with establishing twelve national laboratories. He played a significant role in the building of post-independent Science and Technology infrastructure and in the formulation of India’s S &amp; T policies</li>
+<li>Labour rights or workers’ rights are both legal rights and human rights relating to labour relations between workers and employers. These rights are codified in national and international labour and employment law. In general, these rights influence working conditions in relations of employment.</li>
 </ul>
-<p><strong>CSIR’s Vision</strong></p>
+<h4><strong>Why labour law is needed </strong></h4>
 <ul>
-<li>“Pursue science which strives for global impact, technology that enables innovation – driven industry and nurture trans-disciplinary leadership thereby catalyzing inclusive economic development for the people of India”</li>
+<li>Labour law aims to correct the imbalance of power between the worker and the employer; to prevent the employer from dismissing the worker without good cause; to set up and preserve the processes by which workers are recognized as ‘equal’ partners in negotiations about their working conditions etc<strong>.</strong></li>
 </ul>
-<p><strong>Why CSIR is important?</strong></p>
+<h4><strong>Constitutional mandate </strong></h4>
 <ul>
-<li><strong>Innovation</strong>: Regarding intellectual property, the CSIR has over 2971 patents filed internationally with 1592 patents filed in India. Since its inception in 1942 over 14000 patents have been granted worldwide. It was awarded the National Intellectual Property Award in 2018 by the India Patent Office.</li>
-<li><strong>Pandemic handling</strong>: CSIR identified the unmet needs, assessed its strengths and capabilities for addressing the pandemic and adopted a <strong>multi-pronged strategy</strong> of working on diagnostics, surveillance, drugs, hospital assistive devices, personal protective equipment and supply chain and logistics. This strategy is now beginning to yield exciting solutions.</li>
+<li><strong>Article 41</strong> – The state shall within the limits of its economic capacity and development make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement and in other cases of underserved want.</li>
+<li><strong>Article 42</strong> – The state shall make provision for securing just and humane conditions of work and for maternity relief.</li>
 </ul>
-<p><strong>Contribution of CSIR </strong></p>
-<p><strong>Strategic Sector</strong></p>
+<h4><strong>Necessity for welfare </strong></h4>
 <ul>
-<li><strong>Head-Up-Display (HUD) </strong>In high-tech areas, CSIR-NAL made significant contribution by developing indigenous Head-Up- display(HUD) for Indian Light Combat Aircraft, Tejas. HUD aids the pilot in flying the aircraft and in critical flight maneuvers including weapon aiming.</li>
-<li><strong>Design and Development of Indigenous Gyrotron: Addressing the challenges of technology denial:</strong>Design and development of indigenous gyrotron for nuclear fusion reactor has been accomplished.</li>
+<li>There were only 25 million during the initial period of industrial growth, while the strength of the workers is increasing year after year and hence, need for a mechanism to look into the welfare of the labour.</li>
+<li>Workers put in long hours of work in unhealthy surrounding and the drudgery of the factory work continues to have adverse effect. To counter these welfare measures were felt necessary.</li>
+<li>As a result of hardwork, they fall prey to alchoholism, gambling and other immoral activities results in absenteeism and other problems in the organisation. Hence the need was felt.</li>
 </ul>
-<p><strong>Energy &amp; Environment</strong></p>
+<h4><strong>Scope for labour welfare in India </strong></h4>
 <ul>
-<li><strong>Solar Tree: </strong>On July 22<sup>nd</sup>a solar tree designed by CSIR- CMERI lab in Durgapur was  launched which occupies minimum space to produce clean power.</li>
-<li><strong>Wax Deoiling Technology:</strong>Technology developed for recovery of wax developed in collaboration with Engineers India Limited (EIL) and Numaligarh Refinery Ltd., (NRL). Country’s largest wax producing (50,000 metric ton) plant has been commissioned at NRL with investment of over Rs 600 crore.</li>
+<li>Contribute to the productivity of labour and efficiency of the enterprise.</li>
+<li>Raise the standard of living of workers by indirectly reducing the burden on their purse.</li>
+<li>Be in tune and harmony with similar services obtaining in a neighbouring community where an enterprise is situated.</li>
+<li>Be based on an intelligent prediction of the future needs of industrial work and be so designed as to offer a cushion to absorb the shock of industrialization and urbanization</li>
+<li>Be administratively viable and essentially development in outlook.</li>
 </ul>
-<p><strong>Value added Agriculture</strong></p>
+<h4><strong>Government steps in this direction </strong></h4>
 <ul>
-<li><strong>Medicinal and Aromatic Plants:</strong>Enhanced cultivation of Medicinal and Aromatic Plants in the country brought about through development of new varieties and agro-technologies.</li>
-<li><strong>Samba Mahsuri Rice Variety – Bacterial Blight Resistant:</strong>CSIR has in collaboration with DRR (ICAR) and DBT part funding developed an improved bacterial blight resistant Samba Mahsuri variety.</li>
-<li><strong>Rice Cultivar (Muktashree) for Arsenic Contaminated Areas:</strong>A rice variety has been developed which restricts assimilation of Arsenic within permissible limit. The variety has been released to farmers of West Bengal.</li>
-<li><strong>White-fly resistant Cotton variety:</strong>Developed a transgenic cotton line which is resistant to whiteflies. It is expected to render it commercially cultivable in 10 years, after due regulatory clearances.</li>
+<li><strong>Social Security Measures: </strong>The social security measures would help man to face the contingencies as such it is difficult for him either to work or to get work and support himself and his family. Thus social security measure provides a self balancing social insurance or assistance from public funds.</li>
+<li><strong>Social Insurance</strong>: is described as the giving in return for contribution, benefits up to subsistence level, as of right and without a means test, so that an individual may build freely upon it.</li>
+<li><strong>Social Assistance</strong>: is provided as an supplement to social insurance for those needy persons who cannot get social insurance payments and is offered after a means test.</li>
+<li><strong>Public Service</strong>: is a programme constituting the third main type of social security. They are financed directly by the government from its general revenues in form of cash payments or services to every member of the community falling within a defined category.</li>
 </ul>
-<p><strong>Healthcare</strong></p>
+<h4><strong>Case study of Finland </strong></h4>
 <ul>
-<li><strong>JD Vaccine for Farm Animals:</strong>Vaccine developed and commercialized for Johne’s disease affecting Sheep, Goat, Cow and Buffalo so as to immunize them and increase milk and meat production.</li>
-<li><strong>Plasma Gelsolin Diagnostic Kit for Premature Births, and Sepsis related Deaths:</strong>A new kit is being developed to diagnose pre-mature birth and sepsis.</li>
-<li><strong>Genomics and other omics technologies for Enabling Medical Decision – GOMED</strong>: Genetic diseases, though are individually rare, cumulatively affect a large number of individuals. A programme called GOMED (Genomics and other omics technologies for Enabling Medical Decision) has been developed by the CSIR which provides a platform of disease genomics to solve clinical problems.</li>
+<li><strong>Universal basic income pilot project:</strong> For two years Finland’s government gave 2,000 unemployed citizens €560 a month with no strings attached. It was the first nationwide basic income experiment. The concept is slowly becoming difficult for people to ignore.</li>
 </ul>
-<p><strong>  Food &amp; Nutrition</strong></p>
+<h4><strong>Challenges in labour welfare in India </strong></h4>
 <ul>
-<li><strong>Ksheer-scanner: </strong>The Ksheer Scanner, a new technological invention by CSIR-CEERI detects the level of milk adulteration and adulterants in 45 seconds at the cost of 10 paise,</li>
-<li><strong>Double-Fortified Salt:</strong>Salt fortified with iodine and iron having improved properties developed and tested for addressing anaemia in people. To be launched in the market soon.</li>
-<li><strong>Anti-obesity DAG Oil:</strong>Oil enriched with Diacylglycerol (DAG) instead of conventional triacylglycerol (TAG) developed. To be launched in the market soon.</li>
+<li><strong>Technical glitches:</strong> Under the Constitution of India, Labour is a subject in the concurrent list where both the Central and State Governments are competent to enact legislation. As a result, a large number of labour laws have been enacted catering to different aspects of labour e.g. occupational health, safety, employment etc.</li>
+<li><strong>Loopholes:</strong> Because of the predominantly heavy-handed labour regulations (also called as Inspector Raj) with exploitable gaps, the MNCs and domestic organizations have resorted to alternate ways i.e. employing contract labour at less than half the payroll of a permanent employee.</li>
+<li><strong>Gaps in labour laws:</strong> One of the main reasons for labour reforms is the concept of contract labour. Trade Unions suggest that this concept itself should be removed. There is stringent hiring and firing process defined in Industry Disputes Act. It makes it mandatory for the organization to seek Government permission before removing an employee.</li>
 </ul>
-<p><strong>Water</strong></p>
+<h4><strong>Conclusion </strong></h4>
 <ul>
-<li><strong>Aquifer Mapping of Water Scarce Areas: </strong>Heliborne transient electromagnetic and surface magnetic technique based aquifer mapping carried out in six different geological locations in Rajasthan (2), Bihar, Karnataka, Maharashtra and Tamil Nadu.</li>
-<li><strong>Understanding the Special Properties of the Ganga Water:</strong>Assessment of Water Quality &amp; Sediment Analysis of Ganga from different parts being done.</li>
+<li>Labour Welfare helps labourers improve their working conditions, providing social security and raising their standard of living.</li>
+<li>Raise the employee’s morale use the workforce more effectively besides removing dissatisfaction help to develop loyalty in workers towards the organization.</li>
 </ul>
-<p><strong>Some of the challenges faced for sustainable growth of R&amp;D in India are</strong></p>
-<ul>
-<li><strong>Low research professionals</strong>: India has an estimated full-time equivalent R&amp;D professional strength of only 150 professionals per million, compared to that of other countries.</li>
-<li><strong>Low investment</strong>: Indian research is mostly skewed towards basic research and lacks in application oriented R&amp;D. The vast majority of organizations would rather go for quick acquisition of technology rather than invest in internal R&amp;D.</li>
-<li><strong>IPR enforcement</strong>: Inadequate enforcement of intellectual property rights (IPR). While India has improved its IPR regime, the protection of intellectual property remains weak in some areas owing to inadequate laws and ineffective enforcement.</li>
-</ul>
-<p><strong>Some positive suggestions to improve innovation </strong></p>
-<ul>
-<li><strong>Embrace technology: </strong>Technologies, such as machine learning, can be used to improve R&amp;D decision-making. Documents need to be filed throughout the R&amp;D process, for example, and the process could be automated to free up employees to do more complex tasks.</li>
-<li><strong>Invest in innovation hubs</strong>: Companies that invest in innovation hubs expand talent and relationships with local universities and startups can support a two-way learning process and faster innovation cycles.</li>
-<li><strong>Promoting startups</strong>: Most radical innovations are coming from startups and more of them are needed. Tilting higher education towards science and encouraging more students to take degrees in science-based subjects can provide the people needed for R&amp;D.</li>
-</ul>
-<p><strong>Conclusion </strong></p>
-<p>India is a strong contender in the field of Global R&amp;D. For India to derive maximum growth and sustainability of R&amp;D, its R&amp;D fundamentals have to be strong and excellent.</p>
-<blockquote><p><strong>Mains question</strong></p>
-<p><strong>Q.Culture of innovation is needed in national growth in this context discuss what is IPR regime? How CSIR has helped to consolidate it?</strong></p></blockquote>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+<blockquote>
+<h4><strong>Mains question </strong></h4>
+<p><em>Q.What is labour welfare according to you? Why it is needed? Explain the challenges in front of Indian labour reforms<strong>.</strong></em></p></blockquote>
 <p> </p>
-<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noreferrer noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/journey-towards-innovation/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Development vs sustainability</title><link>https://www.civilsdaily.com/news/development-vs-sustainability/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/labour-welfare-necessity/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Concept of ‘Lifestyle for the Environment’</title><link>https://www.civilsdaily.com/news/concept-of-lifestyle-for-the-environment/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Green carbon fee</p><p><strong>Mains level : </strong>Sustainable development</p></div></div><p><strong><img alt="" class="alignnone wp-image-622029" height="331" loading="lazy" sizes="(max-width: 551px) 100vw, 551px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/ccapacity-300x180.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/ccapacity-300x180.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/ccapacity-1024x614.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/ccapacity-768x461.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/ccapacity-1200x720.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/ccapacity.jpg 1400w" width="551"/>Context </strong></p>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Concept of LiFE</p><p><strong>Mains level : </strong>Paper 3- LiFE movement</p></div></div><h4>Context</h4>
+<p>In the midst of a global climate crisis, and as India gets closer to hosting the G20 presidency, it is important to recognise our country’s leadership at both ends of the climate debate: By walking the talk on our climate commitments as well as leading people-powered climate action.</p>
+<h4>Power of individual and collective action to address the climate change</h4>
 <ul>
-<li>According to NITI Aayog, “600 million people in India face high to extreme water stress with nearly 70% of water being contaminated; <strong>India is placed at 120th amongst 122 countries in the water quality index”.</strong></li>
-<li>The latest <strong>global environmental ranking </strong>by Yale and Columbia Universities puts India at the <strong>bottom</strong> among 180 countries.</li>
+<li><strong>Adopting eco-friendly behaviours</strong>: According to the United Nation Environment Programme (UNEP), if one billion people out of the global population of close to eight billion <strong>adopt eco-friendly behaviours</strong> in their daily lives, global carbon emissions could drop by <strong>approximately 20 per cent. </strong></li>
+<li>Such eco-friendly behaviours include turning off ACs, heaters and lights when not in use, as this, for instance, can conserve up to 282 kilowatts of electricity per day.</li>
+<li>Avoiding food wastage can reduce an individual’s carbon footprint by 370 kg per year.</li>
 </ul>
-<p><strong>What is development?</strong></p>
+<h4>The concept of Lifestyle for Environment</h4>
 <ul>
-<li>Economic development means different things to different people. On a broad scale, anything a community does to foster and create a healthy economy can fall under the auspice of economic development.</li>
+<li>In November 2021, at the CoP 26 in Glasgow, Prime Minister Narendra Modi, in addition to announcing the panchamrit, or five climate-related commitments of the country, also articulated the concept of <strong>“Lifestyle for the Environment” (LiFE).</strong></li>
+<li><strong>Mindful and deliberate utilisation:</strong> The concept advocate for <strong>mindful and deliberate utilisation</strong> by people worldwide, instead of “mindful and wasteful consumption”.</li>
+<li>LiFE was launched on June 5, 2022, World Environment Day, by PM Modi, with a vision of harnessing the power of individual and collective action across the world to address the climate crisis.</li>
+<li>The objective of the movement is to nudge individuals and communities to adopt simple and specific climate-friendly behaviours in their daily lifestyles.</li>
+<li> For instance, an individual can carry a reusable cloth bag instead of a plastic bag.</li>
+<li>By making such daily actions an integral part of our collective social norms, LiFE aims to activate <strong>a global community of “Pro Planet People”</strong> and steer the world towards a sustainable model of development.</li>
+<li><strong>Global precedents:</strong> There are already precedents of pro-planet initiatives around the world.</li>
+<li>For example, <strong>Denmark promotes the use of bicycles by limiting parking within the city centre</strong> and providing exclusive bike lanes.</li>
+<li>Japan has its unique <strong>“walk-to-school” mandate,</strong> which has been in practice since the early 1950s.</li>
+<li> LiFE, however, is planned as a <strong>first-of-its-kind global movement,</strong> led by India in partnership with other countries, that will provide the world with a unique people-powered platform to relentlessly focus on bringing individual and collective actions to the core of the climate action narrative.</li>
 </ul>
-<p><strong>What is sustainability?</strong></p>
+<h4>How the LiFE moment can change people’s behaviour</h4>
 <ul>
-<li>The integration of environmental health, social equity and economic vitality in order to create thriving, healthy, diverse and resilient communities for this generation and generations to come. The practice of sustainability recognizes how these issues are interconnected and requires a systems approach and an acknowledgement of complexity.</li>
-<li>Sustainability is the balance between the <strong>environment, equity, and economy.</strong></li>
+<li><strong>1] Consume responsibly:</strong> The prevailing perception that climate-friendly behaviour necessarily implies a frugal lifestyle has played a major role in preventing populations worldwide from adopting a sustainable lifestyle.</li>
+<li>LiFE plans to methodically break down this mental model by nudging the world to consume responsibly, rather than consuming less.</li>
+<li><strong>Using behavioural technique:</strong> Building on the unique insights from <strong>Swachh Bharat Mission (SBM),</strong> LiFE will deploy a range of tested behavioural techniques, including <strong>nudges, social and behaviour change communication</strong> and norm influencing to make mindful consumption a mass movement.</li>
+<li><strong>2] Produce responsibly:</strong> Our society reflects our markets and vice versa.</li>
+<li>If sustainable choices are not supported from the supply-side, any change in our consumption patterns will only be temporary.</li>
+<li>By nudging the consumption patterns of the society at scale, LiFE can also trigger <strong>a huge boost for the sustainability market.</strong></li>
+<li>Several green industries and a large number of jobs are likely to be initiated as a positive externality of LiFE.</li>
+<li><strong>3] Live responsibly: </strong>The Covid pandemic is a wake-up call to all of us that no matter how much technological progress we make as a global society, we all remain at the mercy of the natural world.</li>
+<li>As a global community of people with a shared natural world, a threat to one is a threat to all.</li>
+<li>In this context, through its multi-dimensional, multi-cultural and global approach, the LiFE movement can play a pivotal role in not merely reversing the effects of climate change but, at a broader level, mainstream a harmonious and mindful way of living.</li>
 </ul>
-<p><strong>What sustainability do for us?</strong></p>
-<ul>
-<li>Sustainable practices support ecological, human, and economic health and vitality.</li>
-<li>Sustainability presumes that <strong>resources are finite</strong>, and should be used conservatively and wisely with a view to long-term priorities and consequences of the ways in which resources are used.</li>
-<li>In simplest terms, <strong>sustainability is about our children and our grandchildren</strong>, and the world we will leave them.</li>
-</ul>
-<p><strong>Definition of carrying capacity of earth</strong></p>
-<ul>
-<li><strong>Carrying capacity</strong>: Carrying capacity is the <strong>maximum number of a species an environment can support indefinitely</strong>. Every species has a carrying capacity, even humans. The species population size is limited by environmental factors like adequate food, shelter, water, and mates. If these needs are not met, the population will decrease until the resource rebounds.</li>
-</ul>
-<p><strong>Mother earth has reached its carrying capacity now </strong></p>
-<ul>
-<li>No species has altered the Earth’s natural landscape the way humans have.</li>
-<li>Global climate change, mass extinction, and overexploitation of our <strong>global commons</strong> are all examples of the ways in which humans have altered the natural landscape.</li>
-<li>Our growing population, coupled with rising affluence and <strong>per capita impact</strong>, is driving our planet closer to its tipping point.</li>
-<li>With population expected to reach <strong>5 billion by 2050</strong>, many wonder if our natural resources can keep up with our growing demands.</li>
-</ul>
-<blockquote><p><strong>Enrich your mains answer with this</strong></p>
-<p>8 Billion dreams, ambitions, aspirations and only one earth to support them all . Human population, now nearing 8 billion, cannot continue to grow indefinitely. There are limits to the life-sustaining resources earth can provide us. In other words, there is a carrying capacity for human life on our planet.</p></blockquote>
-<p><strong>Development vs environment issues </strong></p>
-<ul>
-<li><strong>Unemployment</strong>: For India, the national context is shaped by high youth unemployment, millions more entering the workforce each year, and a country hungry for substantial investments in hard infrastructure to industrialise and urbanise.</li>
-<li><strong>Growth with low emission footprint</strong>: India’s economic growth in the last three decades, led by growth in the services sector, has come at a significantly lower emissions footprint.</li>
-<li><strong>Infrastructure</strong>: But in the coming decades, India will have to move to an investment-led and manufacturing-intensive growth model to create job opportunities and create entirely new cities and infrastructure to accommodate and connect an increasingly urban population.</li>
-</ul>
-<blockquote><p><strong>Why a Carbon Fee and Dividend is Imperative</strong></p>
-<p>It is clear that we will soon pass the limit on carbon emissions, because it requires decades to replace fossil fuel energy infrastructure with carbon-neutral and carbon negative energies.</p></blockquote>
-<p><strong>What could India do to pursue an industrialization pathway that is climate-compatible?</strong></p>
-<ul>
-<li>A coherent <strong>national transition strategy</strong> is important in a global context where industrialised countries are discussing the imposition of carbon border taxes while failing to provide developing countries the necessary carbon space to grow or the finance and technological assistance necessary to decarbonise.</li>
-<li>What India needs is an overarching <strong>green industrialisation strategy</strong> that combines laws, policy instruments, and new or reformed implementing institutions to steer its decentralised economic activities to become climate-friendly and resilient.</li>
-</ul>
-<table style="height: 248px;" width="576">
-<tbody>
-<tr>
-<td width="601"><strong>Case study for value addition </strong>
-<ul>
-<li><strong>Bhutan</strong>: Bhutan remains, for example, the first and only <a href="https://www.weforum.org/agenda/2017/10/this-is-the-worlds-first-carbon-negative-country" rel="noopener" target="_blank">carbon-negative </a>country in the world, and they have also recently prevented the <a href="https://www.theatlantic.com/international/archive/2021/02/coronavirus-pandemic-bhutan/617976/" rel="noopener" target="_blank">COVID-19 pandemic</a> from overwhelming its population, with only one Bhutanese citizen  passing away from the virus to date.</li>
-</ul>
-<p> </p></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<p><strong>Way forward</strong></p>
-<ul>
-<li>India should set its pace based on its ability to capitalise on the opportunities to create wealth through <strong>green industrialisation.</strong></li>
-</ul>
-<blockquote><p><strong>Mains question</strong></p>
-<p><strong>Do you think mother earth has reached its carrying capacity? Discuss this in context of development vs environment debate.</strong></p></blockquote>
+<h4>Conclusion</h4>
+<p>As the world moves in fits and starts towards its shared commitment to achieve ambitious climate goals, the time is ripe for India to lead the LiFE movement and mainstream it into the climate narrative.</p>
 <p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-<p> </p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/development-vs-sustainability/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Super Vasuki: India’s longest train</title><link>https://www.civilsdaily.com/news/super-vasuki-indias-longest-train/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/concept-of-lifestyle-for-the-environment/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Backsliding on climate action</title><link>https://www.civilsdaily.com/news/backsliding-on-climate-action/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Paris agreement</p><p><strong>Mains level : </strong>Paper 3- Climate change</p></div></div><h4>Context</h4>
+<p>Europe is staring at a recession and its appetite for climate action is waning.</p>
+<h4>Developed countries moving away from commitment</h4>
+<ul>
+<li>Countries in Europe led by Germany, Austria and the Netherlands are cranking up their coal plants again.</li>
+<li>Fossil fuels are making a comeback and countries are rejecting the European Union (EU)’s plan to reduce natural gas consumption by 15%. Dutch, Polish and other European farmers are protesting against emission cuts from agriculture.</li>
+<li>In the U.S. too, the Senate and the Supreme Court have struck blows to climate action.</li>
+<li>And in the U.S. too, prices of fuel started increasing last year, not just this year.</li>
+<li>Fossil fuels are making a quiet comeback, since the strength of the U.S. is its oil and gas industry.</li>
+<li>That is why we have just witnessed a ‘re-calibration’ of U.S. policy towards the Gulf.</li>
+<li>Coal, oil and gas are not going anywhere in the developed world; they are, in fact, making a comeback.</li>
+<li>The West had rushed to draw down on fossil fuels even before technology for renewables were in place.</li>
+</ul>
+<h4>Global peaking issue</h4>
+<ul>
+<li>Article 4 of the Paris Agreement defines ‘Global Peaking’ thus: “In order to achieve the long-term temperature goal set out in Article 2, Parties aim <strong>to reach global peaking</strong> of greenhouse gas emissions as soon as possible, recognizing that peaking will take longer for developing country Parties.”</li>
+<li>The developed countries, given their historical emissions, will have to peak first.</li>
+<li>That’s why the reference is to<strong> ‘global peaking’</strong> and not ‘individual peaking’.</li>
+<li>From this, it logically follows that when developing country parties peak later than developed countries, they will also achieve net zero later than developed countries.</li>
+<li>Consequently, it is the logical conclusion of the Article 4 of the Paris Agreement that when we consider net zero, we should only consider ‘global net zero’ and not ‘individual net zero’ for 2050.</li>
+<li>The statement calls on developed countries to do a net negative on mitigation by 2050 rather than just “net zero”, if they are serious about fighting climate change.</li>
+<li>In effect, the West needs to do a net minus and not just net zero.</li>
+<li>Thanks to the efforts of India, the phrase used in the 2021 summit-level declarations at both G-20 and Quad is ‘global net zero’. We need to build on this understanding.</li>
+<li>India stands as beacon of hope in renewables.</li>
+<li>It is time for all developing countries, especially the small island developing states, to make sure that the developed world doesn’t backslide on its commitments on mitigation yet again.</li>
+</ul>
+<h4>Way forward for developing countries</h4>
+<ul>
+<li>With countries of the developed world almost sure to renege on their 2030 Paris Agreement commitments, countries of the developing world must do everything to hold the countries of the developed world to their commitments.</li>
+<li>The Western nations have already started reinterpreting the Paris Agreement and look to downgrade their commitments.</li>
+<li>The concept of net zero is being cleverly misinterpreted.</li>
+<li> To bring this to the attention of the Global South, India, China and eight other countries from Africa, Asia and Latin America made a cross-regional statement on ‘global net zero’ on June 7 at the UN on World Environment Day.</li>
+</ul>
+<h4>Conclusion</h4>
+<p>COP 27 in Egypt gives us that opportunity to hold their feet to the fire. It is time for the developed world to make net minus pledges. If we don’t collectively push for it, we will be collectively pushed back.</p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank"><strong>UPSC 2022 countdown has begun! Get your personal guidance plan now! (Click here)</strong></a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/backsliding-on-climate-action/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>The poor state of India’s fiscal federalism</title><link>https://www.civilsdaily.com/news/the-poor-state-of-indias-fiscal-federalism/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Finance Commission</p><p><strong>Mains level : </strong>Paper 2- Issues with fiscal federalism in India</p></div></div><h4>Context</h4>
+<p class="intro">The centralisation of fiscal powers in India has been blamed for the poor fiscal health of the states.</p>
+<h4>Centralisation of fiscal powers: A background</h4>
+<ul>
+<li>Jawaharlal Nehru believed that socio-economic inequities could be addressed through the planning process.</li>
+<li>A degree of <strong>centralisation in fiscal power</strong> was required to address the concerns of socio-economic and regional disparities.</li>
+<li>As a result asymmetric federalism is inherent to the Indian Constitution.</li>
+<li>India was never truly federal — it was a ‘holding together federalism’ in contrast to the ‘coming together federalism,’ in which smaller independent entities come together to form a federation (as in the United States of America).</li>
+<li>In fact, the Government of India Act 1935 was more federal in nature than the Constitution adopted on January 26, 1950 as the first offered more power to its provincial governments.</li>
+<li>Historically, India’s <strong>fiscal transfer</strong> worked through two pillars, i.e., the<strong> Planning Commission and the Finance Commission. </strong></li>
+<li>But the waning of planning since the 1990s, and its abolition in 2014, led to the Finance Commission becoming a major means of fiscal transfer as the commission itself broadened its scope of sharing all taxes since 2000 from its original design of just two taxes — income tax and Union excise duties.</li>
+<li> Today, the Finance Commission became a politicised institution with arbitrariness and<strong> inherent bias towards the Union government.</strong></li>
+<li>Tamil Nadu government constituted a committee under Justice P.V. Rajamannar in 1969, the first of its kind by a State government, to look at Centre-State fiscal relations and recommend more transfers and taxation powers for regional governments.</li>
+</ul>
+<h4>Declining fiscal capacity of the states</h4>
+<ul>
+<li>While States lost their capacity to generate revenue by surrendering their rights in the wake of the Goods and Services Tax (GST) regime, their <strong>expenditure pattern</strong> too was distorted by the Union’s intrusion, particularly through its centrally sponsored schemes.</li>
+<li>The ability of States to finance current expenditures from their own revenues has declined from <strong>69% in 1955-56 to less than 38% in 2019-20.</strong></li>
+<li>While the expenditure of the States has been shooting up, their revenues did not.</li>
+<li><strong>Stagnant revenue:</strong> Since States cannot raise tax revenue because of curtailed indirect tax rights — subsumed in GST, except for petroleum products, electricity and alcohol — the revenue has been stagnant at 6% of GDP in the past decade.</li>
+</ul>
+<h4>Implications of fiscal centralisation in India</h4>
+<ul>
+<li><strong>Use of non-divisive cess:</strong> Even the increased share of devolution, mooted by the <strong>Fourteenth Finance Commission, from 32% to 42%,</strong> was subverted by raising non-divisive cess and surcharges that go directly into the Union kitty.</li>
+<li> This non-divisive pool in the Centre’s gross tax revenues shot up to<strong> 15.7% in 2020 from 9.43%</strong> in 2012, shrinking the divisible pool of resources for transfers to States.</li>
+<li><strong>Cut in the corporate tax:</strong> The recent drastic cut in corporate tax, with its adverse impact on the divisible pool, and ending GST compensation to States have had huge consequences.</li>
+<li><strong>States paying high interest rates:</strong> States are forced to pay differential interest — about 10% against 7% — by the Union for market borrowings.</li>
+<li><strong>Centrally sponsored schemes curbing autonomy:</strong>  There are 131 centrally sponsored schemes, with a few dozen of them accounting for 90% of the allocation, and States required to share a part of the cost.</li>
+<li>They spend about 25% to 40% as matching grants at the expense of their priorities.</li>
+<li>These schemes, driven by the <strong>one-size-fits-all approach</strong>, are given precedence over State schemes, undermining the electorally mandated democratic politics of States.</li>
+<li>In fact, it is the schemes conceived by States that have proved to be beneficial to the people and that have contributed to social development.</li>
+<li>Driven by democratic impulses, States have been successful in innovating schemes that were <strong>adopted at the national level.</strong></li>
+<li>The diversion of a State’s own funds to centrally sponsored schemes, thereby depleting resources for its own schemes, violates constitutional provision.</li>
+<li><strong>Deepening inequality:</strong> The World Inequality Report estimates ‘that the ratio of private wealth to national income increased from 290% in 1980 to 555% in 2020, one of the fastest such increases in the world.</li>
+<li>The poorest half of the population has less than 6% of the wealth while the top 10% nearly grab two-third of it’.</li>
+<li>India’s tax-GDP ratio has been one of the lowest in the world — 17% of which is well below the average ratios of emerging market economies and OECD countries’ about 21% and 34%, respectively.</li>
+<li>Its income tax base has been very narrow.</li>
+<li>Indirect tax still accounts for about<strong> 56% of total taxes.</strong></li>
+<li>Instead of strengthening direct taxation, the Union government slashed corporate tax from 35% to 25% in 2019 and went on to monetise its public sector assets to finance infrastructure.</li>
+</ul>
+<h4>Conclusion</h4>
+<p>In sum, India’s fiscal federalism driven by political centralisation has deepened socio-economic inequality, belying the dreams of the founding fathers who saw a cure for such inequities in planning. It has not altered inter-state disparities either.</p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank"><strong>UPSC 2022 countdown has begun! Get your personal guidance plan now! (Click here)</strong></a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/the-poor-state-of-indias-fiscal-federalism/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Super Vasuki: India’s longest train</title><link>https://www.civilsdaily.com/news/super-vasuki-indias-longest-train/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Super Vasuki</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><img alt="" class="alignnone size-medium wp-image-622107" height="173" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/vasuki-300x173.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/vasuki-300x173.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/vasuki.jpg 750w" width="300"/></p>
 <p>The Railways conducted a test run of its longest freight train, Super Vasuki, with 295 loaded wagons carrying over 27,000 tonnes of coal.</p>
@@ -1040,7 +614,7 @@
 </div><!-- .entry-content -->
 </div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/govt-incurs-revenue-loss-of-%e2%82%b91-84-lakh-crore/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>How to bring Indian women into the workforce?</title><link>https://www.civilsdaily.com/news/how-to-bring-indian-women-into-the-workforce/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Labour force participation rate (LFPR)</p><p><strong>Mains level : </strong>Women's partificaption in workforce</p></div></div><p><img alt="" class="alignnone size-medium wp-image-622108" height="183" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/wlfpr-300x183.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/wlfpr-300x183.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/wlfpr.jpg 719w" width="300"/></p>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Labour force participation rate (LFPR)</p><p><strong>Mains level : </strong>Women's partificaption in workforce</p></div></div><p><img alt="" class="alignnone size-medium wp-image-622108" height="183" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/wlfpr-300x183.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/wlfpr-300x183.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/wlfpr.jpg 719w" width="300"/></p>
 <p>Fewer than one in five Indian women are in the labour force. Four out of five are neither working nor looking for work.</p>
 <h4>Why in news?</h4>
 <ul>
@@ -1094,4 +668,414 @@
 <p> </p>
 <p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/how-to-bring-indian-women-into-the-workforce/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item></channel></rss>
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/how-to-bring-indian-women-into-the-workforce/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Deciding the terms of debate on freebies, subsidies and compensation</title><link>https://www.civilsdaily.com/news/deciding-the-terms-of-debate-on-freebies-subsidies-and-compensation/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Not much</p><p><strong>Mains level : </strong>Paper 2- Debate on subsidies</p></div></div><h4>Context</h4>
+<p>The Reserve Bank of India, in a report published in June, linked the precarious state of state finances to “freebies”, particularly power subsidies, and last week, the Supreme Court, waded into the debate, recommending the creation of an expert body to examine the matter.</p>
+<h4>Political, economic and institutional context</h4>
+<ul>
+<li>The determination of what is a good or bad freebie is and always will be a political choice.</li>
+<li>A constructive debate must necessarily locate itself in the underlying political, economic and institutional context in which these so-called freebies are a feature of our electoral politics.</li>
+<li>In the Public Interest Litigation filed in the Supreme Court, the petitioner has argued that “irrational freebies… is analogous to bribery”.</li>
+<li><strong>Commodification of electoral process:</strong> The problem with this framing is that it commodifies the electoral process and strips voters of their agency.</li>
+<li>Voters, in this framing, are <strong>passive, unsophisticated actors</strong> who can be bought and therefore there is a need to be vigilant.</li>
+<li>The honourable court had gone a step further, arguing for an expert, independent body, rather than Parliament, to tackle the issue.</li>
+<li>This is judicial overreach and it privileges “experts” over legitimate democratic negotiation and strikes at the core of the political bargain.</li>
+<li>Politics is central to welfare, not experts.</li>
+</ul>
+<h4>Economic context</h4>
+<ul>
+<li>In that spirit, a debate on the merits and demerits of freebies is important but this debate cannot be divorced from the economic context.</li>
+<li>India’s structural transformation, particularly since 1991, has been slow and unique.</li>
+<li>Despite abundant low-skilled labour, our growth trajectory has mostly skipped manufacturing, growing instead on the back of a far smaller, high-skilled services sector.</li>
+<li>Consequently, as economist Amit Basole has shown the bulk of jobs our economy generated even in its peak growth years were in the largely informal, low value add construction sector.</li>
+<li>The distributional consequences of this have been significant.</li>
+<li>Under-employment and low inter-generational mobility have been persistent features of the Indian economy resulting in deep inequalities.</li>
+<li>Growth lifted a large population out of poverty.</li>
+<li>However, as the World Bank data show, most of those who escaped poverty between 2005-2012 moved into the vulnerable group — one income shock away from falling below the poverty line.</li>
+<li>Somewhat reassuringly, democracy created pressure on our politics to respond to these economic failures.</li>
+<li>It is in this context that the demand for so-called freebies has found legitimate place in our democracy.</li>
+</ul>
+<h4>Challenges</h4>
+<ul>
+<li>While democratic pressures led to the halting creation of limited social protection in the form of PDS and MGNREGA, they did not translate into investments in core public and merit goods — health and education being the most critical.</li>
+<li>It is these accumulated failures that have created the new political logic that we confront today.</li>
+<li>A logic where welfare freebies are being offered to compensate citizens for what economic growth has failed to do.</li>
+</ul>
+<h4>Conclusion</h4>
+<p>The answer does not lie in rapping state governments on the knuckles for being profligate. It lies in building a renewed democratic consensus on our economic and institutional growth path.</p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/deciding-the-terms-of-debate-on-freebies-subsidies-and-compensation/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Taiwan crisis</title><link>https://www.civilsdaily.com/news/taiwan-crisis/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Location of Taiwan</p><p><strong>Mains level : </strong>Sovereign nations, Bilateral ties ,One china policy</p></div></div><p><strong><img alt="" class="alignnone wp-image-622638" height="326" loading="lazy" sizes="(max-width: 552px) 100vw, 552px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/map-china-300x177.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/map-china-300x177.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/map-china-768x452.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/map-china.jpg 900w" width="552"/>Context </strong></p>
+<ul>
+<li>Taiwan showcases most advanced fighter jet after China drills. Taipei has carried out its own drills to simulate defence against invasion by China, and unveiled the F-16V fighter jet.</li>
+</ul>
+<p><strong>What is the issue?</strong></p>
+<ul>
+<li>As per the PRC, <strong>Taiwan’s sovereignty belongs to China</strong>, the PRC’s government and supporters believe that the secession of Taiwan should <strong>be agreed upon by all 1.3 billion</strong> Chinese citizens instead of just the 23 million residents of Taiwan<strong>.</strong></li>
+</ul>
+<p><strong>Why in news?</strong></p>
+<ul>
+<li><strong>Chinese stand:</strong> Taiwan has been governed independently of China since 1949, but Beijing views the island as part of its territory. Beijing has vowed to eventually “unify” Taiwan with the mainland, using force if necessary.</li>
+<li><strong>Tensions are rising</strong>: Taiwanese President Tsai Ing-wen, whose party platform favours independence, has rebuked Beijing’s efforts to undermine democracy. Beijing has ramped up political and military pressure on Taipei.</li>
+<li><strong>War situation</strong>: Some analysts fear the United States and China could go to war over Taiwan. <strong>S. House Speaker Nancy Pelosi’s trip to the island</strong> in 2022 heightened tensions between the countries.</li>
+</ul>
+<p><strong>Is Taiwan part of China?</strong></p>
+<ul>
+<li><strong>One china principle</strong>: Beijing asserts that there is only “one China” and that Taiwan is part of it. It views the PRC as the only legitimate government of China, an approach it calls <strong>the One-China principle</strong>, and seeks Taiwan’s <strong>eventual “unification” with the mainland.</strong></li>
+<li><strong>Chinese claim</strong>: Beijing claims that Taiwan is bound by an understanding known as the <strong>1992 Consensus,</strong> which was reached between representatives of the Chinese Communist Party (CCP) and the Kuomintang (KMT) party that then ruled Taiwan.</li>
+</ul>
+<p><strong>Status of Taiwan as member of UN</strong></p>
+<ul>
+<li><strong>Taipei protest exclusion</strong>: China rejects Taiwan’s participation as a member in UN agencies and other international organizations that limit membership to states. Taipei regularly protests its exclusion; the United States also pushes for Taiwan’s meaningful participation in such organizations.</li>
+<li><strong>Membership of other groups</strong>: Taiwan does, however, hold member status in more than forty organizations, most of them regional, such as the Asian Development Bank and the Asia-Pacific Economic Cooperation forum, as well as in the World Trade Organization. It holds observer or other status on several other bodies.</li>
+</ul>
+<p><strong>Value addition for mains </strong></p>
+<ul>
+<li><strong>An Introduction to Sovereignty: </strong>A Case Study of Taiwan examines the key issue of sovereignty and provides an in-depth look at the unique status of Taiwan among nations of the world.</li>
+<li>Although Taiwan has control over its internal affairs (<strong>domestic sovereignty</strong>) and is able to keep outsiders from operating within its borders or influencing internal decisions (Westphalian sovereignty), the island does not have international legal sovereignty, which would confirm its status as an independent country.</li>
+<li>Despite lacking the advantages of having <strong>international legal sovereignty</strong>—including the ability to negotiate trade agreements and treaties, among others—Taiwan has evolved into an economic powerhouse and has successfully developed and maintained international relations with many independent countries.</li>
+</ul>
+<p><strong>How has China tried to intimidate Taiwan?</strong></p>
+<ul>
+<li><strong>Coercion tactics:</strong> China has employed a variety of coercive tactics short of armed conflict, and it has ramped up these measures since Tsai’s election in 2016. Its objective is to wear down Taiwan and prompt the island’s people to conclude that their best option is unification with the mainland.</li>
+<li><strong>Military pressure</strong>: China has increased the frequency and scale of patrols of PLA bombers, fighter jets, and surveillance aircraft over and around Taiwan. It has also increasingly sailed its warships and aircraft carriers through the Taiwan Strait in shows of force.</li>
+</ul>
+<p><strong>What Taiwanese people say?</strong></p>
+<ul>
+<li>An increasing number of Taiwanese people feel more closely tied to Taiwan than to the mainland. More than 62 percent of the island’s residents regarded themselves as exclusively Taiwanese in 2021.</li>
+</ul>
+<p><strong>Opportunity for India</strong></p>
+<ul>
+<li>Taiwan’s position as a <strong>semiconductor superpower</strong> opens the door for more intensive <strong>strategic-economic cooperation</strong> between Delhi and Taipei.</li>
+<li>Part of the problem is that India’s strategic community continues to view Taiwan as an adjunct to India’s <strong>“One-China policy”.</strong></li>
+</ul>
+<p><strong>Conclusion</strong></p>
+<ul>
+<li>As Taiwan becomes the <strong>world’s most dangerous flashpoint</strong>, the geopolitical consequences for Asia are real. Although Delhi has embraced the Indo-Pacific maritime construct, it is yet to come to terms with Taiwan’s critical role in shaping the <strong>strategic future of Asia’s waters.</strong></li>
+</ul>
+<blockquote><p><strong>Mains question</strong></p>
+<p><strong> Q.Do you consider Taiwan has become the world’s most dangerous flashpoint, the geopolitical consequences for Asia are real? Critically examine.</strong></p></blockquote>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+<p> </p>
+<p><strong> </strong></p>
+<p> </p>
+<p> </p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/taiwan-crisis/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>75 years of bilateral ties</title><link>https://www.civilsdaily.com/news/75-years-of-bilateral-ties/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Free trade agreement</p><p><strong>Mains level : </strong>Bilateral ties, Strategic partnership</p></div></div><h4><strong><img alt="" class="alignnone wp-image-622651" height="237" loading="lazy" sizes="(max-width: 474px) 100vw, 474px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/indouk-300x150.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/indouk-300x150.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/indouk.jpg 640w" width="474"/>Context </strong></h4>
+<ul>
+<li>The year 2022 is significant for both India and the UK as our country commemorates the 75th anniversary of its Independence and the <strong>two celebrate 75 years of bilateral ties.</strong></li>
+<li>India-UK relations were elevated to a Comprehensive Strategic Partnership in 2021, based on a shared commitment towards democracy, fundamental freedoms and multilateralism.</li>
+</ul>
+<h4><strong>Background of the India-UK ties</strong></h4>
+<ul>
+<li><strong>Partnership:</strong> The historical legacy has its own imprint on the relationship. But what is truly remarkable is the broad range of partnerships that have evolved between the two countries, transcending trade, investment and strategic affairs.</li>
+<li><strong>Close ties</strong>: This broader partnership between the <strong>world’s fifth and sixth largest</strong> economies has its foundations on three critical aspects: education, common law system and the increasingly influential role and impact of the Indian diaspora in the UK.</li>
+<li><strong>Shared values</strong>: The India-UK partnership is based on shared values, respect for the rule of law and common law, and institutional integrity protected by democratic institutions in the both the countries.</li>
+</ul>
+<h4><strong>Transforming India-UK partnership</strong></h4>
+<ul>
+<li><strong>Doubling bilateral trade</strong>: The two countries had declared their ambition to more than double bilateral trade by 2030, which totalled over £23 billion in 2019.</li>
+<li><strong>Reduce barriers to trade</strong>: They directed their governments to take rapid steps to reduce barriers to trade.</li>
+<li><strong>Indian Diaspora</strong>: Around 1.5 million people of Indian origin live in Britain. This includes 15 Members of Parliament, three members in Cabinet, and two in high office as Finance and Home Ministers.</li>
+</ul>
+<h4><strong>Challenges in India-UK relations</strong></h4>
+<ul>
+<li><strong>Stagnancy in the relations</strong> – India-UK relations are stagnant for the past five years due to Britain’s Brexit preoccupation.</li>
+<li><strong>Minor issues</strong>: Other less important issues gained the narrative – Issues such as visas and the fate of fugitive Indian businessmen in the U.K. have been allowed to dominate the narrative.</li>
+<li><strong>Cross domain interference</strong> The MEA had responded sharply to protests at the Indian High Commission in London over the Article 370 move in Jammu and Kashmir, and the Citizenship (Amendment) Act. Britain’s concerns about the farmers’ protests that sparked responses in New Delhi about interference in India’s internal matters.</li>
+</ul>
+<h4><strong>Way forward </strong></h4>
+<ul>
+<li>The historical baggage also needs to be addressed cooperatively to diminish the possibility of hindrance in future cooperation.</li>
+<li>The India-United Kingdom are dynamic democracies and the world’s leading economies with impressive advancements in human resources, manufacturing, innovation, research, education, space, defence, green technologies, and clean energy, among other areas.</li>
+<li>This relationship can be utilized for the betterment of the fields and more collaborations should be undertaken.</li>
+</ul>
+<h4><strong>Conclusion </strong></h4>
+<ul>
+<li>As we celebrate the historic collaboration between the UK and India in producing the Covishield vaccine, and look forward to the much-awaited signing of the <strong>bilateral Free Trade Agreement</strong>, we should not lose sight of the tremendous power that transnational university-wide collaborations can leverage in the accord. Education, research and knowledge partnership ought to become the centre-piece of the India-UK relationship at 75, as we move forward.</li>
+</ul>
+<blockquote><p><strong>Mains question </strong></p>
+<p><strong>Q.Analyse India-UK bilateral relations with scope of upscaling and challenges they need to overcome .</strong></p></blockquote>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/75-years-of-bilateral-ties/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Data diplomacy</title><link>https://www.civilsdaily.com/news/data-diplomacy/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Data localisation</p><p><strong>Mains level : </strong>Data diplomacy, Data sovereignty</p></div></div><h4><strong><img alt="" class="alignnone wp-image-622654" height="360" loading="lazy" sizes="(max-width: 541px) 100vw, 541px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/data-300x200.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/data-300x200.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/data-768x513.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/data.jpg 830w" width="541"/>Context </strong></h4>
+<ul>
+<li>The government has withdrawn the Personal Data Protection Bill from Parliament after several amendments were proposed by the Joint-Parliamentary Committee.</li>
+</ul>
+<h4><strong>Definition of data </strong></h4>
+<ul>
+<li>Data is a collection of discrete values that convey information, describing quantity, quality, fact, statistics, other basic units of meaning, or simply sequences of symbols that may be further interpreted.</li>
+</ul>
+<h4><strong>What is Data Protection?</strong></h4>
+<ul>
+<li>Data protection refers to policies and procedures seeking <strong>to minimise intrusion</strong> into the <strong>privacy of an individual</strong> caused by collection and usage of their personal data.</li>
+</ul>
+<h4><strong>What is data localisation?</strong></h4>
+<ul>
+<li>Data localization or data residency law requires data about a nation’s citizens or residents to be collected, processed, and/or stored inside the country, often before being transferred internationally.</li>
+</ul>
+<h4><strong>What is Data Governance?</strong></h4>
+<ul>
+<li>Data governance is a collection of processes, roles, policies, standards, and metrics that ensure the effective and efficient use of information in enabling an organization to achieve its goals. Data governance defines who can take what action, upon what data, in what situations, using what methods.</li>
+</ul>
+<h4><strong>Interesting facts </strong></h4>
+<ul>
+<li><strong>Over 90% of all the data in the world was created in the past 2 years;</strong></li>
+<li><strong>The total amount of data being captured and stored by industry doubles every 1.2 years;</strong></li>
+<li><strong>If you burned all of the data created in just one day onto DVDs, you could stack them on top of each other and reach the moon – twice.</strong></li>
+</ul>
+<h4><strong>Data sovereignty of India</strong></h4>
+<ul>
+<li><strong>Definition: </strong>India has placed itself at the heart of the battle, its foreign policy vision fuelled by the principle of ‘data sovereignty’—a broad notion that supports the assertion of sovereign writ over data generated by citizens within a country’s physical boundaries.</li>
+<li><strong>Issues:</strong> The ideal of <strong>“data sovereignty”,</strong> and global attempts to leverage it, has come under heavy criticism from various stakeholders who are of the view that the concept violates the principle of <strong>“free and open internet”.</strong> They also argue that “data sovereignty” hampers innovation and economic growth, and is a ruse for authoritarian digital governance.</li>
+</ul>
+<h4><strong>India’s Data Diplomacy: Three Pillars</strong></h4>
+<ul>
+<li><strong>Pillar 1: India’s data for India’s development</strong></li>
+</ul>
+<p>The flagship ‘Digital India’ programme clearly views data as the cornerstone of India’s socioeconomic future—one where the government leverages the Indian citizen’s data for the benefit of the people themselves, and not solely for profit-making.</p>
+<ul>
+<li><strong>Pillar 2: Cross-border data flows and digital trade</strong></li>
+</ul>
+<p>In keeping with its foreign policy tradition of actively shaping debates on global trade rules, India has been an active participant in the ongoing contestation on regulating cross-border data flows.</p>
+<ul>
+<li><strong>Pillar 3: Securitising the economic</strong></li>
+</ul>
+<p>The final pillar of India’s data diplomacy has been predicated ostensibly on safeguarding its citizens’ data from external threats.</p>
+<h4><strong>Why data is important?</strong></h4>
+<ul>
+<li><strong>Improve People’s Lives: </strong>Data will help you to improve quality of life for people you support: Improving quality is first and foremost among the reasons why organizations should be using data.</li>
+<li><strong>Make Informed Decisions: </strong>Data = Knowledge. Good data provides indisputable evidence, while anecdotal evidence, assumptions, or abstract observation might lead to wasted resources due to taking action based on an incorrect conclusion.</li>
+<li><strong>Stop Molehills from Turning into Mountains: </strong>Data allows you to monitor the health of important systems in your organization: By utilizing data for quality monitoring, organizations are able to respond to challenges before they become full-blown crisis.</li>
+<li><strong>Get The Results You Want: </strong>Data allows organizations to measure the effectiveness of a given strategy: When strategies are put into place to overcome a challenge, collecting data will allow you to determine how well your solution is performing, and whether or not your approach needs to be tweaked or changed over the long-term.</li>
+</ul>
+<h4><strong>Conclusion </strong></h4>
+<ul>
+<li>The fulcrum of India’s data diplomacy should be predicated on the rule of law and the genuine protection of fundamental rights enshrined in the Constitution. A commitment to the rule of law and accountability for all actors sets India apart from present adversaries like China and offers an opportunity to burnish its reputation globally.</li>
+</ul>
+<blockquote><p><strong>Mains question </strong></p>
+<p><strong>Q.Data is considered as new gold across the globe in this context analyse data sovereignty along with status of data diplomacy of India.</strong></p></blockquote>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+<p><strong> </strong></p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/data-diplomacy/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Centre raises thresholds for prosecution under Customs Act</title><link>https://www.civilsdaily.com/news/centre-raises-thresholds-for-prosecution-under-customs-act/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Custom Duty</p><p><strong>Mains level : </strong>Customs frauds</p></div></div><p>The government has raised the thresholds for prosecutions and arrests under the Customs Act to ₹50 lakh from ₹20 lakh for smuggling and illegal imports of goods in baggage, and from ₹1 crore to ₹2 crore for cases involving commercial fraud.</p>
+<h4>What is Custom Duty?</h4>
+<ul>
+<li>Customs duty refers to the tax imposed on goods when they are transported across international borders.</li>
+<li>In simple terms, it is the tax that is levied on import and export of goods.</li>
+<li>Custom duty in India is defined under the Customs Act, 1962, and all matters related to it fall under the Central Board of Excise &amp; Customs (CBEC).</li>
+<li>The government uses this duty to raise its revenues, safeguard domestic industries, and regulate movement of goods.</li>
+<li>The rate of Customs duty varies depending on where the goods were made and what they were made of.</li>
+</ul>
+<h4>Types of custom duty</h4>
+<ul>
+<li><strong>Basic Customs Duty (BCD):</strong> It is the duty imposed on the value of the goods at a specific rate at a specified rate of ad-valorem basis.</li>
+<li><strong>Countervailing Duty (CVD):</strong> It is imposed by the Central Government when a country is paying the subsidy to the exporters who are exporting goods to India.</li>
+<li><strong>Additional Customs Duty or Special CVD:</strong> It is imposed to bring imports on an equal track with the goods produced or manufactured in India.</li>
+<li><strong>Protective Duty:</strong> To protect interests of Indian industry</li>
+<li><strong>Safeguard Duty:</strong> It is imposed to safeguard the interest of our local domestic industries. It is calculated on the basis of loss suffered by our local industries.</li>
+<li><strong>Anti-dumping Duty:</strong> Manufacturers from abroad may export goods at very low prices compared to prices in the domestic market. In order to avoid such dumping, ADD is levied.</li>
+</ul>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/centre-raises-thresholds-for-prosecution-under-customs-act/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Centre restores Modified Interest Subvention Scheme (MISS)</title><link>https://www.civilsdaily.com/news/centre-restores-modified-interest-subvention-scheme-miss/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Modified Interest Subvention Scheme (MISS)</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>The Union Cabinet has decided to restore the interest subvention on short-term agriculture loans to 1.5% for all financial institutions, including cooperative banks.</p>
+<h4>What is the news?</h4>
+<ul>
+<li>The Union Cabinet has approved to restore Interest Subvention on short term agriculture loans to 1.5% for all financial institutions.</li>
+<li>Thus, <strong><u>Interest Subvention of 1.5% will be provided to lending institutions</u></strong> for the financial year 2022-23 to 2024-25 for lending short term agri-loans upto Rs 3 lakh to the farmers.</li>
+</ul>
+<h4>What is MISS?</h4>
+<ul>
+<li>Kisan Credit Card scheme was introduced for farmers, to empower them to purchase agriculture products and services on credit at any time.</li>
+<li>To ensure that the farmers have to pay a minimal interest rate to the bank, the GoI introduced Interest Subvention Scheme (ISS), now renamed as Modified Interest Subvention Scheme (MISS).</li>
+<li>It aims to provide short term credit to farmers at subsidized interest rates.</li>
+</ul>
+<h4>Features of MISS</h4>
+<ul>
+<li>Under this scheme, short term agriculture <strong><u>loan upto Rs. 3.00 lakh</u></strong> is available to farmers engaged in Agriculture and other allied activities including Animal Husbandry, Dairying, Poultry, fisheries etc. at the rate of 7% p.a.</li>
+<li>An additional 3% subvention (<strong><u>Prompt Repayment Incentive – PRI</u></strong>) is also given to the farmers for prompt and timely repayment of loans.</li>
+<li>Therefore, if a farmer repays his loan on time, he gets <strong><u>credit at the rate of 4% p.a</u></strong>.</li>
+<li>For enabling this facility to the farmers, GoI provides <strong><u>Interest Subvention (IS)</u></strong> to the Financial Institutions offering this scheme.</li>
+<li>This support is <strong><u>100% funded by the Centre</u></strong>, it is also the second largest scheme of DA&amp;FW as per budget outlay and coverage of beneficiaries.</li>
+</ul>
+<h4>Benefits of MISS</h4>
+<ul>
+<li>Ensuring <strong><u>hassle-free credit availability at cheaper rate to farmers</u></strong> has been the top priority of GoI.</li>
+<li>Increase in Interest Subvention will ensure <strong><u>sustainability of credit flow in the agriculture sector</u></strong> as well as <strong><u>ensure financial health and viability of the lending institutions</u></strong>.</li>
+<li>Banks will be able to absorb <strong><u>increase in cost of funds</u></strong> and will be <strong><u>encouraged to grant loans to farmers</u></strong> for short term agriculture requirements and enable more farmers to get the benefit of agriculture credit.</li>
+<li>This will also lead to <strong><u>generation of employment</u></strong> since short term agri-loans are provided for all activities including Animal Husbandry, Dairying, Poultry, fisheries.</li>
+<li>Farmers will continue <strong><u>to avail short term agriculture credit</u></strong> at interest rate of 4% per annum while repaying the loan in time.</li>
+</ul>
+<h4>Who gets the subvention?</h4>
+<ul>
+<li>The lending institutions include- Public Sector Banks, Private Sector Bank, Small Finance Banks, Regional Rural Banks, Cooperative Banks and Computerized PACS directly ceded with commercial banks.</li>
+</ul>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/centre-restores-modified-interest-subvention-scheme-miss/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>India as a ‘developed’ country: where we are, and the challenges ahead</title><link>https://www.civilsdaily.com/news/india-as-a-developed-country-where-we-are-and-the-challenges-ahead/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>GDP, GNI</p><p><strong>Mains level : </strong>India's roadmap for development</p></div></div><p>In his Independence Day address, PM asked Indians to embrace the “Panch Pran” — five vows — by 2047 when the country celebrates 100 years of independence.</p>
+<h4>What are the Panch Prans?</h4>
+<ul>
+<li>Calling it the ‘panch pran‘ — the five resolutions to help India become a developed nation in the next 25 years — PM said:</li>
+</ul>
+<ol>
+<li>Every Indian should focus on developing the country;</li>
+<li>100 per cent freedom from slavery (100% Azadi from Ghulami);</li>
+<li>Taking pride in Indian heritage;</li>
+<li>Ensuring importance is given to unity and integrity and</li>
+<li>Every citizen should be responsible</li>
+</ol>
+<h4>What is a “developed” country?</h4>
+<p><img alt="" class="alignnone size-medium wp-image-622692" height="210" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/gni-300x210.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/gni-300x210.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/gni.jpg 556w" width="300"/></p>
+<ul>
+<li>Different global bodies and agencies classify countries differently.</li>
+<li>The ‘World Economic Situation and Prospects’ of the United Nations classifies countries into three broad categories: developed economies, economies in transition, and developing economies.</li>
+<li>The idea is “to reflect basic economic country conditions”, and the categories “are not strictly aligned with the regional classifications”.</li>
+<li>So, it isn’t as though all European countries are “developed”, and all Asian ones are “developing”.</li>
+<li>To categorise countries by economic conditions, the United Nations uses the World Bank’s categorisation, based on Gross National Income (GNI) per capita (in current US dollars).</li>
+</ul>
+<h4>Issues with such categorization</h4>
+<ul>
+<li>But the UN’s nomenclature of “developed” and “developing” is being used less and less, and is often contested.</li>
+<li>Former US President Donald Trump had criticised the categorisation of China as a “developing” country, which allowed it to enjoy some benefits in the World Trade Organization.</li>
+<li>If China is a “developing” country, then the US should also be “made” one, Donald Trump once said.</li>
+</ul>
+<h4>But why is the United Nations classification contested?</h4>
+<ul>
+<li>It can be argued that the UN classification is not very accurate and, as such, has limited analytical value.</li>
+<li>Only the top three mentioned in chart 3 alongside — the US, the UK and Norway — fall in the developed country category.</li>
+<li>Today, there are 31 developed countries according to the UN in all.</li>
+<li>All the rest — except 17 “economies in transition” — are designated as “developing” countries, even though in terms of proportion, China’s per capita income is closer to Norway’s than Somalia’s.</li>
+<li>China’s per capita income is 26 times that of Somalia’s while Norway’s is just about seven times that of China’s.</li>
+<li>Then there are countries — such as Ukraine, with a per capita GNI of $4,120 (a third of China’s) — that are designated as “economies in transition”.</li>
+</ul>
+<h4>Where does India stand?</h4>
+<p><img alt="" class="alignnone size-medium wp-image-622691" height="215" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/indhd-300x215.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/indhd-300x215.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/indhd.jpg 556w" width="300"/></p>
+<ul>
+<li>As chart 2 shows, India is currently far behind both the so-called developed countries, as well as some developing countries.</li>
+<li>Often, the discourse is on the absolute level of GDP (gross domestic product).</li>
+<li>On that metric, India is one of the biggest economies of the world — even though the US and China remain far ahead.</li>
+<li>However, to be classified as a “developed” country, the average income of a country’s people matters more.</li>
+<li>And on per capita income, India is behind even Bangladesh.</li>
+<li>China’s per capita income is 5.5 times that of India, and the UK’s is almost 33 times.</li>
+</ul>
+<h4>India’s progress</h4>
+<ul>
+<li>India has made a secular improvement on HDI metrics.</li>
+<li>For instance, the life expectancy at birth (one of the sub-metrics of HDI) in India has gone from around 40 years in 1947 to around 70 years now.</li>
+<li>India has also taken giant strides in education enrolment at all three levels — primary, secondary, and tertiary.</li>
+</ul>
+<h4>What is the distance left to cover?</h4>
+<ul>
+<li>When compared to the developed countries or China, India has a fair distance to cover.</li>
+<li>Even though India is the world’s third-largest economy in purchasing power parity (PPP) terms, most Indians are still relatively poor compared to people in other middle income or rich countries.</li>
+<li>Ten per cent of Indians, at most, have consumption levels above the commonly used threshold of $10 (PPP) per day expenditures for the global middle class.</li>
+<li>Other metrics, such as the food share of consumption, suggest that even rich households in India would have to see a substantial expansion of their total consumption to reach levels of poor households in rich countries.</li>
+</ul>
+<h4>How much can India achieve by 2047?</h4>
+<ul>
+<li>One way to make this assessment is to look at how long other countries took to get there.</li>
+<li>For instance, in per capita income terms, Norway was at India’s current level 56 years ago — in the year 1966.</li>
+<li>Comparing India to China is more useful. China reached that mark in 2007.</li>
+<li>Theoretically then, if India were to grow as fast as China did between 2007 and 2022, then, broadly speaking, it will take India another 15 years to be where China is now.</li>
+<li>But then, China’s current per capita income was achieved by the developed countries several decades earlier — the UK in 1987, the US and Norway in 1979.</li>
+</ul>
+<h4>Where does India lag?</h4>
+<ul>
+<li>India’s current HDI score (0.64) is much lower than what any of the developed countries had even in 1980.</li>
+<li>China reached the 0.64 level in 2004, and took another 13 year to reach the 0.75 level — that, incidentally, is the level at which the UK was in 1980.</li>
+</ul>
+<h4>What can India achieve by 2047?</h4>
+<ul>
+<li>The World Bank’s 2018 report had made a mention of what India could achieve by 2047.</li>
+<li>By 2047 — the centenary of its independence — at least half its citizens could join the ranks of the global middle class.</li>
+<li>By most definitions, this will mean that households have access to better education and health care, clean water, improved sanitation, reliable electricity, a safe environment, affordable housing, and enough discretionary income to spend on leisure pursuits.</li>
+</ul>
+<h4>Way forward</h4>
+<ul>
+<li>Fulfilling these aspirations requires income well above the extreme poverty line, as well as vastly improved public service delivery.</li>
+<li>To see this in perspective, note that at the last count, as of 2013, India had 218 million people living in extreme poverty — which made India home to the poorest people in the world.</li>
+</ul>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/india-as-a-developed-country-where-we-are-and-the-challenges-ahead/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>What is causing Arctic Amplification?</title><link>https://www.civilsdaily.com/news/what-is-causing-arctic-amplification/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Arctic Amplification</p><p><strong>Mains level : </strong>Climate Change</p></div></div><p><strong><img alt="" class="alignnone wp-image-622689" height="415" sizes="(max-width: 571px) 100vw, 571px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/arctcamp-300x218.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/arctcamp-300x218.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/arctcamp.jpg 685w" width="571"/></strong></p>
+<p>Finnish researchers have found that the Arctic is heating four times faster than the rest of the planet.</p>
+<h4>Arctic is warming faster</h4>
+<ul>
+<li>The warming is concentrated in the Eurasian part of the Arctic, where the Barents Sea north of Russia and Norway is warming at an alarming rate — seven times faster than the global average.</li>
+<li>Other studies indicate that the Arctic amplification is four times the global rate.</li>
+</ul>
+<h4>What is Arctic Amplification?</h4>
+<ul>
+<li>Global warming has hastened due to anthropogenic forces or human activities since pre-industrial times and has increased the planet’s average temperature by 1.1 degrees Celsius.</li>
+<li>While changes are witnessed across the planet, any change in the surface air temperature and the net radiation balance tend to produce <strong><u>larger changes at the north and south poles</u></strong>.</li>
+<li>This phenomenon is known as <strong><u>polar amplification</u></strong>; these changes are <strong><u>more pronounced at the northern latitudes and are known as the Arctic amplification.</u></strong></li>
+</ul>
+<h4>What causes amplification?</h4>
+<ul>
+<li>Among the many global warming-driven causes for this amplification, the ice-albedo feedback, lapse rate feedback, water vapour feedback and ocean heat transport are the primary causes.</li>
+<li><strong><u>Sea ice and snow have high albedo</u></strong> (measure of reflectivity of the surface), implying that they are capable of reflecting most of the solar radiation as opposed to water and land.</li>
+<li>In the Arctic’s case, global warming is resulting in <strong><u>diminishing sea ice</u></strong>.</li>
+<li>As the sea ice melts, the Arctic Ocean will be more capable of absorbing solar <strong><u>radiation</u></strong>, thereby driving the amplification.</li>
+<li>The rate at which the temperature drops with elevation i.e. <strong><u>lapse rate decreases with warming</u></strong>.</li>
+<li>Studies show that the ice-albedo feedback and the lapse rate feedback are responsible for 40% and 15% of polar amplification respectively.</li>
+</ul>
+<h4>What do the previous studies say?</h4>
+<ul>
+<li>The extent of Arctic amplification is debated, as studies show various rates of amplification against the global rate.</li>
+<li>Studies have shown that the Arctic was warming at twice the global rate prior to the beginning of the 21st century.</li>
+<li>Already the Arctic surface air temperature has likely increased by more than double the global average over the last two decades.</li>
+</ul>
+<h4>What are the consequences of Arctic warming?</h4>
+<ul>
+<li>The causes and consequences of Arctic amplification are <strong><u>cyclical</u></strong> — what might be a cause can be a consequence too.</li>
+<li>The <strong><u>Greenland ice sheet is melting at an alarming rate</u></strong>, and the <strong><u>rate of accumulation of sea ice has been remarkably low since 2000.</u></strong></li>
+<li>This is also marked by young and thinner ice replacing the old and thicker ice sheets.</li>
+<li>Greenlandic ice sheet holds the second largest amount of ice, after Antarctica, and therefore it is crucial for <strong><u>maintaining the sea level</u></strong>.</li>
+<li>In 2019, this was the single biggest cause for the rise in the sea level, about 1.5 metres.</li>
+</ul>
+<h4>Visible impacts</h4>
+<ul>
+<li>If the sheet melts completely, the <strong><u>sea level would rise by seven metres</u></strong>, capable of subsuming island countries and major coastal cities.</li>
+<li>The warming of the Arctic Ocean and the seas in the region, the <strong><u>acidification of water</u></strong>, <strong><u>changes in the salinity levels</u></strong>, are <strong><u>impacting the biodiversity</u></strong>, including the marine species and the dependent species.</li>
+<li>The warming is also increasing the incidence of rainfall which is affecting the availability and accessibility of lichens to the reindeer.</li>
+<li>The Arctic amplification is causing <strong><u>widespread starvation and death</u></strong> among the Arctic fauna.</li>
+<li>The <strong><u>permafrost in the Arctic is thawing</u></strong> and in turn releasing carbon and methane which are among the major greenhouse gases responsible for global warming.</li>
+<li>Experts fear that the thaw and the melt will also <strong><u>release the long-dormant bacteria and viruses</u></strong> that were trapped in the permafrost and can potentially give rise to diseases.</li>
+</ul>
+<h4>What is the impact on India?</h4>
+<ul>
+<li>In recent years, scientists have pondered over the impact the changing Arctic can have on the <strong><u>monsoons in the subcontinent. </u></strong></li>
+<li>The <strong><u>link between the two is growing</u></strong> in importance due to the <strong><u>extreme weather events</u></strong> the country faces, and the <strong><u>heavy reliance on rainfall</u></strong> for water and food security.</li>
+<li>A study says that <strong><u>reduced sea ice in the Barents-Kara sea</u></strong> region can lead to <strong><u>extreme rainfall events in the latter half of the monsoons — in September and October. </u></strong></li>
+<li>The <strong><u>changes in the atmospheric circulation</u></strong> due to diminishing sea ice combined with the <strong><u>warm temperatures in the Arabian Sea contribute</u></strong> to enhanced moisture and drive extreme rainfall events.</li>
+</ul>
+<h4>Steps taken by India</h4>
+<ul>
+<li>In 2014, India deployed IndARC, India’s first moored-underwater observatory in the Kongsfjorden fjord, Svalbard.</li>
+<li>It aims to monitor the impact of the changes in the Arctic Ocean on tropical processes such as the monsoons.</li>
+</ul>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/what-is-causing-arctic-amplification/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item></channel></rss>
