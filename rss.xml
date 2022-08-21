@@ -1,365 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Sat, 20 Aug 2022 01:42:52 +0000</lastBuildDate><item><title>What it will take to fulfill India’s Solar Power Dream?</title><link>https://www.civilsdaily.com/news/what-it-will-take-to-fulfill-indias-solar-power-dream/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Solar energy targets of India</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>From less than 10 MW in 2010, India has added significant PV capacity over the past decade, achieving over 50 GW by 2022.</p>
-<h4>Solar energy in India</h4>
-<ul>
-<li>Solar photovoltaics (PV) has driven India’s push towards the adoption of cleaner energy generation technologies.</li>
-<li><strong><u>India is targeting about 500 GW by 2030</u></strong>, of renewable energy deployment, out of which ~280 GW is expected from solar PV.</li>
-<li>This necessitates the deployment of nearly 30 GW of solar capacity every year until 2030.</li>
-</ul>
-<h4>Key components</h4>
-<ul>
-<li>A typical solar PV value chain consists of first fabricating polysilicon ingots which need to be transformed into thin Silicon wafers that are needed to manufacture the PV mini-modules.</li>
-<li>The mini-modules are then assembled into market-ready and field-deployable modules.</li>
-</ul>
-<h4>Various challenges</h4>
-<p>There are challenges that need to be overcome for the sustainability of the PV economy.</p>
-<p><strong>(1) PV Modules</strong></p>
-<ul>
-<li>Indian solar deployment or installation companies <strong><u>depend heavily on imports</u></strong>.</li>
-<li>It currently <strong><u>imports 100% of silicon wafers and around 80% of cells</u></strong> even at the current deployment levels.</li>
-<li>India currently <strong><u>does not have enough module</u></strong> and cell manufacturing capacity.</li>
-<li>India’s current solar module <strong><u>manufacturing capacity is limited to ~15 GW per year</u></strong>.</li>
-<li>The <strong><u>demand-supply gap widens</u></strong> as we move up the value chain — for example, India only produces ~3.5 GW of cells currently.</li>
-<li>India has <strong><u>no manufacturing capacity</u></strong> for solar wafers and polysilicon ingots.</li>
-</ul>
-<p><strong>(2) Field deployment</strong></p>
-<ul>
-<li>Also, out of the 15 GW of module manufacturing capacity, <strong><u>only 3-4 GW of modules</u></strong> are <strong><u>technologically competitive and worthy of deployment</u></strong> in grid-based projects.</li>
-<li>India remains dependent on the import of solar modules for field deployment.</li>
-</ul>
-<p><strong>(3) Size and technology</strong></p>
-<ul>
-<li>Most of the Indian industry is currently tuned to handling M2 wafer size, which is roughly 156 x 156 mm2, while the global industry is already moving towards M10 and M12 sizes, which are 182 x 182 mm2 and 210 x 210 mm2 respectively.</li>
-<li>The bigger size has an advantage in terms of silicon cost per wafer, as this effectively means lower loss of silicon during ingot to wafer processing.</li>
-<li>In terms of cell technology, most of the manufacturing still uses Al-BSF technology, which can typically give efficiencies of ~18-19% at the cell level and ~16-17% at the module level.</li>
-<li>By contrast, cell manufacturing worldwide has moved to PERC (22-23%), HJT(~24%), TOPCON (23-24%) and other newer technologies, yielding module efficiency of &gt;21%.</li>
-</ul>
-<p><strong>(4) Land issue</strong></p>
-<ul>
-<li>Producing more solar power for the same module size means more solar power from the same land area.</li>
-<li>Land, the most expensive part of solar projects, is scarce in India — and Indian industry has no choice but to move towards newer and superior technologies as part of expansion plans.</li>
-</ul>
-<p><strong>(5) Raw materials supply</strong></p>
-<ul>
-<li>There is a <strong><u>huge gap on the raw material supply</u></strong> chain side as well.</li>
-<li>Silicon wafer, the most expensive raw material, is not manufactured in India.</li>
-<li>India will have to work on technology tie-ups to make the right grade of silicon for solar cell manufacturing — and since &gt;90% of the world’s solar wafer manufacturing currently happens in China.</li>
-<li>It is not clear how and where India will get the technology.</li>
-<li>Other key raw materials such as <strong><u>metallic pastes of silver and aluminium</u></strong> to form the electrical contacts too, <strong><u>are almost 100% imported</u></strong>.</li>
-<li>Thus, <strong><u>India is more of an assembly hub than a manufacturing</u></strong></li>
-</ul>
-<p><strong>(6) Lack of investment</strong></p>
-<ul>
-<li>India has hardly invested in this sector which can help the industry to try and test the technologies in a cost-effective manner.</li>
-</ul>
-<h4>Current govt policy</h4>
-<ul>
-<li>The <strong><u>government has identified this gap</u></strong>, and is rolling out various policy initiatives to push and motivate the industry to <strong><u>work towards self-reliance</u></strong> in solar manufacturing, both for cells and modules.</li>
-<li>Key initiatives include:</li>
-</ul>
-<ol>
-<li>40% duty on the import of modules and</li>
-<li>25% duty on the import of cells, and</li>
-<li>Production Linked Incentive (PLI) scheme to support manufacturing capex</li>
-<li>Compulsion to procure modules only from an approved list of manufacturers (ALMM) for projects that are connected to state/ central government grids</li>
-<li>Only India-based manufacturers have been approved</li>
-</ol>
-<h4>Way forward</h4>
-<ul>
-<li>India’s path to become a manufacturing hub for the same <strong><u>requires more than just putting some tax barriers and commercial incentives</u></strong> in the form of PLI schemes, etc.</li>
-<li>It will warrant <strong><u>strong industry-academia collaboration</u></strong> in an innovative manner to start developing home-grown technologies which could, in the short-term.</li>
-<li>It needs to <strong><u>work with the industry</u></strong> to provide them with trained human resource, process learnings, root-cause analysis through right testing and, in the long term, develop India’s own technologies.</li>
-<li>High-end technology development requires <strong><u>substantial investment</u></strong> in several clusters which operate in industry-like working and management conditions, appropriate emoluments, and clear deliverables.</li>
-</ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/what-it-will-take-to-fulfill-indias-solar-power-dream/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>China’s problem with top US senator visiting Taiwan</title><link>https://www.civilsdaily.com/news/chinas-problem-with-top-us-senator-visiting-taiwan/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>US meddling in China-Tawian friction</p></div></div><p><img alt="" class="alignnone size-full wp-image-612017" height="262" loading="lazy" sizes="(max-width: 420px) 100vw, 420px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/twn.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/twn.jpg 420w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/twn-300x187.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/twn-400x250.jpg 400w" width="420"/></p>
-<p>The Speaker of the House of Representatives, Nancy Pelosi, landed in Taiwan, ignoring Chinese threats and a warning by President Xi Jinping to “not play with fire”.</p>
-<h4>Why in news?</h4>
-<ul>
-<li>Pelosi’s visit to Taiwan is the highest-level visit by an American official to the island in a quarter century.</li>
-<li>The senior US politician has been critical of China on multiple fronts over the decades.</li>
-</ul>
-<h4>US defiance of One China Policy</h4>
-<ul>
-<li>The US has maintained a ‘One China’ policy since the 1970s, under which it <strong><u>recognises Taiwan as a part of China. </u></strong></li>
-<li>But it has <strong><u>unofficial ties with Taiwan</u></strong> as well — a strategy that is known as strategic or deliberate ambiguity.</li>
-<li><strong><u>Beijing considers Taiwan a part of China</u></strong>, threatens it frequently, and has not ruled out taking the island by military force at any time.</li>
-</ul>
-<h4>Why does China have a problem with Pelosi visiting Taiwan?</h4>
-<ul>
-<li>For China, the presence of a <strong><u>senior American figure in Taiwan</u></strong> would indicate some kind of <strong><u>US support for Taiwan’s independence. </u></strong></li>
-<li>This move severely <strong><u>undermined China’s perception of sovereignty</u></strong> and territorial integrity.</li>
-</ul>
-<h4>Brief history of China-Taiwan Tensions</h4>
-<ul>
-<li>Taiwan is an island about 160 km off the coast of southeastern China, opposite the Chinese cities of Fuzhou, Quanzhou, and Xiamen.</li>
-<li>It was administered by the imperial Qing dynasty, but its control passed to the Japanese in 1895.</li>
-<li>After the defeat of Japan in <strong><u>World War II, the island passed back into Chinese hands</u></strong>.</li>
-<li>After the communists led by Mao Zedong won the civil war in mainland China, Chiang Kai-shek, the leader of the nationalist Kuomintang party, fled to Taiwan in 1949.</li>
-<li>Chiang Kai-shek set up the government of the Republic of China on the island, and remained President until 1975.</li>
-<li>Beijing has <strong><u>never recognised the existence of Taiwan</u></strong> as an independent political entity, arguing that <strong><u>it was always a Chinese province</u></strong>.</li>
-</ul>
-<h4>Taiwanese stance</h4>
-<ul>
-<li>Taiwan says that the modern Chinese state was only formed after the revolution of 1911.</li>
-<li>It was <strong><u>not a part of that state or of the People’s Republic of China</u></strong> that was <strong><u>established after the communist revolution.</u></strong></li>
-<li>While the political tensions have continued, <strong><u>China and Taiwan have had economic ties</u></strong>.</li>
-<li>Many migrants from Taiwan work in China, and China has investments in Taiwan.</li>
-<li>No doubt, <strong><u>cultural ties</u></strong> are indispensable.</li>
-<li>In recent years, Taiwan’s government has said only the <strong><u>island’s 23 million people have the right to decide their future</u></strong> and that it will defend itself when attacked.</li>
-<li>Since 2016, <strong><u>Taiwan has elected a party that leans towards independence</u></strong>.</li>
-</ul>
-<h4>How does the world, and US, view Taiwan?</h4>
-<ul>
-<li>The <strong><u>UN does NOT recognise Taiwan</u></strong> as a separate country; in fact, only 13 countries around the world — mainly in South America, the Caribbean, Oceania, and the Vatican — do.</li>
-<li>In June, President Biden said that the <strong><u>US would defend Taiwan if it was invaded</u></strong>, but it was clarified soon afterward <strong><u>but</u></strong> <strong><u>America does not support Taiwan’s independence</u></strong>.</li>
-<li>While the <strong><u>US has no formal ties with Taipei</u></strong>, it remains Taiwan’s most important <strong><u>international backer and arms supplier.</u></strong></li>
-</ul>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2022 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/chinas-problem-with-top-us-senator-visiting-taiwan/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Macrovariable projections in uncertain times</title><link>https://www.civilsdaily.com/news/macrovariable-projections-in-uncertain-times/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Stagflation</p><p><strong>Mains level : </strong>Paper 3- Challenges in projection of economic macrovariables</p></div></div><h4>Context</h4>
-<p>The Fed has raised its benchmark interest rate again by a whopping 0.75%. The Reserve Bank of India has also been forced to raise interest rates further but also take other steps.</p>
-<h4>Two challenges for policymakers</h4>
-<ul>
-<li>Decisions in the Monetary Policy Committee (MPC) meeting are based on what the members of the MPC see as the likely course of the economy in the months ahead.</li>
-<li>But, the trajectory of the world economy, and its likely impact on the Indian economy, is imponderable.</li>
-<li>So, Indian policymakers would face two crucial problems.</li>
-<li><strong>1] Uncertainty due to war and Covid-19:</strong> First, the main <strong>uncertainty is due to Russia’s war</strong> on Ukraine and the resultant economic sanctions on Russia, as well as the zero-COVID-19 policy in China that repeatedly implements lockdowns leading to global supply bottlenecks.</li>
-<li><strong>2] Uncertainty in data:</strong> Policy has to base itself on data.</li>
-<li>If it is deficient, it introduces additional uncertainty, making projections for the future difficult and causing policies to fail.</li>
-<li>This will compound the problem that results from the global uncertainty.</li>
-</ul>
-<h4>Role of uncertainties related to Covid and Ukraine war</h4>
-<ul>
-<li>Since early 2020, the SARS-COV-2 virus has caused global uncertainty.</li>
-<li> In a globalised interdependent world, production was hit resulting in price rise (inflation) and loss of real incomes.</li>
-<li>This has resulted in decline in demand and, in a vicious cycle, a further slowing down of the economy.</li>
-<li>As prices have risen globally and economies slowed down, many <strong>countries have faced stagflation.</strong></li>
-<li><strong>Decline in uncertainty:</strong> The uncertainty due to the novel coronavirus has declined in spite of waves of attack persisting because the impact of new virus mutants of the virus is milder and there is also immunity due to vaccination.</li>
-<li>However, China is an exception with its zero-COVID policy.</li>
-<li> It has been implementing strict lockdowns in the last six months, even when only a few cases of the disease have been detected.</li>
-</ul>
-<h4>The uncertainties due to Ukraine conflict</h4>
-<ul>
-<li>The war in Ukraine and western sanctions on Russia have caused huge uncertainty since February 2022 (when Russia invaded Ukraine) and displaced the disease-related uncertainty, i.e., COVID-19.</li>
-<li>The reason is that the war is a proxy war between two powerful capitalist blocs.</li>
-<li>There is needless continuing suffering of the people of Ukraine, with a bombardment of cities, and this could escalate.</li>
-<li>The war and the sanctions have already affected the world economy and the Europeans in particular.</li>
-<li>The <strong>U.S. economy has entered technical recession</strong> with two quarters of GDP decline.</li>
-<li>As supplies of critical items supplied by Russia and Ukraine have been hit, prices have soared.</li>
-<li>Europe, the United States and India have experienced or are experiencing high inflation.</li>
-<li>The <strong>biggest disruption is in energy supplies from Russia,</strong> impacting production.</li>
-<li>The availability of<strong> food, fertilizers, metals,</strong> etc., have been hit as Ukraine and Russia are important sources.</li>
-<li>To weaken Russia, sanctions may be imposed on countries that carry out trade with it.</li>
-<li>Many Indian entities may face the heat since India has increased its imports from Russia, which undermines sanctions.</li>
-<li>China may also face sanctions since it has increased trade with Russia and is backing it.</li>
-</ul>
-<h4>Data related uncertainties</h4>
-<ul>
-<li>Indian policymakers also face data-related issues.</li>
-<li>It is not only available with a big lag on most macroeconomic variables but for many variables, data are either not available or has huge errors.</li>
-<li><strong>Errors in data:</strong> Policymakers rely on high frequency data to proxy for actual data.</li>
-<li>For example, very little data are available for quarterly GDP data which is used to <strong>calculate the growth rate of the economy.</strong></li>
-<li>First, except for agriculture,<strong> unorganised sector data is not available. </strong></li>
-<li>Second, for the organised sector, <strong>very limited data are available. </strong></li>
-<li>Third, projections from the previous year or proxies are used — both these <strong>introduce errors when there are repeated shocks</strong> to the economy, such as the pandemic and now the war.</li>
-<li><strong>Issues with price data: Price data</strong> too are problematic.</li>
-<li>The services sector is under-represented.</li>
-<li><strong>Prices of many services have risen</strong> and expenditures on them have increased dramatically, thus changing their weight in the consumption basket.</li>
-<li><strong>Common CPI:</strong> Further, the<strong> consumer price index is common</strong> for the upper classes and the poor.</li>
-<li> Earlier, there was a different index for various categories of people, which reflected the differential impact of inflation on people.</li>
-<li>This gave a truer picture of the economy and peoples’ distress.</li>
-</ul>
-<h4>Conclusion</h4>
-<p>Indian policymakers face the unenviable task of predicting the course of the economy for the next few months and even the year (or years) ahead because of the shocks and faulty and inadequate data. The problem is compounded by international factors.</p>
-<div class="post-inner thin">
-<div class="entry-content">
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div>
-</div>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/macrovariable-projections-in-uncertain-times/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Online Dispute Resolution in new-age digital commerce</title><link>https://www.civilsdaily.com/news/addressing-the-challenges-in-new-age-digital-commerce/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>ONDC</p><p><strong>Mains level : </strong>Paper 3- Online Dispute Resolution</p></div></div><h4>Context</h4>
-<p>Despite the rapid advancement of digital platforms on the one hand and the pervasiveness of the Internet-enabled phone on the other, small enterprises such as local <i>kirana </i>stores have not gained from this. Online purchases from “near and now” inventory from the local store remain in a digital vacuum.</p>
-<h4>Online revolution in country</h4>
-<ul>
-<li><strong>Increased smartphone use</strong>: The rise in smartphone use fuelled by affordable data plans has catalysed an online revolution in the country.</li>
-<li><strong>Pandemic accelerated digital inclusion:</strong> The novel coronavirus pandemic has further accelerated the process of digital inclusion.</li>
-<li>It is now not only routine to transact online it is also common to learn online, have medical consultations online, and even resolve disputes online.</li>
-<li><strong>Increased scope for innovation in digital space:</strong> These realisations have given India the opportunity to disrupt the status quo with its innovative abilities.</li>
-<li>Systems such as the Unique Identification Authority of India (UIDAI) and Aadhaar, the Unified Payments Interface (UPI) and the Ayushman Bharat Digital Mission have reengineered markets.</li>
-</ul>
-<h4>Why mall and medium sided businesses have not benefited from digital revolution?</h4>
-<ul>
-<li>Despite the rapid advancement of digital platforms small enterprises such as local kirana stores have not gained from this.</li>
-<li><strong>Cost of infrastructure:</strong> This is because, to sell on numerous platforms, sellers must <strong>maintain a separate infrastructure,</strong> which only adds costs and limits participation.</li>
-<li><strong>Distinct terms and conditions of platforms:</strong> The distinct terms and conditions of each platform further limit the sellers’ flexibility.</li>
-<li>Consequently, small and medium-sized businesses have lost their freedom to choose and participate in the country’s e-commerce system at their will and on their terms.</li>
-</ul>
-<h4>Way forward: Open Network for Digital Commerce</h4>
-<ul>
-<li>The Department for Promotion of Industry and Internal Trade (DPIIT) of the Government of India established the Open Network for Digital Commerce (ONDC)<strong> to level the playing field</strong> by developing open e-commerce and enabling access to small businesses and dealers.</li>
-<li>The ONDC began its pilot in five cities in April 2022, i.e., New Delhi, Bengaluru, Coimbatore, Bhopal and Shillong.</li>
-<li>Currently, the pilot has expanded to 18 cities, and there are immediate plans to add more cities.</li>
-<li>The ONDC network makes it possible for products and services from all participating e-commerce platforms to be displayed in search results across all network apps.</li>
-<li>For instance, a consumer shopping for a product on an e-commerce app named “X” would also receive results from e-commerce app named “Y”, if both X and Y integrated their platforms with the ONDC.</li>
-</ul>
-<h4>Dispute resolution through ODR</h4>
-<ul>
-<li>Disputes will be the obvious by-product of this e-commerce revolution.</li>
-<li>Therefore, it is imperative to support this initiative with a modern-day, cost-effective, timely and high-speed dispute resolution system.</li>
-<li><strong>Online Dispute Resolution, or ODR</strong> as it is popularly called, has the propensity to work alongside the incumbent setup and deliver quick, affordable and enforceable outcomes.</li>
-<li>The ODR is not restricted to the use of legal mechanisms such as mediation, conciliation and arbitration in an online environment but can be tailormade for the specific use case keeping the participants in mind.</li>
-<li>ODR commonly involves case management systems, integration of communication technologies such as email, SMS, WhatsApp, Interactive Voice Response, audio/video conferencing.</li>
-<li>With appropriate data sets in place, it can also involve advanced automation, the use of technologies such as artificial intelligence and machine learning to enable resolutions at the same time as it would take to initiate a transaction over the network.</li>
-<li>Many e-commerce companies have turned to the ODR with the realisation that in order to maximise transactions it is important to ensure a positive dispute resolution experience.</li>
-<li>Adoption in India: The ODR is no more a distant dream for India as well.</li>
-<li>The National Payments Corporation of India (NPCI) has mandated platforms in the UPI ecosystem <strong>to adopt the ODR for complaints and grievances connected to failed transactions</strong>.</li>
-<li> Ingram, SEBI SCORES (or the Securities and Exchange Board of India SEBI COm plaints REdress System), RBI CMS (or the Reserve Bank of India Complaint Management System), MahaRERA (or the Maharashtra Real Estate Regulatory Authority), MSME Samadhaan (or the Micro Small and Medium Enterprises Delayed Payment Monitoring System), and RTIOnline (or the Right to Information Online) are other examples of ODR systems that are widely used in the country.</li>
-<li><strong>Mitigating litigation risks</strong>: The ODR will help mitigate litigation risk and provide valuable insights into problems faced by consumers.</li>
-<li>Consumers are provided with another choice for effective redress of their grievances, thereby building trust, confidence and brand loyalty.</li>
-</ul>
-<h4>Advantages of ONDC</h4>
-<ul>
-<li><strong>Wider choice for consumers:</strong> The ONDC achieves the dual objective of wider choice for consumers on the one hand and access to a wider consumer base for sellers on the other.</li>
-<li>With India’s e-commerce industry set to reach $200 billion by 2027, this shift from a platform-centric paradigm to democratisation of the nation’s online market will catalyse the <strong>inclusion of millions of small business owners and kirana businesses.</strong></li>
-</ul>
-<h4>Conclusion</h4>
-<p>A dispute resolution framework that includes a customised ODR process can play a role in the network achieving its steep five-year target of adding $48 billion in gross merchandise value to India’s e-commerce market, a network of 90 crore buyers and 12 crore sellers with the least hiccups.</p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/addressing-the-challenges-in-new-age-digital-commerce/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>India, Bangladesh, Pakistan: What east can teach west</title><link>https://www.civilsdaily.com/news/india-bangladesh-pakistan-what-east-can-teach-west/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Not much</p><p><strong>Mains level : </strong>Paper 2- India-Bangladesh ties</p></div></div><h4>Context</h4>
-<p>The bilateral relationship between India and Bangladesh dominated by endless contentions at the turn of the millennium has transformed into a very productive partnership.</p>
-<h4>Contrast between India’s relations with Bangladesh and Pakistan</h4>
-<ul>
-<li>The persistence of cross-border terrorism, the conflict over Kashmir, the militarisation of the frontier, little connectivity, poor trade relations and no formal inter-governmental negotiations paint a bleak picture of the India-Pak border.</li>
-<li>The inability of successive generations of Indian and Pakistani leaders to bring a closure to Partition in the west makes the talk of a “100-year war” credible.</li>
-<li>The only trend that can counter this pessimism is the good news from<strong> India’s eastern frontier with Bangladesh.</strong></li>
-<li>In contrast to the talk of a 100-year war between India and Pakistan, India and Bangladesh have proclaimed a “sonali adhyay” or <strong>“golden chapter” in bilateral relations.</strong></li>
-<li>While the <strong>unresolved land and maritime territorial disputes</strong> constitute one of the main problems in India’s relations with Pakistan, their resolution with Bangladesh transformed the context of bilateral relations.</li>
-<li>For both Delhi and Dhaka, the reinvention of the bilateral relationship has been one of the most significant successes of their recent foreign policies</li>
-</ul>
-<h4>Rebuilding the Bangladesh-India ties after 2010</h4>
-<ul>
-<li>The work on rebuilding ties began in earnest in 2010, when Sheikh Hasina came to India after taking charge of Bangladesh as prime minister for the second time in 2009.</li>
-<li><strong>Addressing bilateral problems:</strong> Both sides embarked on an extraordinary effort to address most bilateral problems—including border settlement, river water sharing, cross-border terrorism, market access to Bangladeshi goods, and connectivity.</li>
-<li>The land boundary deal got parliamentary approval in 2015 in India.</li>
-<li>India also accepted the award of the Permanent Court of Arbitration in The Hague on settling the<strong> maritime boundary dispute between Delhi and Dhaka. </strong></li>
-<li><strong>Security cooperation:</strong> Cooperation on cross-border terrorism that began a couple of years earlier helped build <strong>much-needed political trust</strong> between the two national security establishments.</li>
-<li><strong>Connectivity:</strong> On the connectivity front, we have seen a substantive movement towards reopening the border that was largely shut down after the 1965 war between India and Pakistan.</li>
-<li>Trans-boundary bus services, reopening of railway lines, and the revitalisation of waterways are restoring connectivity in the eastern subcontinent that was severed.</li>
-<li><strong>Bilateral trade:</strong> Bilateral trade volumes have grown by leaps and bounds in recent years touching nearly<strong> $16 billion last year.</strong></li>
-<li>Bangladesh is one of <strong>India’s top export markets.</strong></li>
-<li> India and Bangladesh have also developed <strong>inter-connected power grids</strong> facilitating Dhaka’s purchase of power from India.</li>
-<li>It currently buys about <strong>1200 MW of power</strong> from India and an additional 1500 MW is in the pipeline.</li>
-<li><strong>Development of the northeastern India:</strong> Today the northeastern states have realised the immense benefits of deeper economic engagement with Bangladesh — none of them more important than ending the <strong>geographic isolation of the region.</strong></li>
-<li>Assam today is at the forefront of imagining a bolder agenda for deepening economic ties with Bangladesh.</li>
-<li><strong>Peace and prosperity in the region:</strong> For India, the expansive partnership with Bangladesh has significantly eased its security challenges and laid the basis for peace and prosperity in the eastern subcontinent.</li>
-<li>For Bangladesh, discarding the temptation to balance India and embark on a cooperative strategy has allowed Dhaka <strong>to focus on its economic growth</strong> and lift itself in the regional and global hierarchy.</li>
-</ul>
-<h4>Way forward</h4>
-<ul>
-<li><strong>Consolidating the gains:</strong> Rather than regret the unfortunate dynamic on the western frontier and bemoan Pakistan’s reluctance to let the SAARC become a vehicle for regional cooperation, Delhi should focus on <strong>consolidating the “golden moment” in the east.</strong></li>
-<li>The<strong> issues that need resolution</strong> are protecting the rights of minorities, sharing the waters of more than 50 rivers, promoting cross-border investments, managing one of the longest borders in the world, <strong>facilitating trade and preventing illegal migration</strong>, countering forces of religious extremism, promoting maritime security in the Bay of Bengal, expanding defence cooperation, and mitigating climate change in the shared regional environment to name a few.</li>
-<li>Solving problems and tending to the relationship must necessarily be a continuous effort rather than episodic.</li>
-</ul>
-<h4>Conclusion</h4>
-<p>Nor can Delhi and Dhaka take each other for granted and let domestic politics overwhelm the logic of bilateral cooperation. The 75th anniversary of independence offers Delhi and Dhaka a special opportunity to elevate the ambition for their bilateral partnership.</p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/india-bangladesh-pakistan-what-east-can-teach-west/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>India’s ‘wheat waiver’ WTO demand is risk-fraught</title><link>https://www.civilsdaily.com/news/indias-wheat-waiver-wto-demand-is-risk-fraught/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>WTO waiver</p><p><strong>Mains level : </strong>Paper 3- Public Stockholding of Food issue at WTO</p></div></div><h4>Context</h4>
-<p>The WTO ministerial meeting in June at Geneva did precious little to address the issue of public stockholding of food.</p>
-<h4>Public stockholding issue at WTO</h4>
-<ul>
-<li>India’s PSH policy is based on<strong> procuring food from farmers at an administered price</strong> (minimum support price or MSP), which is generally higher than the market price.</li>
-<li><strong>PSH’s’ twin objectives:</strong> The PSH policy serves the twin objectives of offering remunerative prices to farmers and providing subsidised food to the underprivileged.</li>
-<li><strong>Trade distortion subsidy:</strong> Under WTO law, such price support-based procurement from farmers is counted as a trade-distorting subsidy, and if given beyond the permissible limit, breaches WTO law.</li>
-<li>India in the World Trade Organization (WTO) — and rightly so — has been to find a permanent solution to the issue of public stockholding (PSH) of food to protect India’s food security (PSH policy).</li>
-<li><strong>Peace clause:</strong> Currently, India has temporary relief due to a<strong> ‘peace clause’</strong> which bars countries from bringing legal challenges against price support-based procurement for food security purposes.</li>
-<li>The WTO ministerial meeting in June at Geneva did precious little to address this issue.</li>
-<li> India’s concerns about the PSH issue have been taken on board.</li>
-</ul>
-<h4>India’s concerns</h4>
-<ul>
-<li>For India, the real issue is not about maintaining adequate food stocks, which WTO rules do not prohibit, provided food is stocked by employing non-trade distorting instruments such as providing income support to farmers (cash transfers independent of crop production).</li>
-<li><strong>Use of MSP:</strong> India’s concern is that it should have the policy space to hold public food stocks using the MSP, which is a price support instrument.</li>
-<li>However, there is no mention of price support in the Geneva declaration.</li>
-<li>India’s demand for a permanent solution to the PSH policy has acquired a new dimension.</li>
-<li>India insists that it should also be <strong>allowed to export food</strong>, most notably wheat, from the pool of the foodgrain procured under the MSP.</li>
-<li>However, WTO law proscribes countries from <strong>exporting foodgrain procured at subsidised prices.</strong></li>
-<li>Paragraph 4 of the 2013 WTO decision on PSH for food security purposes, clearly states that countries procuring food for food-security purposes shall ensure that such procured food does not “distort trade or adversely affect the food security of other Members”.</li>
-<li>The same spirit is reflected in paragraph 10 of the Geneva ministerial food security declaration, which states that countries may release surplus food stocks in the international market in accordance with WTO law.</li>
-<li> However, it is very unlikely that such a request will be acceded to.</li>
-<li>As per Article IX.3 of the WTO Agreement, waivers can be adopted only in “<strong>exceptional circumstances</strong>”.</li>
-</ul>
-<h4>Way forward</h4>
-<ul>
-<li>Developed countries have historically opposed India’s PSH programme as they apprehend that India might divert some of its public stock to the international market, thus depressing global prices.</li>
-<li>India actively pushing for exporting food from its official granaries gives fresh ammunition to the PSH solution opponents.</li>
-<li>Thus,<strong> India should revisit its stand</strong> on asking for a waiver for wheat exports from its public stockholding, which, in any case, was not a part of India’s PSH policy.</li>
-<li>Spending scarce negotiating capital on this issue might dilute India’s core agenda of pushing for a permanent solution for its PSH programme to attain the goal of food security and providing remunerative prices to the farmers.</li>
-<li>Negotiations at the WTO require crystal clarity of the core objectives that should be relentlessly pursued.</li>
-<li>Adding newer objectives and shifting goalposts might result in falling between two stools.</li>
-</ul>
-<h4>Conclusion</h4>
-<p>Instead of asking for the waiver to export wheat from public stockholding, the laudable objective of helping countries facing food crises can be accomplished by strengthening India’s commitment to the United Nations World Food Programme.</p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2022 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/indias-wheat-waiver-wto-demand-is-risk-fraught/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>India’s response to Sri Lanka and Myanmar crises is a study in contrast</title><link>https://www.civilsdaily.com/news/indias-response-to-sri-lanka-and-myanmar-crises-is-a-study-in-contrast/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Not much</p><p><strong>Mains level : </strong>Paper 2- Crisis in Myanmar and issues with India's response to it</p></div></div><h4>Context</h4>
-<p>There is a stark contrast contrast between the Indian response to the crisis in Sri Lanka and the dawning civil war in Myanmar.</p>
-<h4>Crisis in Myanmar</h4>
-<ul>
-<li>According to UN human rights monitors, over 2,000 people have been killed, around 14,000 are in prison, including 90 lawmakers, over 7,00,000 are refugees and half a million internally displaced.</li>
-<li>Humanitarian aid to coup opponents is blocked.</li>
-<li>The economy is in free fall.</li>
-<li>Though the<strong> international community</strong> has not accepted the junta or its nominees as official representatives of Myanmar, it has not recognised the unity government as the legitimate successor of the pre-coup elected administration either.</li>
-<li>Its armed wing, the recently-formed <strong>People’s Defence Force (PDF)</strong>, exists in a shadowy limbo.</li>
-<li>If it is too weak to impose significant costs on the junta, one root cause is the <strong>lack of support from neighbours</strong>.</li>
-<li>As against Europe’s military support for Ukraine’s defence, no Asian country has stepped up to support the unity government and PDF.</li>
-<li><strong>Role of ASEAN:</strong>  It is ASEAN which shouldered the responsibility to mediate in Myanmar, whereas India took the initiative with Sri Lanka.</li>
-<li>But ASEAN has been largely unsuccessful.</li>
-<li>The<strong> five-point consensus</strong> that the junta agreed on with the regional grouping included an immediate end to violence and resumption of negotiations between the ousted administration and the Tatmadaw.</li>
-<li>ASEAN’s reaction has been weak at best.</li>
-<li>The US, EU, Australia and Canada announced targeted sanctions on the junta, and the EU imposed an embargo on arms sales to the country. ASEAN did not.</li>
-</ul>
-<h4>India’s response and issues with it</h4>
-<ul>
-<li>The contrast between the Indian response to the crisis in Sri Lanka and the dawning civil war in Myanmar could not be starker.</li>
-<li><strong>There is no support</strong> from the India administration for Mizoram’s aid effort, and apparently there is no Indian policy vis a vis the coup either.</li>
-<li><strong>Cooperation against cross-border insurgency:</strong> Given our land and sea borders with Myanmar, and the troubled history of cross-border insurgencies between our two countries, the India’s inertia is alarming, though not entirely surprising.</li>
-<li>Successive Indian administrations maintained relations with the junta in the hope that they would cooperate against cross-border Indian armed groups.</li>
-<li>But these<strong> insurgencies have reduced. </strong></li>
-<li>In fact, over the 10 years of Myanmar’s partial democracy, from 2011 to 2021, cross-border support for Indian insurgents dipped sharply.</li>
-<li><strong>Direct security interest:</strong> In other words, we have<strong> a direct security interest in the restoration of our neighbour’s democracy.</strong></li>
-</ul>
-<h4>Way forward</h4>
-<ul>
-<li><strong>Stringent sanctions: Sanctions</strong> that will starve the junta are a first step that Myanmar’s neighbours are yet to try.</li>
-<li>While ASEAN has the initiative, all<strong> Myanmar’s neighbours need to unite on sanctions,</strong> especially nations such as Japan, Australia and India that are members of the Quad along with the US.</li>
-<li>Myanmar ought to have topped the recent Quad summit’s agenda and it is shameful that it did not.</li>
-<li>It is still not too late to call a virtual emergency meeting of Quad heads of state, along with ASEAN heads of state, to agree to stringent sanctions.</li>
-</ul>
-<h4>Conclusion</h4>
-<p>Our neighbourhood is more unstable today than it has been for decades. Four of our bordering countries are in free fall, while China’s grip comes closer to our shores by the hour. Can India afford to fiddle while wildfires ignite around us?</p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2022 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/indias-response-to-sri-lanka-and-myanmar-crises-is-a-study-in-contrast/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 +0553</pubDate></item><item><title>A new global vision for G20</title><link>https://www.civilsdaily.com/news/a-new-global-vision-for-g20/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Sun, 21 Aug 2022 01:38:30 +0000</lastBuildDate><item><title>A new global vision for G20</title><link>https://www.civilsdaily.com/news/a-new-global-vision-for-g20/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>G-20</p><p><strong>Mains level : </strong>Paper 2- New framework for G20</p></div></div><h4>Context</h4>
 <p>While India has taken a clear view of the role of the G20, there is concern that the agenda, themes and focus areas which India will set for 2023 lack vision.</p>
@@ -1002,7 +642,7 @@ Post your answers here.</blockquote>
 </div><!-- .entry-content -->
 </div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/mystery-of-milk-price-going-up-when-wpi-inflation-is-down/</guid><pubDate>Fri, 19 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Thin line between freebies and public welfare</title><link>https://www.civilsdaily.com/news/thin-line-between-freebies-and-public-welfare/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Social security,Populist measures.</p></div></div><p><strong><img alt="" class="alignnone wp-image-623266" height="268" sizes="(max-width: 536px) 100vw, 536px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-300x150.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-300x150.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-768x384.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1.jpg 832w" width="536"/>Context</strong></p>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Social security,Populist measures.</p></div></div><p><strong><img alt="" class="alignnone wp-image-623266" height="268" loading="lazy" sizes="(max-width: 536px) 100vw, 536px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-300x150.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-300x150.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-768x384.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1.jpg 832w" width="536"/>Context</strong></p>
 <ul>
 <li>‘Revdi Culture’ (sweet) or Govt’s Basic Responsibility? What Prioritising Welfare Is Really About</li>
 <li>While hearing a petition demanding the de-recognition of political parties that promise “irrational freebies” to voters, the Supreme Court recently drew attention to the substantial fiscal cost of freebies.</li>
@@ -1067,4 +707,461 @@ Post your answers here.</blockquote>
 <p><strong> <a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a> </strong></p>
 <p> </p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/thin-line-between-freebies-and-public-welfare/</guid><pubDate>Fri, 19 Aug 2022 00:00:00 +0553</pubDate></item></channel></rss>
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/thin-line-between-freebies-and-public-welfare/</guid><pubDate>Fri, 19 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Solar energy is the future</title><link>https://www.civilsdaily.com/news/solar-energy-is-the-future/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>International solar alliance.</p><p><strong>Mains level : </strong>Energy security.</p></div></div><p> </p>
+<h4><strong><img alt="" class="alignnone wp-image-623629" height="337" loading="lazy" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/download.jpeg" width="506"/>Context </strong></h4>
+<ul>
+<li>Tesla and SpaceX CEO Elon Musk has said that civilisation will be mostly solar-powered in the future, a world without Sun will turn into a dark ice ball as the Earth gets all of its energy from it.</li>
+</ul>
+<h4><strong>Definition of solar energy </strong></h4>
+<ul>
+<li>Solar energy is radiant light and heat from the Sun that is harnessed using a range of technologies such as solar power to generate electricity, solar thermal energy, and solar architecture.</li>
+</ul>
+<h4><strong>India’s solar target</strong>.</h4>
+<ul>
+<li><strong>Target</strong>: India is targeting <strong>about 500 GW by 2030</strong>, of renewable energy deployment, out of which ~<strong>280 GW is expected from solar PV</strong>. This necessitates the deployment of nearly <strong>30 GW of solar capacity every year until 2030.</strong></li>
+<li><strong>Commitment: </strong>Solar power is a major prong of India’s commitment to address global warming according to the terms of the Paris Agreement, as well as achieving net zero, or no net carbon emissions, by 2070.</li>
+</ul>
+<h4><strong>International solar alliance and India’s pledge </strong></h4>
+<ul>
+<li><strong>Climate action commitment</strong>: It symbolizes about the sincerity of the developing nations towards their concern about climate change and to switch to a low-carbon growth path.</li>
+<li><strong>Clean energy</strong>: India’s pledge to the Paris summit offered to bring 40% of its electricity generation capacity from non-fossil sources (renewable, large hydro, and nuclear) by 2030.</li>
+<li><strong>Global electrification</strong>: India has pledged to let solar energy reach to the most unconnected villages and communities and also towards creating a clean planet.</li>
+<li><strong>Global cooperation</strong>: It is based on world cooperation irrespective of global boundaries.</li>
+<li><strong>India’s Soft power</strong>: For India, possible additional benefits from the alliance can be a strengthening of ties with the major African countries and increasing goodwill for India among them.</li>
+</ul>
+<blockquote>
+<h4><strong>Some Interesting facts</strong></h4>
+<h4><strong style="font-family: NonBreakingSpaceOverride, 'Hoefler Text', Garamond, 'Times New Roman', serif; letter-spacing: normal; font-size: 21px;">Solar power is the most abundant energy source on earth.</strong></h4>
+<h4><strong style="font-family: NonBreakingSpaceOverride, 'Hoefler Text', Garamond, 'Times New Roman', serif; letter-spacing: normal; font-size: 21px;">Solar is the cheapest source of energy in the world.</strong></h4>
+<h4><strong style="font-family: NonBreakingSpaceOverride, 'Hoefler Text', Garamond, 'Times New Roman', serif; letter-spacing: normal; font-size: 21px;">Solar electricity has been around since 1839.</strong></h4>
+<h4><strong style="font-family: NonBreakingSpaceOverride, 'Hoefler Text', Garamond, 'Times New Roman', serif; letter-spacing: normal; font-size: 21px;">Solar panels can produce power without direct sunlight.</strong></h4>
+</blockquote>
+<h4><strong>Challenges before solar future </strong></h4>
+<ul>
+<li><strong>High Imports</strong>: Indian solar deployment or installation companies depend heavily on imports. It currently imports 100% of silicon wafers and around 80% of cells even at the current deployment levels.</li>
+<li><strong>Field deployment</strong>: Also, out of the 15 GW of module manufacturing capacity, only 3-4 GW of modules are technologically competitive and worthy of deployment in grid-based projects.</li>
+<li><strong>Land issue</strong>: Land, the most expensive part of solar projects, is scarce in India — and Indian industry has no choice but to move towards newer and superior technologies as part of expansion plans.</li>
+<li><strong>Lack of investment</strong>: India has hardly invested in this sector which can help the industry to try and test the technologies in a cost-effective manner.</li>
+</ul>
+<h4><strong>Way forward </strong></h4>
+<ul>
+<li>Supportive policies and innovative technological approaches are needed for the sector to achieve its potential.</li>
+<li>Indian policymakers need to plan for rooftop solar plus storage, rather than rooftop solar alone with the grid as storage (net / gross metering).</li>
+<li>The declining cost of storage solutions, along with that of rooftop solar solutions, is likely to change the future of the Indian power sector.</li>
+</ul>
+<h4><strong>Conclusion </strong></h4>
+<ul>
+<li>In the foreseeable future, one can witness a just and equitable energy order if solar energy, along with other forms of renewable energy, can be harnessed more positively.</li>
+</ul>
+<blockquote><p><strong>Mains question</strong></p>
+<p><strong> Q.</strong> <strong>Fossil fuels have a 60% share in India’s total energy mix in this context discuss solar future for India with challenges for the same.</strong></p></blockquote>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/solar-energy-is-the-future/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Panch prans for better India</title><link>https://www.civilsdaily.com/news/panch-prans-for-better-india/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Challenges of future.</p></div></div><h4><strong>Context </strong></h4>
+<ul>
+<li>PM Modi’s Independence Day speech outlined agenda for a radical transformation of society and nation.</li>
+</ul>
+<h4><strong>What are 5 resolves given by PM?</strong></h4>
+<ul>
+<li>Take pride in India’s history.</li>
+<li>The power of unity.</li>
+<li>Duties of citizens, such as those of the PM and CMs.</li>
+<li>Advance with greater conviction and the determination of a developed India.</li>
+<li>Get rid of any signs of slavery.</li>
+</ul>
+<p><img alt="" class="alignnone wp-image-623634" height="356" loading="lazy" sizes="(max-width: 356px) 100vw, 356px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/pm-300x300.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/pm-300x300.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/pm-150x150.jpeg 150w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/pm.jpeg 680w" width="356"/></p>
+<h4><strong>Detail analysis 5 resolves of pm </strong></h4>
+<p><strong>(1)First pran:</strong> The first pran is about inculcating a culture of <strong>thinking big and at scale</strong>.</p>
+<ul>
+<li>The first vow is for the country to move ahead with <strong>a big resolve</strong>. And that big resolution is of a <strong>developed India</strong>; and now we should not settle for anything less than that. <strong>Big resolution!</strong></li>
+<li>Some examples include the world’s largest financial inclusion programme, the largest vaccination drive, the largest health insurance programme and the largest social security schemes.</li>
+</ul>
+<p><strong>(2)Second pran:</strong> The second Pran is that in no part of our existence, not even in the deepest corners of our mind or habits <strong>should there be any ounce of slavery</strong>. It should be nipped there itself.</p>
+<ul>
+<li>Now, 100 per cent this slavery of hundreds of years has kept us bound, has forced us to keep our emotions tied up, have developed distorted thinking in us.</li>
+<li>We have to liberate ourselves from the slavery mind set which is visible in innumerable things within and around us. This is our second Pran Shakti.</li>
+</ul>
+<p>(3)<strong>Third pran</strong>: The third Pran is that we should feel <strong>proud of our heritage and legacy.</strong></p>
+<ul>
+<li>Since it is this same legacy which had given India its golden period in the past. And it is this legacy that has an innate capability of transforming itself with time.</li>
+<li>It is this rich heritage that transcends tests of tide and times. It embraces the new. And hence we should be proud of this heritage.</li>
+</ul>
+<p>(4)<strong>Fourth pran</strong>: Fourth pran which is equally important is <strong>unity and solidarity</strong>.</p>
+<ul>
+<li>Amongst 130 million countrymen when there is harmony and bonhomie, unity becomes its strongest virtue.</li>
+<li><strong>“Ek Bharat Shreshtha Bharat”</strong> – is one of the unifying initiatives to actuate the dream of the fourth Pran.</li>
+</ul>
+<p>(5)<strong>Fifth pran</strong>: Fifth Pran is <strong>the duty of the citizens</strong>, in which even the Prime Minister, Chief Minister cannot be an exclusion.</p>
+<ul>
+<li>As they are also responsible citizens and have a duty towards the nation. This virtue is going to be the vital life force if we want to achieve the dreams we have for the next 25 years.</li>
+</ul>
+<h4><strong>Challenges before India in next 25 years </strong></h4>
+<ul>
+<li><strong>Skill development and employment for the future: </strong>workforce According to the World Economic Forum’s report “The Future of Jobs 2018”, more than half of Indian workers will require reskilling by 2022 to meet the talent demands of the future. They will each require an extra 100 days of learning, on average.</li>
+<li><strong>Socioeconomic inclusion of rural India</strong>: By 2030, 40% of Indians will be urban residents. However, there will also be more than 5,000 small urban towns (50,000-100,000 persons each) and more than 50,000 developed rural towns (5,000-10,000 persons each) with similar income profiles, where aspirations are fast converging with those of urban India.</li>
+<li><strong>A healthy and sustainable future:</strong> As India marches forward, it faces new challenges in health and sustainable living, even as it has achieved key health targets such as polio eradication.</li>
+</ul>
+<h4><strong>Conclusion </strong></h4>
+<ul>
+<li>The nation should now only be setting big goals. That big goal is a developed India and nothing less.</li>
+</ul>
+<blockquote><p><strong>Mains question </strong></p>
+<p><strong>Q. What are the challenges India will face in next 25 years? Discuss the panch pran resolves of PM showing how they will address these challenges.</strong></p></blockquote>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/panch-prans-for-better-india/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Need of robust Justice delivery</title><link>https://www.civilsdaily.com/news/need-of-robust-justice-delivery/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<h4><strong><img alt="" class="alignnone wp-image-623638" height="284" loading="lazy" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/justice.jpeg" width="419"/>Context</strong></h4>
+<ul>
+<li>Over 6,000 Signatories Demand To Reverse Bilkis Bano Convicts’ Release.</li>
+</ul>
+<h4><strong>Why in news?</strong></h4>
+<ul>
+<li>Eleven convicts, sentenced to life imprisonment, released from Godhra sub-jail on August 15 after the Gujarat government allowed their release under its remission policy. They had completed more than 15 years in jail.</li>
+</ul>
+<h4><strong>What is the issue?</strong></h4>
+<ul>
+<li>Bilkis Bano was 21-years-old and five months pregnant when she was gang-raped while fleeing the violence that broke out after the Godhra train burning. Among those killed were her 3-year-old daughter.</li>
+</ul>
+<h4><strong>What is remission?</strong></h4>
+<ul>
+<li>The duration of the sentence announced by the court can be cut short under special circumstances while the nature of the sentence remains the same, depending upon the nature of the crime.</li>
+</ul>
+<h4><strong>Indian Judiciary: A Backgrounder</strong></h4>
+<ul>
+<li><strong>Saviour of democracy</strong>: It speaks truth to political power, upholds the rights of citizens, mediates between Centre-state conflicts, provides justice to the rich and poor alike, and on several momentous occasions, saved democracy itself.</li>
+<li><strong>Visible gaps:</strong> Despite its achievements, a gap between the ideal and reality has been becoming clear over the years.</li>
+<li><strong>Slow in speed</strong>: The justice delivery is slow, the appointment of judges is mired in controversy, disciplinary mechanisms scarcely work, hierarchy rather than merit is preferred, women are severely under-represented, and constitutional matters often languish in the Supreme Court for years.</li>
+</ul>
+<h4><strong>What led to under-performance of Indian Judiciary?</strong></h4>
+<ul>
+<li>Population explosion</li>
+<li>Litigation explosion</li>
+<li>Hasty and imperfect drafting of legislation</li>
+<li>Plurality and accumulation of appeals (Multiple appeals for the same issue)</li>
+</ul>
+<h4><strong>Challenges to the judicial system</strong></h4>
+<ul>
+<li>Lack of infrastructure of courts</li>
+<li>High vacancy of judges in the district judiciary</li>
+<li>Pendency of Cases</li>
+<li>Ineffective planning in the functioning of the courts</li>
+</ul>
+<h4><strong>Judicial initiative </strong></h4>
+<ul>
+<li>The CJI has pitched to set up <strong>a National Judicial Infrastructure Corporation (NJIC)</strong> to develop judicial infrastructure in trial courts.</li>
+<li>He indicated a substantial gap in infrastructure and availability of basic amenities in the lower judiciary.</li>
+</ul>
+<blockquote>
+<h4><strong>Enrich your mains answer with this</strong></h4>
+<h4>Finland’s criminal justice system was voted the world’s best.</h4>
+<ul>
+<li>Under the Constitution of Finland, everyone is entitled to have their case heard by a court or an authority appropriately and without undue delay. This is achieved through the judicial system of Finland.</li>
+</ul>
+</blockquote>
+<h4><strong>Dynamic suggestions </strong></h4>
+<ul>
+<li><strong>Creating NJIC</strong>: It will bring a revolutionary change in the judicial functioning provided the proposed body is given financial and executive powers to operate independently of the Union and the State governments.</li>
+<li><strong>Appointment reforms</strong>: There are many experts who advocate the need to appoint more judges with unquestionable transparency in such appointments.</li>
+<li><strong>Creating All Indian Judiciary Services</strong>: It would be a landmark move to create a pan-India Service that would result in a wide pool of qualified and committed judges entering the system.</li>
+<li><strong>Technology infusion</strong>: The ethical and responsible use of AI and ML for the advancement of efficiency-enhancing can be increasingly embedded in legal and judicial processes. Ex. SUPACE.</li>
+</ul>
+<h4><strong>Way forward</strong></h4>
+<ul>
+<li>It is time for courts to wake up from their colonial stupor and face the practical realities of Indian society.</li>
+<li>Rules and procedures of justice delivery should be made simple.</li>
+<li>The ordinary, poor, and rural Indian should not be scared of judges or the courts.</li>
+</ul>
+<h4><strong>Conclusion </strong></h4>
+<ul>
+<li>India’s capacity to deliver justice has serious deficits with under-capacity and gender imbalance plaguing police, prisons and the judiciary and fund crunch affecting state services like free-legal aid. So there is urgent need of <strong>National Judicial Infrastructure Authority</strong>for the standardization and improvement of judicial infrastructure and robust justice delivery.</li>
+</ul>
+<blockquote><p><strong>Mains question </strong></p>
+<p><strong>Q. Do you think there are serious gaps in our judicial infrastructure and justice delivery? Identify these gaps and provide some dynamic suggestions from your end in the context of Bilkis Bano verdict. </strong></p></blockquote>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+<p> </p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/need-of-robust-justice-delivery/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Species in news: Tasmanian Tiger</title><link>https://www.civilsdaily.com/news/species-in-news-tasmanian-tiger/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Tasmanian Tiger</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><img alt="" class="alignnone size-medium wp-image-623646" height="220" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/tas-300x220.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/tas-300x220.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/tas.jpg 607w" width="300"/></p>
+<p>Scientists in the US and Australia have embarked on a $15-million project to resurrect the thylacine or Tasmanian Tiger, a marsupial that went extinct in the 1930s, using gene-editing technology.</p>
+<h4>Tasmanian Tiger</h4>
+<ul>
+<li>The Tasmanian tiger or thylacine (a dog-headed pouched dog) was an exclusively carnivorous marsupial that is considered to be extinct.</li>
+<li>It has a resemblance to a dog, with its distinguishing features being the dark stripes beginning at the rear of its body and extending into its tail, its stiff tail and abdominal pouch.</li>
+<li>The last known thylacine died in captivity over 80 years ago, in Tasmania’s Hobart Zoo in 1936.</li>
+<li>It may also be the only mammal to have become extinct in Tasmania since the European settlement.</li>
+</ul>
+<h4>Why did they become extinct?</h4>
+<ul>
+<li>It was confined to Tasmania in recent times and disappeared from mainland Australia over 2000 years ago, mainly because of over-hunting by humans, diseases and competition from the Dingo (Canis lupus), a wild dog native to Australia.</li>
+<li>The Thylacine was also persecuted because it was believed to be a threat to sheep and in its latter years it was hunted for the purposes of collection by museums and zoos.</li>
+<li>As per some accounts, the introduction of sheep in 1824 led to a conflict between the settlers and thylacine.</li>
+</ul>
+<h4>Why in news?</h4>
+<ul>
+<li>The ambitious project aims to reintroduce the animal to its native place Tasmania to revive the region’s lost ecological balance.</li>
+<li>Interestingly, this is not the first attempt to revive thylacines.</li>
+<li>In 1999, an Australian scientist, Dr Michael Archer, embarked on an unsuccessful journey to resurrect the animal using cloning technology from a perfectly preserved specimen in a museum.</li>
+</ul>
+<h4>The resurrection process</h4>
+<ul>
+<li>Even though the last living thylacine died over 86 years ago, many embryos and young specimens of the species have been preserved.</li>
+<li>Scientists will be using a genome sequenced from a DNA extracted from a 108-year-old specimen held at Australia’s Victoria Museum.</li>
+<li>This genome will be compared with the closest living animal of the species– the fat tailed dunnart — to identify all the differences.</li>
+<li>Once all the differences are identified, scientists will engineer the living cell’s DNA where it is different, essentially engineering the extinct species back.</li>
+<li>The fat-tailed dunnart is a mouse-like species in the Dasyuridae family in Australia. With an average body length of 2.4–3.5 inches, they are one of the smallest carnivorous marsupials.</li>
+</ul>
+<h4>Criticisms of the move</h4>
+<ul>
+<li>Researchers have raised concerns about the practicality of the technology.</li>
+<li>De-extinction is a fairytale science a/c to them and is more about media attention for the scientists and less about doing serious science.</li>
+</ul>
+<hr/>
+<h4>Back2Basics: De-extinction technology</h4>
+<ul>
+<li>De-extinction, or resurrection biology, is the method of creating a species that went extinct or is endangered, in order to revitalise ecological diversity and balance shattered due to reasons ranging from biodiversity loss to climate change.</li>
+<li>While cloning is the most widely used method of de-extinction, genome editing and selective breeding are also considered effective ways.</li>
+<li>The Pyrenean ibex, a subspecies of Spanish ibex, was one of the first extinct animals that have been resurrected using somatic cell nuclear transfer (SCNT).</li>
+<li>However, the baby Ibex died minutes after its birth from lung defect.</li>
+<li>One of the challenges of de-extinction is that reintroducing the species to its former habitat may make it an invasive species, which will also impact the balance of the current ecological system.</li>
+</ul>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/species-in-news-tasmanian-tiger/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Who was Lord Curzon, the Viceroy of India who partitioned Bengal in 1905?</title><link>https://www.civilsdaily.com/news/who-was-lord-curzon-the-viceroy-of-india-who-partitioned-bengal-in-1905/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Partition of Bengal, Lord Curzon</p><p><strong>Mains level : </strong>Partition of Bengal and its aftermath</p></div></div><p><img alt="" class="alignnone size-medium wp-image-623644" height="300" loading="lazy" sizes="(max-width: 194px) 100vw, 194px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/curz-194x300.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/curz-194x300.jpg 194w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/curz.jpg 224w" width="194"/></p>
+<p>The 119-year-old Curzon Gate in Bardhaman in West Bengal is at the centre of a political row.</p>
+<h4>Who was Lord Curzon?</h4>
+<ul>
+<li>Born in 1859, Curzon was a British conservative politician who was educated at the elite institutions of Eton and Oxford.</li>
+<li>He served as Under-Secretary of State for India (1891-1892), and for Foreign Affairs (1895-1898), before being appointed Viceroy of India in 1899.</li>
+<li>As viceroy, his administration was known for intense activity and emphasis on efficiency.</li>
+<li>He stated in his budget speech in 1904, “Efficiency of administration is, in my view, a synonym for the contentment of the governed”.</li>
+</ul>
+<h4>Rise to infame</h4>
+<ul>
+<li>Of all the Viceroys of India, Curzon is possibly the most criticised — he is the man who partitioned Bengal in 1905, and triggered a wave of Bengali nationalism that contributed to the wider Indian national movement.</li>
+<li>He was also one of the more openly imperialist of viceroys, and a man who saw Britain’s rule over India as critical to the survival of empire.</li>
+<li>In 1900, Curzon famously stated, “We could lose all our [white settlement] dominions and still survive, but if we lost India, our sun would sink to its setting.”</li>
+</ul>
+<h4>His works</h4>
+<ul>
+<li>Curzon created a separate Muslim majority province of the North-West Frontier Province, sent a British expedition to Tibet and established a separate police service.</li>
+<li>He was instrumental in establishing the Archaeological Survey of India, in order to study and protect historical monuments.</li>
+<li>Early on in his career, Curzon earned some praise from his colonial subjects for taking action against Europeans in a number of high-profile racist attacks against Indians.</li>
+<li>In 1899, he punished white soldiers for raping a woman in Rangoon; he disciplined soldiers of the 9th Lancers for beating an Indian cook in Sialkot to death in 1902.</li>
+<li>He had tried unsuccessfully to get the Calcutta High Court to change the meagre punishment given to an Assam tea manager for murdering a “coolie”.</li>
+</ul>
+<h4>Why was he disliked then?</h4>
+<ul>
+<li>Curzon was both vexed and enraged by the growing nationalist movement in India and he sought to throttle the growing aspirations of the educated Indian middle class.</li>
+<li>A staunch imperialist, he took a series of extremely unpopular measures, including passing, in 1899, the Calcutta Municipal Amendment Act.</li>
+<li>He reduced the number of elected representatives in the Calcutta Corporation.</li>
+<li>Among others was the Indian Universities Act (1904), that placed Calcutta University under government control, and the Indian Official Secrets Amendment Act (1904) which reduced the freedom of the press even further.</li>
+<li>Ironically though, it was his biggest and most reviled decision — to partition Bengal in 1905 — that led to a spurt in nationalist sentiment and revitalized the Congress.</li>
+</ul>
+<h4>How and why did the partition of Bengal take place?</h4>
+<p><img alt="" class="alignnone size-medium wp-image-623647" height="229" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/partn-300x229.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/partn-300x229.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/partn.jpg 596w" width="300"/></p>
+<ul>
+<li>Calcutta was the capital of the British Raj, and Bengal Presidency was one of the largest provinces in India, populated by more than 78 million people.</li>
+<li>It was such a huge province encompassing present-day West Bengal, Bangladesh, Bihar, parts of Chhattisgarh, Odisha, and Assam.</li>
+<li>For long, the British had maintained that Bengal was too large to efficiently manage and administer; it was also believed that with Calcutta as the nerve centre of the educated nationalists, the resistance to colonial rule would only increase.</li>
+<li>Home Secretary H H Risley noted in 1904, “Bengal united is a power; Bengal divided will pull in several different ways.</li>
+</ul>
+<h4>Actual course of Partition</h4>
+<ul>
+<li>In July 1905, Curzon announced the partition of Bengal into two provinces.</li>
+<li>East Bengal and Assam, with a population of 38 million, was predominately Muslim, while the western province, called Bengal, and was reduced to 55 million people, primarily Hindus.</li>
+<li>Protests began almost immediately after the announcement, with meetings taking place in more than 300 cities, towns, and villages across Bengal.</li>
+</ul>
+<h4>What were the consequences of the partition?</h4>
+<ul>
+<li>In opposition to the partition, nationalist leaders organized a campaign <strong><u>a boycott British goods and institutions</u></strong> and encouraged the use of local products.</li>
+<li>After a <strong><u>formal resolution</u></strong> was passed at a meeting in Calcutta in August 1905, the Swadeshi movement began.</li>
+<li>Students were at the forefront of the movement, which was characterized by <strong><u>boycotts of British educational institutions and law courts</u></strong>, and large bonfires of imported cotton textiles.</li>
+<li>There was a surge in nationalist rhetoric, and the <strong><u>song ‘Bande Mataram’</u></strong>, set to music by Rabindranath Tagore, became the informal anthem of the movement.</li>
+<li>The <strong><u>Swadeshi movement and boycott</u></strong> was not restricted to Bengal, and spread to other parts of the country, including Punjab, Maharashtra, and parts of the Madras Presidency.</li>
+<li>A number of <strong><u>secret societies</u></strong>, such as the <strong><u>Anushilan Samiti of Bengal</u></strong>, sought to overthrow British rule through violent means.</li>
+<li>Revolutionary groups used bombs, attempted to assassinate colonial officials, and engaged in armed robberies to finance their activities.</li>
+</ul>
+<h4>(Irreversible) Revocation of the Partition</h4>
+<ul>
+<li>In 1905, Curzon resigned and returned to England after losing a power struggle with the commander-in-chief of the British Army, Lord Kitchener.</li>
+<li>The protests continued after his exit, and the colonial government in 1911 announced the reunification of Bengal.</li>
+<li>Thenceforth the capital of the Raj was shifted from Calcutta to Delhi.</li>
+</ul>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/who-was-lord-curzon-the-viceroy-of-india-who-partitioned-bengal-in-1905/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Indian team deliberating on Ocean Diversity Pact</title><link>https://www.civilsdaily.com/news/indian-team-deliberating-on-ocean-diversity-pact/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>UNCLOS</p><p><strong>Mains level : </strong>High seas regulation</p></div></div><p>A delegation from India and other member countries of the UN are in New York to deliberate on a one-of-its-kind agreement to conserve marine biodiversity in the high seas, namely the oceans that extend beyond countries’ territorial waters.</p>
+<h4>What is the news?</h4>
+<ul>
+<li>The agreement follows a resolution by the UN General Assembly.</li>
+<li>The pact is expected to be the final in a series set in motion since 2018 to draft an international legally binding instrument under the 1982 United Nations Convention on the Law of the Sea (UNCLOS).</li>
+</ul>
+<h4>Why need Ocean Diversity Pact?</h4>
+<h4>(1) Deciding on rights of explorers</h4>
+<ul>
+<li>A key aspect of the agreement is <strong><u>deciding on the rights of companies </u></strong>that undertake exploration<strong> <u>for biological resources in the high seas. </u></strong></li>
+<li>It is under discussion if companies have <strong><u>absolute rights</u></strong> on any discovery or extraction in these regions <strong><u>or should they share their gains</u></strong>, in terms of intellectual property and royalties with an UN-prescribed body.</li>
+</ul>
+<h4>(2) Regulation for exotic items</h4>
+<ul>
+<li>The focus of mining activity in the sea has been for <strong><u>gas hydrates, precious metals and other fossil fuel</u></strong></li>
+<li>However, with advances in biotechnology and genetic engineering, several companies see potential in exotic microbes and other organisms — several of them undiscovered — that abide in the deep ocean and could be used for drugs and vaccines.</li>
+</ul>
+<h4>(3) ‘Blue Economy’ policy of India</h4>
+<ul>
+<li>The Union Cabinet approved a ‘<strong><u>Blue Economy’ policy for India</u></strong>, a nearly ₹4,000-crore programme spread over five years.</li>
+<li>This among other things will develop a manned submersible vessel as well as work on bio-prospecting of deep-sea flora and fauna including microbes.</li>
+<li>Studies on sustainable utilisation of deep sea bio-resources will be the main focus.</li>
+</ul>
+<h4>What is UNCLOS?</h4>
+<ul>
+<li>UNCLOS is sometimes referred to as the Law of the Sea Convention or the Law of the Sea treaty.</li>
+<li>It came into operation and became effective from 16th November 1982.</li>
+<li>It defines the rights and responsibilities of nations with respect to their use of the world’s oceans, establishing guidelines for businesses, the environment, and the management of marine natural resources.</li>
+<li>It has created three new institutions on the international scene :</li>
+</ul>
+<ol>
+<li>International Tribunal for the Law of the Sea,</li>
+<li>International Seabed Authority</li>
+<li>Commission on the Limits of the Continental Shelf</li>
+</ol>
+<blockquote><p><strong>Note:</strong> UNCLOS does not deal with matters of territorial disputes or to resolve issues of sovereignty, as that field is governed by rules of customary international law on the acquisition and loss of territory.</p></blockquote>
+<p><strong>Major conventions:</strong></p>
+<p>There had been three major conferences of UNCLOS:</p>
+<ol>
+<li><strong>UNCLOS I:</strong> It resulted in the successful implementation of various conventions regarding Territorial Sea and Contiguous Zones, Continental Shelf, High Seas, Fishing Rights.</li>
+<li><strong>UNCLOS II:</strong> No agreement was reached over breadth of territorial waters.</li>
+<li><strong>UNCLOS III:</strong> It introduced a number of provisions. The most significant issues covered were setting limits, navigation, archipelagic status and transit regimes, exclusive economic zones (EEZs), continental shelf jurisdiction, deep seabed mining, the exploitation regime, protection of the marine environment, scientific research, and settlement of disputes.</li>
+</ol>
+<p>The convention set the limit of various areas, measured from a carefully defined baseline.</p>
+<p><img alt="" class="alignnone wp-image-500460" height="262" loading="lazy" sizes="(max-width: 595px) 100vw, 595px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2021/12/unclos-300x132.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2021/12/unclos-300x132.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2021/12/unclos-768x339.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2021/12/unclos.jpg 850w" width="595"/></p>
+<p>These terminologies are as follows:</p>
+<p><strong>(1) Baseline</strong></p>
+<ul>
+<li>The convention set the limit of various areas, measured from a carefully defined baseline.</li>
+<li>Normally, a sea baseline follows the low-water line, but when the coastline is deeply indented, has fringing islands or is highly unstable, straight baselines may be used.</li>
+</ul>
+<p><strong>(2) Internal waters</strong></p>
+<ul>
+<li>It covers all water and waterways on the landward side of the baseline.</li>
+<li>The coastal state is free to set laws, regulate use, and use any resource. Foreign vessels have no right of passage within internal waters.</li>
+<li>A vessel in the high seas assumes jurisdiction under the internal laws of its flag State.</li>
+</ul>
+<p><strong>(3) Territorial waters</strong></p>
+<ul>
+<li>Out to 12 nautical miles (22 km, 14 miles) from the baseline, the coastal state is free to set laws, regulate use, and use any resource.</li>
+<li>Vessels were given the <strong>Right of Innocent Passage</strong> through any territorial waters.</li>
+<li>“Innocent passage” is defined by the convention as passing through waters in an expeditious and continuous manner, which is not “prejudicial to the peace, good order or the security” of the coastal state.</li>
+<li>Fishing, polluting, weapons practice, and spying are not “innocent”, and submarines and other underwater vehicles are required to navigate on the surface and to show their flag.</li>
+<li>Nations can also temporarily suspend innocent passage in specific areas of their territorial seas, if doing so is essential for the protection of their security.</li>
+</ul>
+<p><strong>(4) Archipelagic waters</strong></p>
+<ul>
+<li>The convention set the definition of “Archipelagic States”, which also defines how the state can draw its territorial borders.</li>
+<li>All waters inside this baseline are designated “Archipelagic Waters”.</li>
+<li>The state has sovereignty over these waters mostly to the extent it has over internal waters, but subject to existing rights including traditional fishing rights of immediately adjacent states.</li>
+<li>Foreign vessels have right of innocent passage through archipelagic waters, but archipelagic states may limit innocent passage to designated sea lanes.</li>
+</ul>
+<p><strong>(5) Contiguous zone</strong></p>
+<ul>
+<li>Beyond the 12-nautical-mile (22 km) limit, there is a further 12 nautical miles (22 km) from the territorial sea baseline limit, the contiguous zone.</li>
+<li>Here a state can continue to enforce laws in four specific areas (customs, taxation, immigration, and pollution) if the infringement started or is about to occur within the state’s territory or territorial waters.</li>
+<li>This makes the contiguous zone a hot pursuit area.</li>
+</ul>
+<p><strong>(6) Exclusive economic zones (EEZs)</strong></p>
+<ul>
+<li>These extend 200 nm from the baseline.</li>
+<li>Within this area, the coastal nation has sole exploitation rights over all natural resources.</li>
+<li>In casual use, the term may include the territorial sea and even the continental shelf.</li>
+</ul>
+<p><strong>(7) Continental shelf</strong></p>
+<ul>
+<li>The continental shelf is defined as the natural prolongation of the land territory to the continental margin’s outer edge, or 200 nautical miles (370 km) from the coastal state’s baseline, whichever is greater.</li>
+</ul>
+<h4>India and UNCLOS</h4>
+<ul>
+<li>As a State party to the UNCLOS, India promoted utmost respect for the UNCLOS, which established the international legal order of the seas and oceans.</li>
+<li>India also supported freedom of navigation and overflight, and unimpeded commerce based on the principles of international law, reflected notably in the UNCLOS 1982.</li>
+<li>India is committed to safeguarding maritime interests and strengthening security in the Indian Ocean Region (IOR) to ensure a favorable and positive maritime environment.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/indian-team-deliberating-on-ocean-diversity-pact/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Historical and cultural connections between India and Thailand</title><link>https://www.civilsdaily.com/news/historical-and-cultural-connections-between-india-and-thailand/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Read the attached story</p><p><strong>Mains level : </strong>India- SE Asia Cultural Linkages</p></div></div><p><img alt="" class="alignnone size-medium wp-image-623645" height="206" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/eamj-300x206.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/eamj-300x206.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/eamj.jpg 595w" width="300"/></p>
+<p>As part of his visit to Thailand for the ninth India-Thailand joint commission meeting, External Affairs Minister S. Jaishankar visited a temple in Bangkok.</p>
+<h4>Why in news?</h4>
+<ul>
+<li>The temple is the Royal Brahmin Office of the Thai Royal Court and is the official centre of Hinduism in Thailand.</li>
+<li>It highlights the long history of cultural contacts between India and Thailand.</li>
+</ul>
+<h4>Making of ‘Greater India’ in Southeast Asia</h4>
+<ul>
+<li>India and the Southeast Asia region share a long history of cultural and commercial relations.</li>
+<li>The classical Sanskrit and Pali texts from India carry references of the region using various names such as <strong><u>Kathakosha</u></strong>, <strong><u>Suvarnabhumi (the land of god)</u></strong> or <strong><u>Suvarnadvipa (the golden island)</u></strong>, indicating that this was a region that attracted Indian merchants.</li>
+<li>Trade in spices, aromatic wood and most importantly gold is known to have flourished.</li>
+<li>In more recent times, European and Indian scholars have referred to <strong><u>Southeast Asia as ‘Farther India’, ‘Greater India’, or ‘Hinduised or Indianized states’.</u></strong></li>
+</ul>
+<h4>What one mean by ‘Farther India’?</h4>
+<ul>
+<li>The first person to do an in-depth study of the process of ‘Indianisation’ in Southeast Asian countries was a <strong><u>French scholar named George Coedes</u></strong>.</li>
+<li>He coined the term ‘Farther India’ to refer to those states that experienced “<strong><u>the civilizing activity of India’</u></strong>.</li>
+<li>Geographically, it refers to <strong><u>Vietnam, Cambodia, Laos, Thailand, Myanmar and the Malay states</u></strong>.</li>
+<li>The Sanskrit, Buddhist, and Jain <strong><u>texts indicate that interactions between the two regions</u></strong> go back more than two thousand years ago, mainly through sea voyages and that trade played an important role.</li>
+<li>They were also accompanied by <strong><u>Brahmin priests</u></strong>, <strong><u>Buddhist monks</u></strong>, scholars and adventurers and all of them played an important role in the transmission of Indian culture to the natives of Southeast Asia.</li>
+<li>Some of the <strong><u>merchants and Brahmin priests</u></strong> married the local girls and were often employed by the local rulers.</li>
+</ul>
+<h4>Limitations to Indian influence</h4>
+<ul>
+<li>Indian expansion into Southeast Asia <strong><u>cannot be compared to European colonization</u></strong> since Indians were not complete strangers to the population of Southeast Asia and had pre-existing trade relations.</li>
+<li>In the early 20th century, the nationalist historians of India frequently referred to the ancient Indian kingdoms in Southeast Asia as its ‘colony’.</li>
+<li>Historian RC Majumdar noted that the Hindu colonists brought with them the whole framework of their culture and civilization.</li>
+<li>This was transplanted in its entirety among the people who had not emerged from their primitive barbarism.</li>
+<li>More recently the colonization theory has been rejected on the ground that there is very little evidence of conquest or direct political influence in the ancient Southeast Asian kingdoms.</li>
+</ul>
+<h4>Visible cultural influence</h4>
+<ul>
+<li>The first Indian kingdom to come up in <strong><u>Southeast Asia was Funan</u></strong>, which is the predecessor of modern Cambodia and Lin-yi in southern Vietnam, both of which came up in the second century CE.</li>
+<li>Contemporary Southeast Asian society <strong><u>carries several pieces of evidence</u></strong> of the cultural impact of these interactions.</li>
+<li>Many <strong><u>local languages</u></strong> in the region, including Thai, Malay, and Javanese contain words of Sanskrit, Pali and <strong><u>Dravidian origin</u></strong> in significant proportions.</li>
+<li>The <strong><u>Thai language</u></strong> is written in script derived from <strong><u>Southern Indian Pallava alphabet</u></strong>.</li>
+<li>Perhaps the most important influence of India on Southeast Asia was in the field of religion and how <strong><u>Shivaism, Vaishnavism, Theravada Buddhism, Mahayana Buddhism and later Sinhalese Buddhism</u></strong> came to be practised in the region.</li>
+<li>The political and administrative institutions and ideas, especially the con<strong><u>cept of divine authority and kingship</u></strong>, are largely shaped by the Indian practices.</li>
+<li>For example, the Thai <strong><u>king is considered as an incarnation of Vishnu</u></strong>.</li>
+<li>The <strong><u>episodes of Ramayana and Mahabharata</u></strong> are regularly featured in <strong><u>puppet shows</u></strong> and theatre events.</li>
+<li>In terms of architecture, monuments like <strong><u>Borobodur Stupa in Java</u></strong>, the <strong><u>Angkor Vat temple in Cambodia</u></strong>, <strong><u>My Son temple in Vietnam</u></strong> are some of the best examples of Indian influence in the region.</li>
+</ul>
+<h4>India’s religious links to Thailand</h4>
+<ul>
+<li>In the early centuries of the <strong><u>Common Era, Thailand</u></strong>, which was historically known as <strong><em><u>Siam</u></em></strong>, was under the rule of the Funan Empire.</li>
+<li>Following the decline of the Funan Empire in the sixth century CE, it was under the <strong><u>rule of the Buddhist kingdom of Dvaravati. </u></strong></li>
+<li>In the 10th century, the region came under <strong><u>Khmer rule</u></strong>, which is also known to have <strong><u>links with India</u></strong>.</li>
+<li>A <strong><u>Tamil inscription found in Takua-pa</u></strong> testifies to trade links between the Pallava region of South India and southern Thailand.</li>
+<li>A mercantile corporation of South Indians called <strong><u>Manikarramam</u></strong> had established a settlement here and built its own temple and tank, and lived as a <strong><u>‘self-contained’ colony</u></strong>.</li>
+<li>It is important to note that <strong><u>Brahmanism and Buddhism existed alongside</u></strong> each other in Thailand in the pre-Sukhothai period of the 13th century.</li>
+</ul>
+<h4>Cult of Rama</h4>
+<ul>
+<li>The Ramayana known in Thailand as <strong><u>Ramakriti (the glory of Rama) or Ramakien (the account of Rama)</u></strong> — has provided an outlet of cultural expression in Thailand for both the elite and the common man.</li>
+<li>Episodes from the epic are painted on the walls of Buddhist temples and enacted in dramas and ballets.</li>
+<li>Although <strong><u>there is no archaeological evidence of the story of Rama in Thailand</u></strong>, certain towns in the country have legends related to Rama’s life connected with them.</li>
+<li>For instance, <strong><u>Ayutthaya in Central Thailand</u></strong>, which emerged in the 10th century CE, is <strong><u>derived from Ayodhya</u></strong>, birthplace of Lord Rama.</li>
+<li>Desai writes that “<strong><u>from the 13th century onwards, several Thai kings assumed the title Rama</u></strong>, which has become hereditary during the present dynasty.”</li>
+</ul>
+<p> </p>
+<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/historical-and-cultural-connections-between-india-and-thailand/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 +0553</pubDate></item></channel></rss>
