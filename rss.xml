@@ -1,67 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Sat, 27 Aug 2022 04:51:08 +0000</lastBuildDate><item><title>India’s tax-GDP ratio may be too high</title><link>https://www.civilsdaily.com/news/indias-tax-gdp-ratio-may-be-too-high/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Tax buoyancy</p><p><strong>Mains level : </strong>Paper 3- Tax-to-GDP ratio</p></div></div><h4>Context</h4>
-<p>What the data conclusively show is that the debate on the Indian economy should shift away from simplistic notions (borrowed from the West?) of the tax-GDP ratio being low in India.</p>
-<h4>India’s low tax-to-GDP ratio</h4>
-<ul>
-<li>One of the stylised beliefs in India, and amongst some leading economic commentators both in India and abroad, is that our tax/GDP ratio is lower than what it “should” be.</li>
-<li>This low tax-to-GDP ratio is blamed for a<strong> lower rate of investment</strong>, a<strong> higher fiscal deficit</strong>, and lower GDP growth — and all because the tax ratio is too low.</li>
-<li>There can be reasonable doubts about the presumed links.</li>
-<li>There are three important fiscal variables in the economy — <strong>taxes, fiscal deficit, and debt. </strong></li>
-<li>They are inter-related — lower tax revenue means higher fiscal deficit, for the same level of expenditures, and higher deficit means higher debt.</li>
-<li>All three, directly or indirectly, are assumed <strong>to affect growth and/or inflation.</strong></li>
-</ul>
-<h4>Analysing India’s tax-to-GDP ratio</h4>
-<ul>
-<li>Two common observations on tax-to-GDP for India — first, it is low at around<strong> 10-11 per cent of GDP</strong> and it has stayed at close to that level for the last 20 years.</li>
-<li>In 2019, it hit a decade low of 10 per cent of GDP, the same as in 2014.</li>
-<li>Second, in comparison with our peers, it is much lower.</li>
-<li>Hence, logic dictates that we should strive to increase it.</li>
-<li>But which country should we compare India with?</li>
-</ul>
-<h4>Issues with comparing tax-to-GDP with other countries</h4>
-<ul>
-<li>A common observation is to look at the tax-GDP ratio in G20 countries.</li>
-<li><strong>Function of average level of per capita income:</strong> This is the beginning of a set of misinterpretations committed either knowingly, or unknowingly.</li>
-<li>Because simple logic dictates that tax collected is <strong>a function of the average level of per capita income.</strong></li>
-<li>Per capita income in the G20 varies from around $2,100 (India) to around $65,000 (US).</li>
-<li>The 10-11 per cent figure for India is the tax/GDP <strong>ratio for taxes administered at the central level.</strong></li>
-<li><strong>Challenges in data collection</strong>: Taxes in India, as in many other large, especially federal, countries, are collected at both a federal and state level.</li>
-<li>And many economies have local (municipal) taxes as well. The tax collected is the sum of all these taxes.</li>
-<li>Until now, collecting such disaggregated data for a large set of countries was challenging.</li>
-<li>However, in a recent web publication, the IMF on their World Revenue Longitudinal Data set has published such data for all countries, from 1990-2019.</li>
-<li>In this pre-pandemic year, among G20 economies, India’s tax-GDP (Xtax) ratio of 16.7 per cent was higher than that of China (15.9 per cent), Mexico (14.1 per cent), Indonesia (11.0 per cent), Saudi Arabia (5.9 per cent) and Turkey (15.9 per cent).</li>
-<li>A more informative indicator of whether a country is taxing too much or too little in comparison with others is to look at the <strong>tax-GDP ratio adjusted for PPP per capita income.</strong></li>
-<li>Prediction via a simple regression of tax-to-GDP on log PPP per capita GDP can yield one estimate of the tax gap — the difference between actual and actual adjusted for level of income.</li>
-<li>The world average tax gap is -1.3 per cent;<strong> India is +1.2 per cent for the nine years 2011-2019.</strong></li>
-<li>So, India’s tax GDP ratio averages 2.5 percentage points more than an average economy.</li>
-<li>For every year for which data are available 1990-2019, India has had a positive tax gap — there is little evidence that a higher tax/GDP ratio helps growth.</li>
-</ul>
-<h4>How corporate tax cut helped India</h4>
-<ul>
-<li><strong>Corporate tax cut 2019:</strong> For years, the advocacy in India was to increase revenue from corporate tax which is one of three major components of tax revenue, the other being income and indirect taxes.</li>
-<li>In September 2019, Finance Minister going well against Indian established conventional wisdom, lowered the corporate tax rate by around 10 percentage points.</li>
-<li><strong>Avoiding triple whammy</strong>: Opponents said that empirical evidence around the world (for example, the US) meant that <strong>if tax rates were lowered, revenues would decline, the fisc would increase, as would inequality.</strong></li>
-<li>A triple whammy that is best avoided.</li>
-<li>However, now, three years later, we can assess the efficacy (or not) of this bold experiment.</li>
-<li>For the three months April-June 2022, corporate tax revenues, y-o-y, are up 30 per cent.</li>
-<li>Using fiscal 2019-20 as a base, corporate tax revenue has increased by 66 per cent, GDP by 33 per cent —<strong> an average tax buoyancy of 2.0 over three years. </strong></li>
-<li>The previous largest tax buoyancy was in 2006-7 when the world was buoyant.</li>
-<li>Tentatively, the tax-GDP ratio in the fiscal year 2022-23 will <strong>average over 18 per cent in India</strong>, a level close to Japan and the US.</li>
-</ul>
-<h4>Conclusion</h4>
-<p>In India, the debate should shift to expenditures, and quality of expenditures (and perhaps to reform of the direct tax code). In this regard, suggestion that freebies be critically examined is most timely and welcome.</p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-<hr/>
-<h4> Back2Basics: Tax buoyancy and tax elasticity</h4>
-<ul>
-<li><strong>Tax buoyancy:</strong> The buoyancy of a tax system <b>measures the total response of tax revenue both to changes in</b>. <b>national income and to discretionary changes in tax policies over time</b>, and it is traditionally interpreted as the percentage change in revenue associated to a one percent change in income.</li>
-<li>Tax elasticity: It refers to changes in tax revenue in response to <strong>changes in tax rate. </strong></li>
-<li>For example, how tax revenue changes if the government reduces corporate income tax from 30 per cent to 25 per cent indicate tax elasticity.</li>
-</ul>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/indias-tax-gdp-ratio-may-be-too-high/</guid><pubDate>Wed, 24 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Artforms in news: Yakshagana dance</title><link>https://www.civilsdaily.com/news/artforms-in-news-yakshagana/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Sat, 27 Aug 2022 05:25:03 +0000</lastBuildDate><item><title>Artforms in news: Yakshagana dance</title><link>https://www.civilsdaily.com/news/artforms-in-news-yakshagana/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Yakshagana</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><strong><img alt="" class="alignnone size-medium wp-image-535016" height="186" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/04/yaksh-300x186.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/04/yaksh-300x186.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/04/yaksh-768x476.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/04/yaksh.jpg 822w" width="300"/></strong></p>
 <p>This newscard is an excerpt of the original article published in TH.</p>
@@ -1036,4 +974,23 @@ Post your answers here.</blockquote>
 <p><strong>Q. The covid-19 pandemic has presented a watershed moment, bringing the world’s healthcare systems to a halt, forcing us to rethink existing healthcare delivery models. In this context discuss challenges and opportunities of digital health ecosystem in India.</strong></p></blockquote>
 <p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/digital-health/</guid><pubDate>Fri, 26 Aug 2022 00:00:00 +0553</pubDate></item></channel></rss>
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/digital-health/</guid><pubDate>Fri, 26 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Dams in news: Vishnugadh Project</title><link>https://www.civilsdaily.com/news/vishnugadh-project/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Vishnugadh Project</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>An independent panel of the World Bank is considering a plea by residents of some village to investigate environmental damage from the under-construction Vishnugad Pipalkoti Hydro Electric Project (VPHEP).</p>
+<h4>Vishnugadh Project</h4>
+<ul>
+<li>The 444-MW VPHEP is being built by the Tehri Hydropower Development Corporation (THDC), a partially State-owned enterprise.</li>
+<li>It is being constructed on <strong><u>Dhauliganga River</u></strong> in <a href="https://www.civilsdaily.com/burning-issues-chamoli-disaster/">Chamoli District</a> of Uttarakhand.</li>
+<li>The project is primarily funded by the World Bank and was sanctioned in 2011. It is proposed to be completed in June 2023.</li>
+<li>About 40% of the funds for the $792 million project (₹64,000 crore approx.) has already been disbursed.</li>
+</ul>
+<h4>Why in news now?</h4>
+<ul>
+<li>Residents in their complaint have said muck dumping from the dam threatens the local Lakshmi Narayan Temple, which is deemed to be of historical and cultural importance.</li>
+<li>They also complained about the limited availability of water, saying that 70 of the 92 households received water only for two hours daily.</li>
+<li>Before the project construction, they had ready access to water.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/vishnugadh-project/</guid><pubDate>Sat, 27 Aug 2022 00:00:00 +0553</pubDate></item></channel></rss>
