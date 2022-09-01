@@ -1,136 +1,236 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 01 Sep 2022 15:12:13 +0000</lastBuildDate><item><title>Skewed divisible pool</title><link>https://www.civilsdaily.com/news/skewed-divisible-pool/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 01 Sep 2022 16:13:58 +0000</lastBuildDate><item><title>Jurisprudence of Bail in India</title><link>https://www.civilsdaily.com/news/jurisprudence/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Finance commission</p><p><strong>Mains level : </strong>Fiscal federalism</p></div></div><h4><strong><img alt="divisible pool " class="alignnone wp-image-625138" height="292" loading="lazy" sizes="(max-width: 487px) 100vw, 487px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/fiscal-300x180.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/fiscal-300x180.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/fiscal-768x461.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/fiscal.jpg 800w" width="487"/>Context</strong></h4>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>jurisprudence of bail</p></div></div><h4><strong>What is Bail?</strong></h4>
 <ul>
-<li>The centralisation of fiscal powers in India has been blamed for the poor fiscal health of the states.</li>
+<li>Bail is the conditional release of a defendant with the promise to appear in court when required.</li>
+<li>The term also means the security that is deposited in order to secure the release of the accused.</li>
 </ul>
-<h4><strong>Why in news?</strong></h4>
+<h4><strong>Types of Bail in India</strong></h4>
 <ul>
-<li>Chief Ministers expressed their concern about <strong>dwindling State revenues</strong> in a NITI Aayog meeting chaired by the Prime Minister.</li>
-<li>They sought <strong>a higher share in the divisible pool of taxes</strong> and an extension of GST compensation, both of which have long remained a bone of contention between the Union government and the States.</li>
+<li>Depending upon the sage of the criminal matter, there are commonly three types of bail in India:</li>
 </ul>
-<h4><strong>Need for financial devolution</strong></h4>
+<ol>
+<li><strong>Regular bail:</strong> A regular bail is generally granted to a person who has been arrested or is in police custody. A bail application can be filed for the regular bail under section 437 and 439 of CrPC.</li>
+<li><strong>Interim bail:</strong> This type of bail is granted for a short period of time and it is granted before the hearing for the grant of regular bail or anticipatory bail.</li>
+<li><strong>Anticipatory bail:</strong> Anticipatory bail is granted under section 438 of CrPC either by session court or High Court. An application for the grant of anticipatory bail can be filed by the person who discerns that he may be arrested by the police for a non-bailable offense.</li>
+</ol>
+<h4><strong>Conditions for Grant of Bail in Bailable Offences</strong></h4>
 <ul>
-<li>To strengthen democracy at grass root level with more revenue resources for better service delivery.</li>
-<li>To increase accountability to people so performance can be realized as direct contact with people.</li>
+<li>Section 436 of the Code of Criminal Procedure, 1973, lays down that a person accused of a bailable offense under IPC can be granted bail if:</li>
 </ul>
-<h4><strong>What is divisible pool of taxes?</strong></h4>
+<ol>
+<li>There are sufficient reasons to believe that the accused has not committed the offence.</li>
+<li>There is sufficient reason to conduct a further inquiry in the matter.</li>
+<li>The person is not accused of any offence punishable with death, life imprisonment or imprisonment up to 10 years.</li>
+</ol>
+<h4><strong>Conditions for Grant of Bail in Non-Bailable Offences</strong></h4>
 <ul>
-<li>The divisible pool is that portion of gross tax revenue which is distributed between the Centre and the States. The divisible pool consists of all taxes, except surcharges and cess levied for specific purpose, net of collection charges.</li>
+<li>Section 437 of Code of Criminal Procedure, 1973 lays down that the accused does not have the right to apply for bail in non-bailable offences.</li>
+<li>It is discretion of the court to grant bail in case of non-bailable offences if:</li>
 </ul>
-<h4><strong>What is fiscal federalism?</strong></h4>
+<ol>
+<li>The accused is a woman or a child, bail can be granted in a non-bailable offence.</li>
+<li>There is a lack of evidence then bail in non-Bailable offenses can be granted.</li>
+<li>There is a delay in lodging FIR by the complainant, bail may be granted.</li>
+<li>The accused is gravely sick.</li>
+</ol>
+<h4><strong>What is the recent ruling about?</strong></h4>
 <ul>
-<li>Fiscal federalism refers to how federal, state, and local governments share funding and administrative responsibilities within our federal system. The funding for these programs comes from taxes and fees.</li>
+<li>The Supreme Court underlined that arrest is a draconian measure that needs to be used sparingly.</li>
+<li>The ruling is essentially a reiteration of several crucial principles of criminal procedure.</li>
 </ul>
-<h4><strong>Poor state of state finances </strong></h4>
+<h4><strong>Why bail needs reform?</strong></h4>
 <ul>
-<li><strong>Stagnant revenue: </strong>Since States cannot raise tax revenue because of curtailed indirect tax rights — subsumed in GST, except for petroleum products, electricity and alcohol — the revenue has been stagnant at 6% of GDP in the past decade.</li>
-<li><strong>Distorted expenditure</strong>: While States lost their capacity to generate revenue by surrendering their rights in the wake of the Goods and Services Tax (GST) regime, their expenditure pattern too was distorted by the Union’s intrusion, particularly through its centrally sponsored schemes.</li>
-<li><strong>Decline in share</strong>: The ability of States to finance current expenditures from their own revenues has declined from 69% in 1955-56 to less than 38% in 2019-20.</li>
-<li><strong>Stress on finance:</strong> States’ financial health had taken a turn for the worse with the implementation of the Ujwal DISCOM Assurance Yojana, farm loan waivers, as also the slowdown in growth in 2019- 20.</li>
+<li><strong>Huge pendency of undertrials:</strong> Referring to the state of jails in the country, where over two-thirds lodged are undertrials,</li>
+<li><strong>Indiscriminate</strong> <strong>arrests:</strong> Of this category of prisoners, majority may not even be required to be arrested despite registration of a cognizable offense, being charged with offenses punishable for seven years or less.</li>
+<li><strong>Disadvantageous for some sections:</strong> They are not only poor and illiterate but also would include women. Thus, there is a culture of offense being inherited by many of them.</li>
+<li><strong>Colonial legacy:</strong> Theoretically, the court also linked the idea of indiscriminate arrests to magistrates ignoring the rule of “bail, not jail” to a colonial mindset.</li>
 </ul>
-<blockquote>
-<h4><strong>Key fact to remember </strong></h4>
-<p><strong>Finance Commission keeps tax devolution for states at 41% in FY22</strong></p></blockquote>
-<p><strong> </strong></p>
-<h4><strong>How fiscal centralisation impacts on states?</strong></h4>
+<h4><strong>What is the law on bail?</strong></h4>
 <ul>
-<li><strong>Cut in the corporate tax: </strong>The recent drastic cut in corporate tax, with its adverse impact on the divisible pool, and ending GST compensation to States have had huge consequences.</li>
-<li><strong>States paying high interest rates</strong>: States are forced to pay differential interest — about 10% against 7% — by the Union for market borrowings<strong>.</strong></li>
-<li><strong>Centrally sponsored schemes curbing autonomy: </strong>There are 131 centrally sponsored schemes, with a few dozen of them accounting for 90% of the allocation, and States required to share a part of the cost.</li>
+<li>The <strong><u>CrPC does not define the word bail</u></strong> but only categories <strong><u>offences under the Indian Penal Code as ‘bailable’ and ‘non-bailable’. </u></strong></li>
+<li>The <strong><u>CrPC empowers magistrates to grant bail</u></strong> for bailable offences as a matter of right.</li>
+<li>This would involve release on furnishing a <strong><u>bail bond, without or without security</u></strong>.</li>
+</ul>
+<h4><strong>And what is the UK law?</strong></h4>
+<ul>
+<li>The Bail Act of the United Kingdom, 1976, prescribes the procedure for granting bail.</li>
+<li>A key feature is that one of the aims of the legislation is “<strong><u>reducing the size of the inmate population</u></strong>”.</li>
+<li>The law also has provisions for ensuring <strong><u>legal aid for defendants</u></strong>.</li>
+<li>The Act recognises a <strong><u>“general right” to be granted bail</u></strong>.</li>
+</ul>
+<h4><strong>What has the Supreme Court held on reforms?</strong></h4>
+<p>The court’s ruling is in the form of guidelines, and it also draws the line on certain procedural issues for the police and judiciary:</p>
+<ul>
+<li><strong>Separate law on Bail:</strong> The court underlined that the CrPC, despite amendments since Independence, largely retains its original structure as drafted by a colonial power over its subjects.</li>
+<li><strong>Uniform exercise of discretionary powers:</strong> It also highlighted that magistrates do not necessarily</li>
+<li><strong>Avoid indiscriminate arrests:</strong> The SC also directed all state governments and Union Territories to facilitate standing orders to comply with the orders and avoid indiscriminate arrests.</li>
 </ul>
 <p> </p>
-<h4><strong> Suggestions for strong fiscal federalism </strong></h4>
-<ul>
-<li><strong>Creation of federal institution</strong><strong>: </strong>We need to create another institution in the form of a GST state secretariat that can bring together senior officers from the Centre and states in an institutional forum registered under the Society Act.</li>
-<li><strong>State Finance Commissions</strong>: should be accorded the same status as the Union Finance Commission and the 3Fs of democratic decentralization (funds, functions, and functionaries) should be implemented properly.</li>
-<li><strong>Robust GST regime</strong>: Transparency, simplification and rationalisation of GST will help states to recover soon.</li>
-</ul>
-<h4><strong>Way Forward</strong></h4>
-<ul>
-<li><strong>Relook on various exemptions to rationalise the taxes/levies</strong></li>
-<li><strong>Augmentation of Tax Administration Structure</strong></li>
-<li><strong>Technology-based Tax Administration may also be further expanded to cover even utility charges like water, street lights, sanitation charges, etc.</strong></li>
-</ul>
-<h4><strong>Conclusion </strong></h4>
-<ul>
-<li>It is important now to rethink the design and structure of a genuine <strong>fiscal partnership</strong>, which should not merely be a race to garner more resources, but a creative attempt to move towards a vibrant Indian value chain that can catapult India’s growth rate closer to the quest for double-digit growth.</li>
-</ul>
-<blockquote><p><strong>Mains question </strong></p>
-<p><strong>Q. Why it is important now to rethink the design and structure of a genuine fiscal partnership? Discuss this in context of Skewed divisible pool and state of fiscal federalism in India.</strong></p>
-<p><strong> </strong></p></blockquote>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/skewed-divisible-pool/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Thin line between freebies and public welfare</title><link>https://www.civilsdaily.com/news/thin-line-between-freebies-and-public-welfare/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Social security,Populist measures.</p></div></div><p><strong><img alt="" class="alignnone wp-image-623266" height="268" loading="lazy" sizes="(max-width: 536px) 100vw, 536px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-300x150.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-300x150.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1-768x384.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/frb-1.jpg 832w" width="536"/>Context</strong></p>
-<ul>
-<li>‘Revdi Culture’ (sweet) or Govt’s Basic Responsibility? What Prioritising Welfare Is Really About</li>
-<li>While hearing a petition demanding the de-recognition of political parties that promise “irrational freebies” to voters, the Supreme Court recently drew attention to the substantial fiscal cost of freebies.</li>
-</ul>
-<p><strong>What are freebies? </strong></p>
-<ul>
-<li>A freebie is any public policy intervention that will have a long-term impact on production as well as productivity.</li>
-<li>Any public policy intervention that doesn’t support medium-term to long-term production and productivity may be termed as a freebie.</li>
-<li>The term Freebies is not new; rather it is a prevalent culture in Indian politics (in the name of socialism).</li>
-<li>The political parties are always trying to outdo each other in luring the Indian voters with</li>
-</ul>
-<p><strong>Examples of freebies</strong></p>
-<ul>
-<li>Promise of Rs 15 lakh in our bank accounts</li>
-<li>Free TV, Laptops</li>
-<li>Free electricity</li>
-<li>Loan waivers</li>
-<li>Offering free public transport ride to all women in Delhi</li>
-</ul>
-<p><strong>Why are such policies popular among the public?</strong></p>
-<ul>
-<li><strong>Failure of economic</strong> policies: The answer lies in the utter failure of our economic policies to create decent livelihood for a vast majority of Indians.</li>
-<li><strong>Quest for decent livelihood</strong>: The already low income had to be reoriented towards spending a disproportionately higher amount on education and health, from which, the state increasingly withdrew.</li>
-<li><strong>Prevailing unemployment</strong>:  Employment surveys have shown that employment growth initially slowed down from the 1990s, and then has turned negative over the past few years.</li>
-<li><strong>Increased cost of living:</strong> Real income growth of the marginal sections has actually slowed down since 1991 reforms.</li>
-<li><strong>Increased consumerism</strong>: The poor today also spend on things which appear to be luxuries; cellphones and data-packs are two such examples which are shown as signs of India’s increased affluence.</li>
-</ul>
-<p><strong>Thin line between freebie and public welfare </strong></p>
-<ul>
-<li>Using freebies to lure voters is not good.</li>
-<li>Voter’s greediness may lead to a problem in choosing a good leader.</li>
-<li>When we don’t have a good leader then democracy will be a mockery.</li>
-</ul>
-<p><strong>Negative implications </strong></p>
-<ul>
-<li><strong>Never ending trail</strong>: The continuity of freebies is another major disadvantage as parties keep on coming up with lucrative offers to lure more number of votes to minimize the risk of losing in the elections.</li>
-<li><strong>Burden on exchequer</strong>: People forget that such benefits are been given at the cost of exchequer and from the tax paid.</li>
-<li><strong>Ultimate loss of poors</strong>: The politicians and middlemen wipe away the benefits and the poor have to suffer as they are deprived from their share of benefits which was to be achieved out of the money.</li>
-<li><strong>Inflationary practice</strong>: Such distribution freebie commodity largely disrupts demand-supply dynamics.</li>
-<li><strong>Lethargy in population:</strong> Freebies actually have the tendency to turn the nation’s population into: Lethargy and devoid of entrepreneurship.</li>
-</ul>
-<p><strong>Rational elements in freebies </strong></p>
-<ul>
-<li><strong>Social investment:</strong><strong> </strong>Aid to the poor is seen as a wasteful expenditure. But low interest rates for corporates to get cheap loans or the ‘sop’ of cutting corporate taxes are never criticized.</li>
-<li><strong>Socialistic policy:</strong><strong> </strong>This attitude comes from decades of operating within the dominant discourse of market capitalism.</li>
-<li><strong>Election manifesto</strong>: Proponents of such policies would argue that poll promises are essential for voters to know what the party would do if it comes to power and have the chance to weigh options.</li>
-</ul>
-<p><strong>Why they need to stop?</strong></p>
-<ul>
-<li>Winning election and good governance are two different things. The role of freebies to avail good governance is definitely questionable.</li>
-<li>The social, political and economic consequences of freebies are very short-lived in nature.</li>
-<li>There are many freebies and subsidies schemes available in many States but we still find starvation deaths, lack of electricity, poor education and health service.</li>
-<li>Hence the sorrow of the masses of India cannot be solved by freebies or by incentives<strong>.</strong></li>
-</ul>
-<p><strong>Conclusion </strong></p>
-<ul>
-<li>There is nothing wrong in having a policy-led elaborate social security programme that seeks to help the poor get out of poverty.</li>
-<li>But such a programme needs well thought out preparation and cannot be conjured up just before an election.</li>
-</ul>
-<blockquote><p><strong>Mains question </strong></p>
-<p><strong>Q. Do you think freebies are justified under the name of social security? Critically evaluate the rising freebie culture in India with its negative implications.</strong></p></blockquote>
-<p><strong> <a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a> </strong></p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 <p> </p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/thin-line-between-freebies-and-public-welfare/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Economic cooperation with Sri Lanka for deeper engagement</title><link>https://www.civilsdaily.com/news/sri-lanka/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/jurisprudence/</guid><pubDate>Tue, 30 Aug 2022 00:00:00 +0553</pubDate></item><item><title>What is Artemis 1 Mission?</title><link>https://www.civilsdaily.com/news/what-is-artemis-1-mission/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>particulars of artemis mission</p><p><strong>Mains level : </strong>NA</p></div></div><p>NASA’s Artemis 1 mission has sought unexpected delay due to fuel leakages issue.</p>
+<h4><strong>What is the Artemis I Mission?</strong></h4>
+<ul>
+<li>NASA’s Artemis mission is touted as the next generation of lunar exploration, and is named after the twin sister of Apollo from Greek mythology.</li>
+<li>Artemis is also the goddess of the moon.</li>
+<li>Artemis I is the first of NASA’s deep space exploration systems.</li>
+<li>It is an uncrewed space mission where the spacecraft will launch on SLS — the most powerful rocket in the world — and travel 2,80,000 miles from the earth for over four to six weeks during the course of the mission.</li>
+<li>The Orion spacecraft is going to remain in space without docking to a space station, longer than any ship for astronauts has ever done before.</li>
+<li>The SLS rocket has been designed for space missions beyond the low-earth orbit and can carry crew or cargo to the moon and beyond.</li>
+</ul>
+<h4><strong>Key objectives of the mission</strong></h4>
+<ul>
+<li>With the Artemis Mission, NASA aims to land humans on the moon by 2024, and it also plans to land the first woman and first person of colour on the moon.</li>
+<li>With this mission, NASA aims to contribute to scientific discovery and economic benefits and inspire a new generation of explorers.</li>
+<li>NASA will establish an Artemis Base Camp on the surface and a gateway in the lunar orbit to aid exploration by robots and astronauts.</li>
+<li>The gateway is a critical component of NASA’s sustainable lunar operations and will serve as a multi-purpose outpost orbiting the moon.</li>
+</ul>
+<h4><strong>Other agencies involved</strong></h4>
+<ul>
+<li>Other space agencies are also involved in the Artemis programme.</li>
+<li>The Canadian Space Agency has committed to providing advanced robotics for the gateway.</li>
+<li>The European Space Agency will provide the International Habitat and the ESPRIT module, which will deliver additional communications capabilities among other things.</li>
+<li>The Japan Aerospace Exploration Agency plans to contribute habitation components and logistics resupply.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+<p> </p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/what-is-artemis-1-mission/</guid><pubDate>Tue, 30 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Pakistan’s Flip-Flop on Trade with India</title><link>https://www.civilsdaily.com/news/pakistans-flip-flop-on-trade-with-india/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>india pakistan relation</p></div></div><p>Pakistan’s Finance Minister has stated that the government may consider importing vegetables and other edible items from India following the destruction of standing crops due to the massive floods in the region.</p>
+<h4>Why in news?</h4>
+<ul>
+<li>This statement comes after three years when Islamabad downgraded trade ties with New Delhi over the abrogation of Article 370 in Kashmir in 2019.</li>
+<li>The fundamentalist country sees ties with India as against the spirit of religion and betrayal to the so-called Kashmir cause.</li>
+</ul>
+<h4>A U-turn by Pakistan</h4>
+<ul>
+<li>Pakistan’s double U-turn on resuming trade with India highlights the <strong><u>internal differences</u></strong> within the country.</li>
+<li>There are huge differences between business and political communities, and the emphasis on politics over economy and trade.</li>
+<li>It also signifies Pakistan cabinet’s grandstanding, linking <strong><u>normalisation of ties with India</u></strong> to Jammu and Kashmir.</li>
+</ul>
+<h4>What is the news?</h4>
+<ul>
+<li>Pakistan has sought to import only three items from India, namely cotton, yarn and sugar.</li>
+<li>It has no consensus on resuming bilateral trade completely.</li>
+<li>This is based on Pakistan’s immediate economic needs and not designed as a political confidence-building measure to normalise relations with India.</li>
+</ul>
+<h4>What changed Pakistan’s mind?</h4>
+<p><strong>(1) Decline of Textile sector</strong></p>
+<ul>
+<li>For the textile and sugar industries in Pakistan, importing from India is imperative, practical and is the most economic.</li>
+<li>Yarn, cotton cloth, knitwear, bedwear and readymade garments form the core of Pakistan’s textile basket in the export sector.</li>
+<li>By February 2020, there was a steep decline in the textile sector due to disruptions in supply and domestic production.</li>
+<li>This is definitely due to dumping of cheap Chinese goods.</li>
+<li>When compared to the last fiscal year (2019-20), there has been a 30% decline (2020-21) in cotton production.</li>
+</ul>
+<blockquote><p><strong><em>Do you know?</em></strong></p>
+<p><em>Pakistan is the fifth-largest exporter of cotton globally, and the cotton-related products (raw and value-added) earn close to half of the country’s foreign exchange.</em></p></blockquote>
+<p><strong>(2) Crisis in the sugar industry </strong></p>
+<ul>
+<li>When compared to cotton, the sugar industry’s problem stem from different issues — the availability for local consumption and the steep price increase.</li>
+<li>The sugar industry has prioritised exports over local distribution.</li>
+<li>Increased government subsidy and a few related administrative decisions resulted in the sugar industry attempting to make a considerable profit by exporting it.</li>
+<li>As a result, importing sugar from India would be cheaper for the consumer market in Pakistan.</li>
+</ul>
+<h4>In a nutshell</h4>
+<ul>
+<li>Clearly, the crises in cotton and sugar industries played a role in the ECC’s decision to import cotton, yarn and sugar from India.</li>
+<li>It would not only be cheaper but also help Pakistan’s exports.</li>
+<li>This is also imperative for Pakistan to earn foreign exchange.</li>
+</ul>
+<h4>Why all these have made headlines these days?</h4>
+<ul>
+<li>Pakistan is closer to bankruptcy like any other Chinese vassal state.</li>
+<li>The second takeaway from the two U-turns — is the supremacy of politics over trade and economy, even if the latter is beneficial to the importing country.</li>
+<li>For the cabinet, the interests of its own business community and its export potential have become secondary.</li>
+<li>However, Pakistan need not be singled out; this is a curse in South Asia, where politics play supreme over trade and economy.</li>
+<li>The meagre percentage of intra-South Asian Association for Regional Cooperation (SAARC) trade and the success (or the failure) of SAARC engaging in bilateral or regional trade would underline the above.</li>
+<li>Trade is unlikely to triumph over politics in South Asia; especially in India-Pakistan relations.</li>
+</ul>
+<h4>The Kashmir link</h4>
+<ul>
+<li>The third takeaway is the emphasis on Jammu and Kashmir by Pakistan to make any meaningful start in bilateral relations.</li>
+<li>This goes against what it has been telling the rest of the world that India should begin dialogue with Pakistan.</li>
+<li>Recently, both Pakistan’s PM and the Chief of Army Staff, Qamar Javed Bajwa, were on record stating the need to build peace in the region.</li>
+<li>Bajwa even talked about “burying the past” and moving forward.</li>
+<li>There were also reports that Pakistan agreeing to re-establish the ceasefire along the Line of Control (LoC) was a part of this new strategy.</li>
+</ul>
+<h4>Conclusion</h4>
+<ul>
+<li>The latest statement by Pakistan’s cabinet that unless India revokes the 2019 decision in Jammu and Kashmir, there would be no forward movement.</li>
+<li>This position also hints at Pakistan’s precondition to engage with India.</li>
+<li>Pakistan has been saying that the onus is on India to normalise the process.</li>
+<li>Perhaps, it is New Delhi’s turn to tell Islamabad that it is willing, but without any preconditions, and start with trade.</li>
+<li>It may even allow New Delhi to inform Pakistan’s stakeholders about who is willing to trade and who is reluctant.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+<p> </p>
+<p> </p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/pakistans-flip-flop-on-trade-with-india/</guid><pubDate>Tue, 30 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Consumerism should be replaced by minimalism</title><link>https://www.civilsdaily.com/news/consumerism/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Minimalism as way of life</p></div></div><h4><strong><img alt="Consumerism" class="alignnone wp-image-628237" height="317" loading="lazy" sizes="(max-width: 564px) 100vw, 564px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/download-4-300x169.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/download-4-300x169.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/download-4-1024x576.jpeg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/download-4-768x432.jpeg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/download-4.jpeg 1200w" width="564"/> </strong><strong>Context </strong></h4>
+<ul>
+<li>The COVID-19 pandemic brought shifts in consumer behaviour. The world witnessed a shrinkage of demand. But post-pandemic recovery and suppressed consumerism is now leading to ‘revenge shopping’.</li>
+</ul>
+<h4><strong>What is consumerism?</strong></h4>
+<ul>
+<li>Consumerism is a social and economic order that encourages the acquisition of goods and services in ever-increasing amounts.</li>
+</ul>
+<h4><strong>What is minimalism? </strong></h4>
+<ul>
+<li>Minimalism is owning fewer possessions. It is intentionally living with only the things we really need those items that support our purpose. Removing the distraction of excess possessions to focus more on those things that matter most.</li>
+</ul>
+<h4><strong><img alt="Consumerism" class="alignnone wp-image-628238" height="378" loading="lazy" sizes="(max-width: 568px) 100vw, 568px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/1_v7Cd5DWFYjk-ri5aQCBgWg-300x200.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/1_v7Cd5DWFYjk-ri5aQCBgWg-300x200.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/1_v7Cd5DWFYjk-ri5aQCBgWg-768x512.jpeg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/1_v7Cd5DWFYjk-ri5aQCBgWg.jpeg 960w" width="568"/>What Is Revenge Shopping?</strong></h4>
+<ul>
+<li>Revenge shopping occurs when a customer who previously could not get access to certain goods or services for a period of time suddenly has access. It can also occur when customers have been deprived of other events or happenings.</li>
+</ul>
+<h4><strong><img alt="Consumerism" class="alignnone wp-image-628239" height="209" loading="lazy" sizes="(max-width: 392px) 100vw, 392px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/0_MFfVpt4oTb-3Pq1T-300x160.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/0_MFfVpt4oTb-3Pq1T-300x160.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/0_MFfVpt4oTb-3Pq1T-1024x547.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/0_MFfVpt4oTb-3Pq1T-768x410.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/0_MFfVpt4oTb-3Pq1T-1200x641.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/0_MFfVpt4oTb-3Pq1T.jpg 1400w" width="392"/>The symptoms of excessive consumerism</strong></h4>
+<ul>
+<li><strong>You buy more than you planned</strong>: if you set out with a plan of what you need to purchase but consistently come back with more than you anticipated, then you’re falling in the consumerist trap.</li>
+<li><strong>You run out of storage space for your stuff</strong>: sometimes it can’t be helped if you live in a tight area or you’re disorganised. But suppose you’re in a reasonable situation and things you bring in don’t have an allocated home. In that case, you’re likely living excessively.</li>
+<li><strong>You rely too much on return policies</strong>: returning an item is useful. Particularly if you need to test a product for the intended purpose, be it sizing for clothes or a tool for a building project. However, suppose you’re depending on returns for purchases. In that instance, you’re not sure you need it, or if you can’t afford it, then you’re probably suffering from too much consumerism.</li>
+<li><strong>You routinely seek approval for your purchases</strong>: getting feedback on purchases can be reassuring, especially if you’re indecisive. Yet, there’s a difference between picking someone’s brain before buying and looking to justify your purchase after the fact. If you’re seeking post-acquisition approval, you probably don’t need the item.</li>
+<li><strong>You mistakenly buy things you already have</strong>: not much to say here. If you’re getting things only to realise you already have it, then you’re probably deep in a consumerist cycle.</li>
+<li><strong>You buy things on credit</strong>: if you’re strategic and disciplined, you can buy things on credit cards to acquire points and benefits. However, if you’re like the majority of us, then you’re vulnerable to buying things you can’t afford.</li>
+<li><strong>You constantly go over your budget</strong>: sometimes, you miss-forecast how much you need to spend each month. But if you set a realistic budget and find that you’re still going over, then you’re probably consuming excessively.</li>
+<li><strong>You regret your purchases</strong>: the most obvious sign that you have a shopping habit is you regret things you bought. Buyer’s remorse is an overwhelming feeling and one we want to avoid.</li>
+</ul>
+<h4><strong><img alt="Consumerism" class="alignnone wp-image-628240" height="274" loading="lazy" sizes="(max-width: 390px) 100vw, 390px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/consumerism-titlea-300x211.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/consumerism-titlea-300x211.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/consumerism-titlea.jpg 560w" width="390"/>Negatives of consumerism</strong></h4>
+<ul>
+<li><strong>Causes more pollution:</strong> Consumerism as a system can have devastating effects on the environment.</li>
+<li><strong>A major contributor to resource depletion: </strong>The second main negative of consumerism is resource depletion.  Simply put, resource depletion refers to the idea that human beings are using up the resources on the earth as an ever increasing rate such that we will ‘deplete’ or completely use up some resources.</li>
+<li><strong>Leads companies to develop low quality products: </strong>Modern companies practice a technique called ‘planned obsolescence’. In general, planned obsolescence is best understood as products that are designed to fail. Modern companies do this to encourage consumers to repurchase a product over and over again.</li>
+<li><strong>Does not necessarily lead to increased happiness beyond a certain point:</strong> The main negative aspect of consumerism is that it does not necessarily lead to higher levels of happiness for people.</li>
+<li><strong>Global inequality: </strong>The huge rise in resource consumption in wealthier countries has led to an ever widening gap between the rich and the poor. As the age old saying goes, “the rich get richer and the poor get poorer.”</li>
+</ul>
+<h4><strong>What can we do?</strong></h4>
+<ul>
+<li><strong>Extend the lifespan of your things</strong>: Repairing your things is not only an effective way to reduce your consumption, but it’s also beneficial to the environment.</li>
+<li><strong>Reframe shopping as a skill: </strong>When you focus on the role the thing you’re buying will play in the overall experience instead of the experience of shopping itself, you’ll be able to shift away from a consumerist mind-set.</li>
+<li><strong>Do the deathbed test: </strong>Not to get too dark, but if you were hypothetically on your deathbed today, and you were reflecting on your life, what would be your fondest memories? The quality of our lives is generally measured by moments of “that was a good time”, not “that thing I had was awesome”.</li>
+<li><strong>Borrow or rent instead of buy: </strong>A simple method for getting your consumerism under control is to rent or borrow items instead of buying them.</li>
+<li><strong>Practice minimalism</strong>: What’s the ultimate alternative to consumerism? Minimalism. A minimalist is someone who naturally rejects consumerism and sees value in having fewer things over more things. Minimalism is a powerful philosophy that impacts how you view material things, your relationships, commitments, and digital inventory.</li>
+</ul>
+<h4><strong>Conclusion:</strong></h4>
+<ul>
+<li>The M.K. Gandhi once said: “The Earth provides-enough to satisfy everyone’s needs but not any one’s greed<strong>.”</strong> We shall find that Gandhian call to curtailment of wants is relevant in the rapidly depleting natural resources, bio-diversity and eco-system and its contemporary relevance</li>
+</ul>
+<blockquote><p><strong>Mains question </strong></p>
+<p><strong>Q. What do you understand by the term consumerism? Discuss importance of minimalism as there is rise in revenge shopping in post covid19 era.</strong></p></blockquote>
+<p><strong><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a> </strong></p>
+<p> </p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/consumerism/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Economic cooperation with Sri Lanka for deeper engagement</title><link>https://www.civilsdaily.com/news/sri-lanka/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>hambantota, trinconmalee projects</p><p><strong>Mains level : </strong>indo srilanka bilateral relations</p></div></div><h4><strong><img alt="Sri lanka" class="alignnone wp-image-628265" height="364" loading="lazy" sizes="(max-width: 549px) 100vw, 549px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/5a11cf34251744cc40cc58d5f9333e4c-300x199.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/5a11cf34251744cc40cc58d5f9333e4c-300x199.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/08/5a11cf34251744cc40cc58d5f9333e4c.jpg 750w" width="549"/>Context</strong></h4>
 <ul>
@@ -354,54 +454,7 @@
 <p> </p>
 <p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/ease-of-doing-business/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Labour Codes empower workers: PM</title><link>https://www.civilsdaily.com/news/labour-codes-empower-workers-pm/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Labour codes</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>Addressing to the National Labour Conference, Prime Minister said that the Centre had taken initiatives to abolish laws from “the period of slavery” that reflected a slavery mentality through the Labour Codes.</p>
-<h4>New Labour Codes</h4>
-<p>The four codes likely to be implemented in FY23 are:</p>
-<ol>
-<li>Code on Wages</li>
-<li>Industrial Relations Code</li>
-<li>Social Security Code, and</li>
-<li>Occupational Safety, Health and Working Conditions Code</li>
-</ol>
-<h4>Objectives of the Labour Code</h4>
-<ul>
-<li>The <a href="https://www.civilsdaily.com/burning-issue-new-labour-laws/">new labor codes</a> are aimed at facilitating ease of doing business in the country and seek to replace 29 cumbersome laws.</li>
-<li>The objective is to encompass over 500 million organized and unorganized sector workers—90% of the workforce which has been outside labour laws.</li>
-<li>The idea is to ensure that they receive wage security, social security and health security, gender equality in terms of remuneration, a minimum floor wage, make the lives of inter-state migrant workers easier.</li>
-</ul>
-<h4>What is the current status of the codes?</h4>
-<ul>
-<li>The central government has completed the process of finalizing the draft rules, state governments are in the process of drafting the same.</li>
-<li>With labor being a concurrent subject, states are in the process of pre-publishing draft rules for these reforms.</li>
-</ul>
-<h4>How many labour laws do Indian states have?</h4>
-<ul>
-<li>The simplification of 29 labour laws into the four labour codes is expected be a watershed moment for labour reforms.</li>
-<li>India currently has a web of multiple labour legislations, over 40 central laws and 100 state laws involving labour.</li>
-<li>The Second National Commission on Labour (2002) recommended simplification to bring about transparency and uniformity.</li>
-</ul>
-<h4>What are the major reforms in these codes?</h4>
-<ul>
-<li><strong>Social security benefits:</strong> With organized sector workers being approximately 10% of the total workforce, the new codes may ensure that social security benefits are for all.</li>
-<li><strong>Take-home salary:</strong> As per the proposed labour codes, total allowances such as house rent, leave, travel etc. are to be capped at 50% of the salary, while basic pay should account for the remaining 50%.</li>
-<li><strong>Four days work:</strong> There could also be a permissible four-day work week of 12 hours per day.</li>
-</ul>
-<h4>How will it affect ease of doing business?</h4>
-<ul>
-<li><strong>Labour productivity:</strong> It is likely to improve with both employees and employers developing a sense of being partners in wealth creation.</li>
-<li><strong>Labour reform:</strong> A transparent environment in terms of workers’ compensation, clear definition of employee rights and employer duties.</li>
-<li><strong>Compliance un-burdening:</strong> Simplified labour codes making compliance easier are likely to attract investments.</li>
-<li><strong>Formalization of the economy:</strong> With more workers in the organized sector, leakage in terms of direct as well as indirect taxes may be plugged.</li>
-</ul>
-<h4>Also read</h4>
-<blockquote class="wp-embedded-content" data-secret="g8v6LuUrBy"><p><a href="https://www.civilsdaily.com/burning-issue-new-labour-laws/">[Burning Issue] New Labour Laws</a></p></blockquote>
-<p><iframe class="wp-embedded-content" data-secret="g8v6LuUrBy" frameborder="0" height="327" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.civilsdaily.com/burning-issue-new-labour-laws/embed/#?secret=qQonfpljnz#?secret=g8v6LuUrBy" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“[Burning Issue] New Labour Laws” — Civilsdaily" width="580"></iframe></p>
-<p> </p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/labour-codes-empower-workers-pm/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Challenging the Special Marriage Act, 1954</title><link>https://www.civilsdaily.com/news/challenging-the-special-marriage-act-1954/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/ease-of-doing-business/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Challenging the Special Marriage Act, 1954</title><link>https://www.civilsdaily.com/news/challenging-the-special-marriage-act-1954/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Special Marriage Act, 1954</p><p><strong>Mains level : </strong>Issues with inter-faith marriage</p></div></div><p>The Supreme Court has dismissed a writ petition challenging the Constitutional validity of certain provisions of the Special Marriage Act, 1954 under which couples seek refuge for inter-faith and inter-caste marriages.</p>
 <h4>What is Special Marriage Act, 1954?</h4>
@@ -542,50 +595,7 @@
 <p>COP 27 in Egypt gives us that opportunity to hold their feet to the fire. It is time for the developed world to make net minus pledges. If we don’t collectively push for it, we will be collectively pushed back.</p>
 <p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank"><strong>UPSC 2022 countdown has begun! Get your personal guidance plan now! (Click here)</strong></a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/backsliding-on-climate-action/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Personal Data Protection Bill</title><link>https://www.civilsdaily.com/news/implications-of-withdrawal-of-the-personal-data-protection-bill/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>European Union’s Digital Services Act</p><p><strong>Mains level : </strong>Paper 2- Need for personal data protection act</p></div></div><h4>Context</h4>
-<p>In a surprise development last week, the Government withdrew the Personal Data Protection (PDP) Bill, 2019, thereby abruptly halting the country’s quest for a national data protection law that had been in the works for over five years.</p>
-<h4>Reasons for withdrawal of the Bill</h4>
-<ul>
-<li>The short circular issued by the Minister of Electronics and Information Technology states that considering the report of the Joint Parliamentary Committee (JPC) — it had proposed 81 amendments and made 12 recommendations — <strong>“a comprehensive legal framework is being worked on”. </strong></li>
-<li>There is no elaboration on what such a “comprehensive legal framework” entails.</li>
-<li><strong>Possible plan of action: </strong>The Government could enact a fresh privacy legislation or <strong>a comprehensive data protection law</strong> (covering both personal and non-personal data).</li>
-<li><strong>Subsuming data protection in IT Act:</strong> Alternatively, it could subsume data protection under its ongoing attempts at revising the existing Information Technology Act, 2000.</li>
-<li><strong>Digital markets law:</strong> It could also enact a digital markets law, along the lines of the<strong> European Union’s Digital Services Act</strong>, focusing on competition and innovation in the digital space.</li>
-</ul>
-<h4>Background of the introduction of Personal Data Protection Bill</h4>
-<ul>
-<li>When the Supreme Court of India affirmed the right to privacy in  <strong>K.S. Puttaswamy judgment in 2017</strong>, the nine-judge Bench of the Court referred to the Government’s Office Memorandum constituting the<strong> B.N. Srikrishna Committee</strong> to suggest a draft Data Protection Bill.</li>
-<li>The committee released its draft Personal Data Protection Bill in 2018, which was the first public articulation of a data protection law in India.</li>
-<li>When the Supreme Court upheld the constitutionality of the Aadhaar Act, the majority emphasised that it believed that “there is a need for a proper legislative mechanism for data protection”.</li>
-<li>In December 2019, the Government introduced the PDP Bill, 2019 in the Lok Sabha as a comprehensive personal data protection regime.</li>
-<li>The Bill was referred to the JPC for its recommendations.</li>
-</ul>
-<h4>What were the issues with the Bill?</h4>
-<ul>
-<li><strong>Power to exemption with state:</strong> The Bill’s expansive exemptions <strong>allowed the state to exempt the entire application of the law</strong> simply as if it was “expedient” to do so in the interest of national security or public order.</li>
-<li><strong>Powers without accountability:</strong> The PDP Bill, 2019 as well as the JPC’s version established a strong regulator (the Data Protection Authority) with a lot of power, but very little independence or accountability.</li>
-<li><strong>Data localisation:</strong> The Bill imposed a s<strong>trong data localisation mandate</strong>, requiring companies to store all sensitive personal data and critical personal data (which was not defined) in India.</li>
-<li><strong>Subsuming the personal and non-personal data:</strong> The JPC recommended subsuming the regulation of personal data and non-personal data within a single legislation, even though it undermined the Puttaswamy mandate to ensure protection of personal data.</li>
-</ul>
-<h4>Why we need data protection law?</h4>
-<ul>
-<li><strong>Increasing internet use:</strong> India currently has over <strong>750 million Internet users</strong>, with the number only expected to increase in the future.</li>
-<li>The Government is also making a strong push for a <strong>‘Digital India’,</strong> with increased focus on digitisation of access to health, ration, banking, insurance, especially after the COVID-19 pandemic.</li>
-<li>There is<strong> a greater focus on the inter-linking of data,</strong> whether through facial recognition, Aadhaar, or the Criminal Procedure (Identification) Act, 2022.</li>
-<li><strong>Data breaches:</strong> At the same time, India has among the highest data breaches in the world.</li>
-<li>Without a data protection law in place, the data of millions of Indians continues to be at risk of being exploited, sold, and misused without their consent.</li>
-<li><strong>Lack of writ proceeding against corporate action:</strong> Unlike state action, corporate action or misconduct is not subject to writ proceedings in India.</li>
-<li>This is because fundamental rights are, by and large, not enforceable against private non-state entities.</li>
-<li>This leaves individuals with limited remedies against private actors.</li>
-<li>A personal data protection legislation would remedy this lacuna by providing individuals with proper grievance redress options and creating sufficient deterrence among private actors.</li>
-</ul>
-<h4>Conclusion</h4>
-<p>It is imperative that the Government soon introduces a fresh data protection legislation, drawn after proper public consultation. Such a law should take into consideration the criticisms that have been raised by civil society as well as the private sector.</p>
-<p><a href="https://bit.ly/3AFiKuz" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/implications-of-withdrawal-of-the-personal-data-protection-bill/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Old age poverty is getting worse if not addressed soon</title><link>https://www.civilsdaily.com/news/old-age-poverty/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/backsliding-on-climate-action/</guid><pubDate>Wed, 31 Aug 2022 00:00:00 +0553</pubDate></item><item><title>Old age poverty is getting worse if not addressed soon</title><link>https://www.civilsdaily.com/news/old-age-poverty/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>elderly welfare</p></div></div><h4><strong><img alt="old age poverty" class="alignnone wp-image-628688" height="343" loading="lazy" sizes="(max-width: 515px) 100vw, 515px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-300x200.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-300x200.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-1024x682.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-768x512.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-1536x1024.jpg 1536w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-2048x1365.jpg 2048w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-1200x800.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/ASwaminathan-old-Indian-woman-writing-on-paper-1-scaled-1-1980x1319.jpg 1980w" width="515"/>Context </strong></h4>
 <ul>
