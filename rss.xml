@@ -1,80 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 15 Sep 2022 05:57:08 +0000</lastBuildDate><item><title>Why Cloudbursts forecast in India still remains elusive?</title><link>https://www.civilsdaily.com/news/cloudbursts-forecast-in-india-still-remains-elusive/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Cloudburst</p><p><strong>Mains level : </strong>Flash floods and cloudbursts</p></div></div><p><img alt="cloudbursts" class="alignnone wp-image-635041" height="444" loading="lazy" sizes="(max-width: 420px) 100vw, 420px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/cloudburst-284x300.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/cloudburst-284x300.jpg 284w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/cloudburst.jpg 509w" width="420"/></p>
-<p>The characteristics of cloud burst events remain elusive, and our efforts in monitoring and forecasting them is at an embryonic stage.</p>
-<p>Cyclones can be predicted about one week in advance. However, <a href="https://www.civilsdaily.com/news/what-are-cloudbursts/">cloudburst</a> forecasts still remain elusive.</p>
-<h4><strong>What is Cloudbursts?</strong></h4>
-<ul>
-<li>A cloudburst is a localised but intense rainfall activity.</li>
-<li>Short spells of very heavy rainfall over a small geographical area can cause widespread destruction, especially in hilly regions where this phenomenon is the most common.</li>
-<li>Not all instances of very heavy rainfall, however, are cloudbursts.</li>
-<li>A cloudburst has a very specific definition: Rainfall of 10 cm or more in an hour over a roughly 10 km x 10-km area is classified as a cloudburst event.</li>
-<li>By this definition, 5 cm of rainfall in a half-hour period over the same area would also be categorized as a cloudburst.</li>
-</ul>
-<h4><strong>Which clouds do burst?</strong></h4>
-<ul>
-<li>Cloudburst events are often associated with <strong><u>cumulonimbus clouds</u></strong> that cause thunderstorms and occasionally due to monsoon wind surges and other weather phenomena.</li>
-<li>Cumulonimbus clouds can grow up to <strong><u>12-15 km in height</u></strong> through the entire troposphere (occasionally up to 21 km) and can hold huge amounts of water.</li>
-<li>Tall cumulonimbus clouds can develop in about half an hour as the moisture updraft happens rapidly, at a pace of 60 to 120 km/hr.</li>
-<li>A single-cell cloud may last for an hour and <strong><u>dump all the rain in the last 20 to 30 minutes</u></strong>, while some of these clouds merge to form multi-cell storms and last for several hours.</li>
-<li>However, cloudbursts are not defined based on cloud characteristics and do not indicate clouds exploding. Cloudbursts are defined by the amount of rainfall.</li>
-</ul>
-<h4><strong>How is it different from normal rainfall?</strong></h4>
-<ul>
-<li>According to the India Meteorological Department (IMD), 100 mm of rain in an hour is called a cloudburst.</li>
-<li>Usually, cloudbursts occur over a small geographical region of 20 to 30 sq. km.</li>
-</ul>
-<h4><strong>When do they occur? </strong></h4>
-<ul>
-<li>In India, cloudbursts often occur during the monsoon season, when the southwesterly monsoon winds bring in copious amounts of moisture inland.</li>
-<li>The moist air that converges over land gets lifted as they encounter the hills.</li>
-<li>The moist air reaches an altitude and gets saturated, and the water starts condensing out of the air forming clouds.</li>
-<li>This is how clouds usually form, but such an orographic lifting together with a strong moisture convergence can lead to intense cumulonimbus clouds taking in huge volumes of moisture that is dumped during cloudbursts.</li>
-</ul>
-<h4><strong>How common are cloudbursts?</strong></h4>
-<ul>
-<li>Cloudbursts are not uncommon events, particularly during the monsoon months.</li>
-<li>Most of these happen in the Himalayan states where the local topology, wind systems, and temperature gradients between the lower and upper atmosphere facilitate the occurrence of such events.</li>
-<li>However, not every event that is described as a cloudburst is actually, by definition, a cloudburst.</li>
-<li>That is because these events are highly localized.</li>
-<li>They take place in very small areas which are often devoid of rainfall measuring instruments.</li>
-</ul>
-<h4>Climate change and cloudbursts: How are they related?</h4>
-<ul>
-<li>Climate change is projected to increase the frequency and intensity of cloudbursts worldwide.</li>
-<li>As the air gets warmer, it can hold more moisture and for a longer time. We call this the <strong><u>Clausius Clapeyron relationship. </u></strong></li>
-<li>A <strong><u>1-degree Celsius rise in temperature may correspond to a 7-10% increase in moisture and rainfall</u></strong>.</li>
-<li>This increase in <strong><u>rainfall amount does not get spread moderately</u></strong> throughout the season.</li>
-<li>As the moisture holding <strong><u>capacity of air increases</u></strong>, it results in prolonged dry periods intermittent with short spells of extreme rains.</li>
-<li><strong><u>Deeper cumulonimbus clouds will form</u></strong> and the chances of cloudbursts also increase.</li>
-</ul>
-<h4><strong>Why are they so destructive?</strong></h4>
-<ul>
-<li>The consequences of these events, however, <strong><u>are not confined to small areas</u></strong>.</li>
-<li>Because of the nature of terrain, the heavy rainfall events often <strong><u>trigger landslides and flash floods</u></strong>, causing extensive destruction downstream.</li>
-<li>This is the reason why every sudden downpour that leads to destruction of life and property in the hilly areas gets described as a “cloudburst”, irrespective of whether the amount of rainfall meets the defining criteria.</li>
-<li>At the same time, it is also possible that actual cloudburst events in remote locations aren’t recorded.</li>
-</ul>
-<h4><strong>Detecting cloudbursts</strong></h4>
-<ul>
-<li>Satellites are extensively useful in detecting large-scale monsoon weather systems.</li>
-<li>However the <strong><u>resolution of the precipitation radars of these satellites can be much smaller</u></strong> than the area of individual cloudburst events, and hence they go undetected.</li>
-<li>Weather <strong><u>forecast models also face a similar challenge</u></strong> in simulating the clouds at a high resolution.</li>
-<li>The skillful forecasting of rainfall in hilly regions remains challenging due to the uncertainties in the interaction between the <strong><u>moisture convergence and the hilly terrain</u></strong>.</li>
-<li>There also involves the <strong><u>cloud microphysics, and the heating-cooling mechanisms</u></strong> at different atmospheric levels.</li>
-<li><strong><u>Multiple radars</u></strong> can be a quick measure for providing warnings, but radars <strong><u>are an expensive affair</u></strong>, and installing them across the country may not be practically feasible.</li>
-</ul>
-<h4>Solutions to cloudbursts forecast</h4>
-<ul>
-<li><strong><u>Multiple doppler weather radars</u></strong> can be used to monitor moving cloud droplets and help to provide nowcasts (forecasts for the next three hours).</li>
-<li>A long-term measure would be <strong><u>mapping the cloudburst-prone regions</u></strong> using automatic rain gauges.</li>
-<li>If cloudburst-prone regions are <strong><u>co-located with landslide-prone regions</u></strong>, these locations can be designated as hazardous.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/cloudbursts-forecast-in-india-still-remains-elusive/</guid><pubDate>Mon, 12 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Supreme Court to take up CAA Challenge</title><link>https://www.civilsdaily.com/news/supreme-court-to-take-up-caa-challenge/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 15 Sep 2022 06:39:14 +0000</lastBuildDate><item><title>Supreme Court to take up CAA Challenge</title><link>https://www.civilsdaily.com/news/supreme-court-to-take-up-caa-challenge/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>CAA</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>A three-judge Bench of the Supreme Court led by Chief Justice of India (CJI) U U Lalit will hear the challenge to the contentious Citizenship (Amendment) Act.</p>
 <h4><strong>What is Citizenship Amendment Act (CAA), 2019?</strong></h4>
@@ -1139,7 +1064,7 @@ Post your answers here.</blockquote>
 </div><!-- .entry-content -->
 </div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/water-stress/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Here is how HDI has performed in last 3 decades</title><link>https://www.civilsdaily.com/news/hdi/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>particulars of report</p><p><strong>Mains level : </strong>human development</p></div></div><h4><strong><img alt="HDI" class="alignnone wp-image-636168" height="345" sizes="(max-width: 448px) 100vw, 448px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-300x231.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-300x231.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-1024x787.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-768x590.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-1171x900.jpg 1171w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant.jpg 1200w" width="448"/>Context </strong></h4>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>particulars of report</p><p><strong>Mains level : </strong>human development</p></div></div><h4><strong><img alt="HDI" class="alignnone wp-image-636168" height="345" loading="lazy" sizes="(max-width: 448px) 100vw, 448px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-300x231.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-300x231.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-1024x787.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-768x590.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant-1171x900.jpg 1171w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/15migrant.jpg 1200w" width="448"/>Context </strong></h4>
 <ul>
 <li>India, belonging to the medium HDI category, shows dimensional inequalities similar to or slightly below the average figures in the category, except in the case of education where it is high and closer to the low HDI countries. The inequalities in health and education are more than twice that of the very high and high HDI categories.</li>
 </ul>
@@ -1236,4 +1161,82 @@ Post your answers here.</blockquote>
 <p> </p>
 <p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/hdi/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item></channel></rss>
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/hdi/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item><item><title>old age problems that we should address now</title><link>https://www.civilsdaily.com/news/old-age/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>government schemes</p><p><strong>Mains level : </strong>social welfare</p></div></div><h4><strong><img alt="old age" class="alignnone wp-image-636184" height="302" sizes="(max-width: 671px) 100vw, 671px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-300x135.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-300x135.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-1024x459.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-768x344.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749.jpg 1200w" width="671"/>Context             </strong></h4>
+<p>India will be facing the immediate challenge –The ageing of the population. Challenge to ensure a decent quality of life for the old age people in the near future, planning and providing for it must begin today.</p>
+<h4><strong>Background</strong></h4>
+<ul>
+<li>Life expectancy in India has more than doubled since Independence from around 32 years in the late 1940s to 70 years or so today, a historical achievement.</li>
+<li>Over the same period, the fertility rate has crashed from about six children per woman to just two, which liberated women from the cycle of continuous child bearing and child care.</li>
+</ul>
+<h4><strong>What is ageing of the population?</strong></h4>
+<ul>
+<li><strong>Meaning: </strong>Population ageing is a shift in the distribution of a country’s population towards older ages.</li>
+<li><strong>Reason behind it</strong>: Decline in the fertility rate and Rise In the life expectancy. An increase in longevity increases the average age of the population by increasing the numbers of surviving older people.</li>
+<li><strong>Impact of the ageing population:</strong>, labor supply shortage, change in patterns of saving and investment, deteriorate fiscal balance, lack of adequate welfare system etc.</li>
+<li><strong>Challenges they impose: </strong>Social security, elderly Healthcare, Dependence on the family etc.</li>
+</ul>
+<h4><strong>What is the status in India?</strong></h4>
+<ul>
+<li>According to the National Commission on Population, The share of the elderly (persons aged 60 years and above) close to 9% in 2011.</li>
+<li>It is growing fast and may reach 18% by 2036.</li>
+</ul>
+<h4><strong><img alt="old age" class="alignnone wp-image-636185" height="424" loading="lazy" sizes="(max-width: 645px) 100vw, 645px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/senior-citizens-_-demonetisation-300x197.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/senior-citizens-_-demonetisation-300x197.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/senior-citizens-_-demonetisation.jpg 760w" width="645"/><a href="https://www.civilsdaily.com/news/old-age-poverty/">Problems faced by elderly</a> </strong></h4>
+<ul>
+<li><strong>Depression</strong>: According to survey by Abdul Latif Jameel foundation in Tamilnadu, 30-50% of people above age of 60 has a symptoms of depression.The proportion with depression symptoms is much higher for women than men, and rises sharply with age. In most cases, depression remains undiagnosed and untreated.</li>
+<li><strong>Loneliness</strong>: Loneliness one the major factor leading to depression. A large majority of elderly persons living alone are women, mainly widows.</li>
+<li><strong>Hardship of age</strong>: Monetary assistance can certainly help to cope with many health issues.</li>
+<li><strong>Poverty and poor health</strong>: Old age pensions are vital. Cash helps to lead a dignified life.</li>
+</ul>
+<h4><strong><img alt="old age" class="alignnone wp-image-636186" height="310" loading="lazy" sizes="(max-width: 508px) 100vw, 508px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/old-age-300x183.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/old-age-300x183.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/old-age.jpg 675w" width="508"/>Current government schemes for elderly </strong></h4>
+<p><strong>Pradhan Mantri Vaya Vandana Scheme</strong> – This is one of the most popular senior citizen pension schemes in India.</p>
+<ul>
+<li>Designed for senior citizens above 60 years of age, the policy term of this Prime Minister Senior Citizen Scheme extends to ten years.</li>
+<li>The pensioner can choose the frequency of the payment – monthly/quarterly/half- yearly/annually.</li>
+<li>You can earn interest of 8% per annum over this scheme.</li>
+<li>The minimum and maximum capping of pension are Rs. 3,000 per month and 10,000 per month, respectively</li>
+</ul>
+<p><strong>National Programme for the Health Care of Elderly (NPHCE)</strong>–</p>
+<ul>
+<li>Introduced in 2010, this scheme concentrates on preventive as well as promotive, care for the maintenance of overall health.</li>
+<li>This program was launched to address the health issues faced by seniors.</li>
+<li>The district-level objectives include providing dedicated health facilities in district hospitals, community health centres (CHC), primary health centres (PHC), and sub-centres (SC) levels through State Health Society.</li>
+<li>These facilities maybe free or highly subsidized.</li>
+</ul>
+<p><strong>Varishta Mediclaim Policy</strong> –</p>
+<ul>
+<li>This policy aids seniors by covering the cost of medicines, blood, ambulance charges, and other diagnosis related charges.</li>
+<li>Designed for senior citizens between the age of 60 and 80 years, this helps meet the health-related expenses of senior citizens.</li>
+<li>Income tax benefits are allowed for payment of premium.</li>
+<li>Although the policy period is for one year, you can extend the renewal up to the age of 90 years.</li>
+</ul>
+<p><strong>Rashtriya Vayoshri Yojana</strong> –</p>
+<ul>
+<li>This scheme provides physical aids and assisted-living devices to the elderly above 60 years of age that belong to the BPL (below the poverty line) category.</li>
+<li>If senior citizens wish to avail this, then they must have a BPL card.</li>
+<li>This is a Central Sector Scheme and is entirely funded by the Central Government.</li>
+</ul>
+<p><strong>Varishta Pension Bima Yojana</strong> –</p>
+<ul>
+<li>This pension scheme, launched by the Ministry of Finance, is for senior citizens above 60 years.</li>
+<li>The LIC of India has the authority to operate this scheme.</li>
+<li>Any Medical check-ups is not necessary to avail this policy.</li>
+<li>It offers assured pension with a guaranteed interest rate of 8% per annum for up to 10 years –</li>
+<li>You can opt for monthly, quarterly, half-yearly, and yearly pension – depends on how you’d like to receive it.</li>
+</ul>
+<p><strong>Vayoshreshtha Samman</strong> –</p>
+<p>This scheme focuses on those seniors who have made significant contributions in their disciplines and recognized their efforts.</p>
+<p>It was upgraded to the National Award in 2013, and since then, awards have been granted below thirteen categories.</p>
+<h4><strong><img alt="https://www.civilsdaily.com/news/old-age-poverty/" class="alignnone wp-image-636195" height="340" loading="lazy" sizes="(max-width: 629px) 100vw, 629px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/108205197_gettyimages-1152798478-1-300x162.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/108205197_gettyimages-1152798478-1-300x162.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/108205197_gettyimages-1152798478-1.jpg 746w" width="629"/>Conclusion</strong></h4>
+<ul>
+<li>Social security pensions, of course, are just the first step towards a dignified life for the elderly. They also need other support and facilities such as health care, disability aids and assistance with daily tasks, recreation opportunities and a good social life. They can be the active contributor to the economy having the years of experience and mentorship to the demographic dividend.</li>
+</ul>
+<blockquote><p><strong>Mains Question Q.</strong></p>
+<p><strong>Discuss the challenges before our elderly today? What steps have been taken by government to address these challenges?</strong></p></blockquote>
+<p><strong><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p> </p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/old-age/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item></channel></rss>
