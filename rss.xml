@@ -1,135 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 15 Sep 2022 07:24:20 +0000</lastBuildDate><item><title>GPS-based toll system to replace FASTag</title><link>https://www.civilsdaily.com/news/gps-based-toll-to-replace-fastag-ias/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>FASTags, GPS</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p><img alt="" class="alignnone wp-image-635419" height="261" loading="lazy" sizes="(max-width: 522px) 100vw, 522px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/gps-toll-300x150.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/gps-toll-300x150.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/gps-toll-768x384.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/gps-toll.jpg 900w" width="522"/></p>
-<p>The government plans to start a GPS-based toll system in place of FASTag to ensure seamless payment and vehicle movement on national highways.</p>
-<p><strong>Why in news?</strong></p>
-<ul>
-<li>The move would end the role of toll plazas across the country.</li>
-</ul>
-<h4>How will a GPS-based tolling system work?</h4>
-<ul>
-<li>Vehicles will be fitted with an electronic device that can track their movement.</li>
-<li>Highways will be geo-fenced, creating virtual boundaries. The system will use GPS or radio frequency identification technologies.</li>
-<li>The software will recognize when a mobile device enters or leaves a particular area, and toll will be charged based on the distance travelled at the highway’s exit point.</li>
-<li>As the system is based on sensors, there will be no need to stop at toll plazas.</li>
-<li>Vehicles and users must be registered with the GPS toll system, linked to bank accounts that will be used to transfer toll payments.</li>
-</ul>
-<h4>What are FASTags?</h4>
-<ul>
-<li><a href="https://www.civilsdaily.com/burning-issue-implementation-of-fastags/">FASTags</a> are stickers that are affixed to the windscreen of vehicles and use Radio Frequency Identification (RFID) technology to enable digital, contactless payment of tolls without having to stop at toll gates.</li>
-<li>RFID uses electromagnetic fields to automatically identify and track tags attached to objects.</li>
-<li>The tags are linked to bank accounts and other payment methods.</li>
-<li>As a car crosses a toll plaza, the amount is automatically deducted, and a notification is sent to the registered mobile phone number.</li>
-</ul>
-<h4>Issues with FASTags</h4>
-<ul>
-<li>Since the card is affixed to the windscreen, it can be easily <strong><u>misplaced, damaged or stolen</u></strong>.</li>
-<li>The existing FASTag system, though faster than cash payments, <strong><u>still requires vehicles to stop at toll booths to enable reading of tags. </u></strong></li>
-<li>Also, the <strong><u>vehicle must wait till the gate is opened</u></strong>.</li>
-<li>It has been observed that sometimes the <strong><u>toll fee is deducted twice</u></strong> from user account. Mostly, this happens due to a technical glitch.</li>
-<li>Some card readers take <strong><u>longer time to read and register</u></strong>. Hence the <strong><u>purpose of saving time is itself defied.</u></strong></li>
-<li>Still, the <strong><u>wait time at toll booths is much more than the 30 seconds</u></strong> that was promised earlier.</li>
-<li>Also, it has <strong><u>not helped reduce the number of toll booths</u></strong>.</li>
-</ul>
-<p>Hence the benefits of using FASTag far outweigh the challenges.</p>
-<h4>Is FASTags a total failure?</h4>
-<ul>
-<li><strong><u>Usage has increased</u></strong> since FASTag was made mandatory in 2021 after its launch in 2015.</li>
-<li><strong><u>Penetration has grown</u></strong> from nearly 16% in FY18 to 96.3% in FY22.</li>
-<li>Total toll collection in FY18 was ₹21,948 crore, including ₹3,532 crore collected through FASTags.</li>
-<li>In FY22, <strong><u>toll collection through FASTags increased</u></strong> sharply to ₹33,274 crore out of total toll collection of ₹34,535 crore.</li>
-</ul>
-<h4>How will GPS benefit highway users?</h4>
-<ul>
-<li>GPS tolling uses satellite-based navigation and <strong><u>requires no halting</u></strong>.</li>
-<li>Also, <strong><u>vehicles can be charged only for their actual travel</u></strong> on a highway stretch.</li>
-<li>Currently, toll is paid at toll booths which is <strong><u>fixed between two points of tolling</u></strong> and a <strong><u>user does not get any concession even if he/she exits before completing the full run</u></strong> between two toll plazas.</li>
-<li>The new system should <strong><u>reduce the toll amount charged</u></strong> for travel on highways.</li>
-</ul>
-<h4>What is the progress so far on GPS tolling?</h4>
-<ul>
-<li>The Union road ministry has <strong><u>amended</u></strong> the <strong><u>National Highways Fee (Determination of Rates and Collection) Rules, 2008</u></strong>, allowing for the collection of toll based on distance travelled on national highways.</li>
-<li>This will facilitate the introduction of GPS tolling.</li>
-<li>First trials may be done on the under-construction Mumbai-Delhi expressway which will be geo-fenced.</li>
-<li>Also the <strong><u>cost of GPS devices</u></strong> needs to be considered at very beginning.</li>
-</ul>
-<h4>Way forward</h4>
-<ul>
-<li>The system needs <strong><u>a proper legislative framework</u></strong>, and a full launch is still years away. The government intends to introduce it in phases.</li>
-<li>The road ministry is expected to amend the Motor Vehicles Act and create rules to facilitate GPS tolling as well as to <strong><u>penalize offenders</u></strong>.</li>
-<li>Moreover, <strong><u>GPS will come with its own set of complications on calculating differential tolls</u></strong>.</li>
-<li><strong><u>Regulations and framework</u></strong> for these need to be developed first.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/gps-based-toll-to-replace-fastag-ias/</guid><pubDate>Tue, 13 Sep 2022 00:00:00 +0553</pubDate></item><item><title>SC Collegium approves names for appointments in three High Courts</title><link>https://www.civilsdaily.com/news/sc-collegium-approves-names-for-appointments-in-three-high-courts/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Collegium system, NJAC</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>The Supreme Court Collegium led by Chief Justice of India (CJI) U.U. Lalit has recommended eight names for appointment to the Bombay High Court.</p>
-<h4><strong>What is Collegium System?</strong></h4>
-<ul>
-<li>The <a href="https://www.civilsdaily.com/news/what-is-collegium-system/">Collegium</a> of judges is the Indian Supreme Court’s invention.</li>
-<li>It does not figure in the Constitution, which says judges of the Supreme Court and High Courts are appointed by the President and speaks of a process of consultation.</li>
-<li>In effect, it is a system under which judges are appointed by an institution comprising judges.</li>
-<li>After some judges were superseded in the appointment of the CJI in the 1970s, and attempts made subsequently to effect a mass transfer of High Court judges across the country.</li>
-<li>Hence there was a perception that the independence of the judiciary was under threat. This resulted in a series of cases over the years.</li>
-</ul>
-<h4><strong>Evolution: The Judges Cases</strong></h4>
-<ul>
-<li><strong>First Judges Case (1981)</strong> ruled that the “consultation” with the CJI in the matter of appointments must be full and effective.</li>
-<li>However, it rejected the idea that the CJI’s opinion, albeit carrying great weight, should have primacy.</li>
-<li><strong>Second Judges Case (1993)</strong> introduced the Collegium system, holding that “consultation” really meant “concurrence”.</li>
-<li>It added that it was not the CJI’s individual opinion, but an institutional opinion formed in consultation with the two senior-most judges in the Supreme Court.</li>
-<li><strong>Third Judges Case (1998):</strong> On a Presidential Reference for its opinion, the Supreme Court, in the Third Judges Case (1998) expanded the Collegium to a five-member body, comprising the CJI and four of his senior-most colleagues.</li>
-</ul>
-<h4><strong>The procedure followed by the Collegium</strong></h4>
-<p><strong>Appointment of CJI</strong></p>
-<ul>
-<li>The President of India appoints the CJI and the other SC judges.</li>
-<li>As far as the CJI is concerned, the outgoing CJI recommends his successor.</li>
-<li>In practice, it has been strictly by seniority ever since the supersession controversy of the 1970s.</li>
-<li>The Union Law Minister forwards the recommendation to the PM who, in turn, advises the President.</li>
-</ul>
-<p><strong>Other SC Judges</strong></p>
-<ul>
-<li>For other judges of the top court, the proposal is initiated by the CJI.</li>
-<li>The CJI consults the rest of the Collegium members, as well as the senior-most judge of the court hailing from the High Court to which the recommended person belongs.</li>
-<li>The consultees must record their opinions in writing and it should form part of the file.</li>
-<li>The Collegium sends the recommendation to the Law Minister, who forwards it to the Prime Minister to advise the President.</li>
-</ul>
-<p><strong>For High Courts</strong></p>
-<ul>
-<li>The CJs of High Courts are appointed as per the policy of having Chief Justices from outside the respective States. The Collegium takes the call on the elevation.</li>
-<li>High Court judges are recommended by a Collegium comprising the CJI and two senior-most judges.</li>
-<li>The proposal, however, is initiated by the Chief Justice of the High Court concerned in consultation with two senior-most colleagues.</li>
-<li>The recommendation is sent to the Chief Minister, who advises the Governor to send the proposal to the Union Law Minister.</li>
-</ul>
-<h4><strong>Does the Collegium recommend transfers too?</strong></h4>
-<ul>
-<li>Yes, the Collegium also recommends the transfer of Chief Justices and other judges.</li>
-<li>Article 222 of the Constitution provides for the transfer of a judge from one High Court to another.</li>
-<li>When a CJ is transferred, a replacement must also be simultaneously found for the High Court concerned. There can be an acting CJ in a High Court for not more than a month.</li>
-<li>In matters of transfers, the opinion of the CJI “is determinative”, and the consent of the judge concerned is not required.</li>
-<li>However, the CJI should take into account the views of the CJ of the High Court concerned and the views of one or more SC judges who are in a position to do so.</li>
-<li>All transfers must be made in the public interest, that is, “for the betterment of the administration of justice”.</li>
-</ul>
-<h4><strong>Loopholes in the Collegium system</strong></h4>
-<ul>
-<li><strong>Lack of Transparency:</strong> Opaqueness and a lack of transparency, and the scope for nepotism are cited often.</li>
-<li><strong>Judges appointing Judge:</strong> The attempt made to replace it with a ‘National Judicial Appointments Commission’ was struck down by the court in 2015 on the ground that it posed a threat to the independence of the judiciary.</li>
-<li><strong>Criteria:</strong> Some do not believe in full disclosure of reasons for transfers, as it may make lawyers in the destination court chary of the transferred judge.</li>
-</ul>
-<h4><strong>Way ahead</strong></h4>
-<ul>
-<li>In respect of appointments, there has been an acknowledgment that the “zone of consideration” must be expanded to avoid criticism that many appointees hail from families of retired judges.</li>
-<li>The status of a proposed new memorandum of procedure, to infuse greater accountability, is also unclear.</li>
-<li>Even the majority opinions admitted the need for transparency, now Collegiums’ resolutions are now posted online, but reasons are not given.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/sc-collegium-approves-names-for-appointments-in-three-high-courts/</guid><pubDate>Tue, 13 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Supreme Court’s Three-Question Test for Validity of 10% EWS quota</title><link>https://www.civilsdaily.com/news/supreme-courts-three-question-test-for-validity-of-ews-quota/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 15 Sep 2022 08:15:03 +0000</lastBuildDate><item><title>Supreme Court’s Three-Question Test for Validity of 10% EWS quota</title><link>https://www.civilsdaily.com/news/supreme-courts-three-question-test-for-validity-of-ews-quota/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>EWS Quota , 103rd Amendment</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>The Supreme Court will today examine whether The Constitution (103rd Amendment) Act, which introduced a 10 per cent quota for <a href="https://www.civilsdaily.com/news/economically-weaker-sections-ews-as-defined-by-govt-panel/">Economically Weaker Sections (EWS)</a> in government jobs and admissions, violates the basic structure of the Constitution.</p>
 <p><strong>What is the news?</strong></p>
@@ -1021,7 +891,7 @@ Post your answers here.</blockquote>
 </div><!-- .entry-content -->
 </div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/hdi/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item><item><title>old age problems that we should address now</title><link>https://www.civilsdaily.com/news/old-age/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>government schemes</p><p><strong>Mains level : </strong>social welfare</p></div></div><h4><strong><img alt="old age" class="alignnone wp-image-636184" height="302" sizes="(max-width: 671px) 100vw, 671px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-300x135.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-300x135.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-1024x459.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-768x344.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749.jpg 1200w" width="671"/>Context             </strong></h4>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>government schemes</p><p><strong>Mains level : </strong>social welfare</p></div></div><h4><strong><img alt="old age" class="alignnone wp-image-636184" height="302" loading="lazy" sizes="(max-width: 671px) 100vw, 671px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-300x135.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-300x135.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-1024x459.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749-768x344.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/809500-jnxnqsfxdc-1465291749.jpg 1200w" width="671"/>Context             </strong></h4>
 <p>India will be facing the immediate challenge –The ageing of the population. Challenge to ensure a decent quality of life for the old age people in the near future, planning and providing for it must begin today.</p>
 <h4><strong>Background</strong></h4>
 <ul>
@@ -1157,4 +1027,126 @@ Post your answers here.</blockquote>
 <p> </p>
 <p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/new-tribes-to-scheduled-tribes-list/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item></channel></rss>
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/new-tribes-to-scheduled-tribes-list/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item><item><title>How the National Logistics Policy will speed up lumbering freight sector?</title><link>https://www.civilsdaily.com/news/how-the-national-logistics-policy-will-speed-up-lumbering-freight-sector/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NLP</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p><strong><img alt="logistics" class="alignnone wp-image-636221" height="263" loading="lazy" sizes="(max-width: 533px) 100vw, 533px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logistics-300x148.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logistics-300x148.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logistics.jpg 684w" width="533"/></strong></p>
+<p>The government will announce the National Logistics Policy (NLP) this week, aiming to bring down logistics costs and address challenges plaguing importers and exporters.</p>
+<h4><strong>What is Logistics? </strong></h4>
+<ul>
+<li>Logistics refers to the overall process of managing <strong><u>how resources are acquired, stored, and transported</u></strong> to their final destination.</li>
+<li>It involves identifying prospective distributors and suppliers and determining their effectiveness and accessibility.</li>
+</ul>
+<h4><strong>Why need a logistics policy?</strong></h4>
+<p><img alt="logistics" class="alignnone wp-image-636220" height="273" loading="lazy" sizes="(max-width: 438px) 100vw, 438px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logist-300x187.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logist-300x187.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logist-768x479.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logist-400x250.jpg 400w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/logist.jpg 827w" width="438"/></p>
+<ul>
+<li><strong>Organizing and consolidating the sector:</strong> India’s logistics sector is largely unorganized and fragmented.</li>
+<li><strong>Reducing logistics cost:</strong> This is why the country’s logistics costs are as high as 14-15% of the GDP, against 7-8% in developed nations such as the Singapore and the US, who leverage it to boost exports. The NLP aims to bring down India’s logistics cost to 8% in the next five years.</li>
+<li><strong>Preventing waste of perishable items:</strong> As per some estimates in India, about 16% of agri-production is wasted at different stages of the supply chain.</li>
+<li><strong>Warehousing development:</strong> Moreover, due to factors such as limited capacity and availability of warehouses, the cost of transaction increases.</li>
+<li><strong>Multi-modal integration:</strong> The new policy is going about simplification, technology and will have a multimodal approach that will combine rail, water, and air — all modes of transport.</li>
+</ul>
+<h4><strong>What role will technology play?</strong></h4>
+<ul>
+<li><strong>Advanced analytics:</strong> The NLP will aim to harness technologies such as AI and blockchain. It aims to create a data analytics centre for driving greater transparency and continuous monitoring of key logistics metrics.</li>
+<li><strong>Single window portal:</strong> Under NLP, a portal will be created, where service providers such as warehousing providers, shipping experts, transporters, customs brokers, and various governmental agencies will be unified.</li>
+</ul>
+<h4><strong>Will it boost cooperation between ministries?</strong></h4>
+<ul>
+<li><strong>Unifying multiple departments:</strong> Currently, the logistics value chain is managed by several ministries—road transport and highways, shipping, railways, and civil aviation.</li>
+<li><strong>Single-point clearances:</strong> Agencies like the Central Drug Standard Control Organization and the Food Safety and Standard Authority of India provide clearances.</li>
+<li><strong>Nationwide integration:</strong> The NLP could enhance their integration at the central level.</li>
+</ul>
+<h4><strong>What about reducing the carbon footprint?</strong></h4>
+<ul>
+<li><strong>Energy-efficient transportation:</strong> The draft logistics policy lays emphasis on the shift to more energy-efficient means of transportation, as well as the use of greener fuels which could reduce the supply chain’s carbon footprint.</li>
+<li><strong>Vehicular emission reduction:</strong> Moreover, the draft policy, released earlier, emphasized creating regulations for controlling vehicular noise, emissions, and wastage.</li>
+<li><strong>Green warehousing principles:</strong> The new logistics policy also aims to incorporate green principles in the functioning of warehouses which contribute to nearly 10% of the logistics costs.</li>
+</ul>
+<h4><strong>Will it change India’s commodity transport?</strong></h4>
+<ul>
+<li><strong>Transport of crucial commodities:</strong> The proposed policy aims to focus on the transport of crucial commodities such as coal, steel, iron ore, food grains, steel, cement, fruits and vegetables.</li>
+<li><strong>Creating nationwide clusters:</strong> The current logistical network for transporting them is mainly confined to regional clusters.</li>
+<li><strong>Integrating national supply-chains:</strong> The NLP could help establish a link between the place of origin, and destination place and integrate the supply on a national level.</li>
+<li><strong>Optimum logistics identification:</strong> The draft also proposes identification of the right mode of transport for each of these commodities to minimise losses during transport.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/how-the-national-logistics-policy-will-speed-up-lumbering-freight-sector/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Hindi not a competitor of regional languages: Home Minister</title><link>https://www.civilsdaily.com/news/hindi-not-a-competitor-regional-languages/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>National language debate</p></div></div><p><strong><img alt="" class="alignnone wp-image-636219" height="223" sizes="(max-width: 426px) 100vw, 426px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/hindi-300x157.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/hindi-300x157.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/hindi.jpg 500w" width="426"/></strong></p>
+<p>Union Home Minister has appealed to guardians to speak to children in their mother tongue to enable them to learn Hindi without much effort, on the Hindi Divas.</p>
+<h4>What did HM say on Hindi?</h4>
+<ul>
+<li>He said it was time that <strong><u>inferiority complex around Indian languages</u></strong>, instilled by the British, was overthrown from people’s conscience with the help of regional languages and Hindi.</li>
+<li>He also said that <strong><u>Hindi was not a competitor but a “friend” of all the other regional languages</u></strong> in the country and they were mutually dependent on each other for their growth.</li>
+<li>He said there was a concerted <strong><u>disinformation campaign to pit Hindi against other languages</u></strong> such as Marathi and Tamil, and underlined the need to strengthen local languages with Hindi.</li>
+</ul>
+<h4><strong>Debate over Hindi</strong></h4>
+<ul>
+<li>Between September 12 and 14, 1949, that the Constituent Assembly debated the status of India’s languages.</li>
+<li>Among the issues that were discussed were the use of the term ‘<a href="https://www.civilsdaily.com/burning-issue-national-language-debate/">national language’</a> instead of ‘official’ language.</li>
+<li>Hindi author Seth Govind Das, who represented the Central Provinces and Berar, argued for ‘one language and one script’ and suggested that Hindi should replace English at the earliest.</li>
+</ul>
+<h4><strong>What is the status of Hindi?</strong></h4>
+<ul>
+<li>Finally, the Constituent Assembly adopted what was known as “<strong><u>Munshi-Ayyangar Formula</u></strong>.”</li>
+<li>According to this, Hindi in the Devnagari script would be the official language of the Union.</li>
+</ul>
+<h4><strong>Official, not national</strong></h4>
+<ul>
+<li>English would continue to be used for all official purposes for the next 15 years, to enable a smooth transition for non-Hindi speaking states.</li>
+<li>The deadline was 26 January 1965.</li>
+<li>Under Article 343 of the Constitution, the official language of the Union shall be Hindi in Devanagari script.</li>
+<li>The international form of Indian numerals will be used for official purposes.</li>
+</ul>
+<h4><strong>Why has language become a sensitive issue?</strong></h4>
+<ul>
+<li><strong>Self-identification:</strong> A strong identification with one’s regional language and an underlying fear of homogenisation is at the heart of the national language question in India. An individual conceptualises and communicates his thoughts in a language, enabling him to be an active part of society.</li>
+<li><strong>Language defines primary group:</strong> People identify with one another based on language, thus giving them a primary group. A nation is the largest primary group that once can address.</li>
+<li><strong>Learning abilities at stake:</strong> The dangers of imposing a language are manifold. It can affect the learning ability of non-native speakers thereby affecting their self-confidence.</li>
+<li><strong>Threats to endangered languages:</strong> It can also endanger other languages and dialects and reduce diversity.</li>
+<li><strong>Threats to diversity:</strong> National integration cannot come at the cost of people’s linguistic identities. Language is integral to culture and therefore privileging Hindi over all other languages spoken in India takes away from its diversity.</li>
+<li><strong>Promises made by Constituent Assembly:</strong> Then PM Pt. Nehru had promised that Hindi would only serve as a linking language and it would not be imposed on non-Hindi speaking states as long as they were against it.</li>
+</ul>
+<h4><strong>Benefits of having a national language</strong></h4>
+<ul>
+<li><strong>Wide range of speakers:</strong> Hindi is still the most widely spoken language in the country with an estimated 258 million people declaring that Hindi is their native language and millions more comfortable with Hindi.</li>
+<li><strong>Language as a unifying language:</strong> A complete usage of Hindi language whilst respecting the various native languages would also ensure better coordination and cooperation among all the states and act as a strong unifying factor and eliminate all regional differences.</li>
+<li><strong>Reputation at international fora:</strong> When countries like Germany, Japan, France, Italy etc. use their respective language as a medium of communication even during International forums not only has the reputation of those countries have greatly enhanced but also those languages have gained a huge reputation worldwide.</li>
+</ul>
+<h4><strong>Issues with Hindi</strong></h4>
+<ul>
+<li><strong>Inherent opposition to Hindi:</strong> The Constituent Assembly was bitterly divided on the question, with members from States that did not speak Hindi initially opposing the declaration of Hindi as a national language.</li>
+<li><strong>Fear of imposition:</strong> Opponents were against English being done away with, fearing that it may lead to Hindi domination in regions that did not speak the language.</li>
+<li><strong>Symbol of identity politics:</strong> The approach towards linguistic policy seems to be driven more by the politics of identity than values of aspiration or accommodation.</li>
+<li><strong>Favour for majoritarianism:</strong> The primary argument in favour of Hindi has been reduced to assertions of slim majoritarianism.</li>
+<li><strong>Few speakers, still dominant:</strong> Even then, there are concerns about the claim based on mere numerical strength, as only 25 per cent of Indians seem to recognise Hindi as their mother tongue (Census 2011).</li>
+<li><strong>Demographic barriers:</strong> Today nearly 35% of people are migrating daily for work. In such a situation, we have to conceptualise a new form of language identity for our states.</li>
+<li><strong>Economic barriers:</strong> Any idea of one link language, whether Hindi or English, will be economically disastrous for India. It will slow down migration and reduce the ease of capital flow.</li>
+<li><strong>Multiple dialects:</strong> Only five states in India have Hindi as their’ native language’. However, in those states, too, the dialects of Hindi are associated with locals and their communities.</li>
+</ul>
+<h4><strong>Why Hindi cannot be the national language?</strong></h4>
+<ul>
+<li><strong>Multiple dialects:</strong> Hindi has largely been influenced by Persian — and then English, among other languages. Also, when the languages were enumerated, Hindi subsumed Bhojpuri, which is spoken by a little over five crore people.</li>
+</ul>
+<ul>
+<li><strong>Inefficacy of Sanskrit:</strong> There were demands to make Sanskrit the official language, while some argued in favour of ‘Hindustani’.</li>
+<li><strong>Issue over Script:</strong> There were differences of opinion over the script too. When opinion veered towards accepting Hindi, proponents of the language wanted the ‘Devanagari’ script to be adopted both for words and numerals.</li>
+</ul>
+<h4><strong>Why this issue needs a rational consideration?</strong></h4>
+<ul>
+<li><strong>Linguistic chauvinism:</strong> Various policies on language have been framed both by the central and state governments that have been termed as forms of linguistic chauvinism.  Ex. Obsession for Marathi in Mumbai</li>
+<li><strong>Secular fabric under threat:</strong> The states’ fear of the central government’s ideology of monopolising faith, education, and language will adversely affect the Indian political system, which is based on pluralism and accommodation.</li>
+<li><strong>Monolingualism can prove disastrous: </strong>If there is a mechanical and monolithic idea of unity followed by any entity, such an entity generally generates great hostility beyond its immediate borders.  In neighbouring Bangladesh – then East Pakistan – the language movement against the imposition of Urdu on Bengali speakers was a key driver of Pakistan splitting into two nations.</li>
+</ul>
+<h4><strong>Way forward</strong></h4>
+<ul>
+<li><strong>Language as a skill:</strong> Language should be looked at as an important skill to operate in a world which is more connected today than at any other point in time.</li>
+<li><strong>Language not a cultural burden:</strong> A united nation has to have space for diversity. India is united in its diversity. Diversity is a great philosophical idea and should never be seen as a cultural burden.</li>
+<li><strong>Linguistic heritage needs priority:</strong> This is not to contend that our linguistic heritage should be neglected or trivialised. Our metropolises must be recognized as multilingual entities.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/hindi-not-a-competitor-regional-languages/</guid><pubDate>Thu, 15 Sep 2022 00:00:00 +0553</pubDate></item></channel></rss>
