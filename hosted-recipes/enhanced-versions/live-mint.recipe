@@ -23,10 +23,14 @@ class LiveMint(BasicNewsRecipe):
     scale_news_images = (800, 800)
     remove_attributes = ['style', 'height', 'width']
     extra_css = """
-        .highlights{font-style: italic; font-size: medium; font-weight: bold; margin: 0;background: #eee; padding: 1em; border-radius: 0.5em; list-style:none}
+        .highlights{font-style: italic; list-style:none;}
         picture+div{font-size: small;display: block;font-weight: bold;margin:0.4em;}
         span.author::before{content: " - ";}
         .articleInfo{display: inline-block; padding:0.4em; color:gray; font-size:small;}
+        img{display: flex; justify-content: center;}
+        #img-cap {font-size:small; text-align:center;}
+        #auth-info {font-size:small; text-align:center;}
+        .summary{font-style:italic; color:#404040;}
     """
     if is_saturday:
         keep_only_tags = [

@@ -25,10 +25,8 @@ class LiveMint(BasicNewsRecipe):
     remove_attributes = ['style', 'height', 'width']
     remove_empty_feeds =  True
     extra_css = """
-        .highlights{font-style: italic; list-style:none;}
-        picture+div{font-size: small;display: block;font-weight: bold;margin:0.4em;}
-        span.author::before{content: " - ";}
-        img{display: flex; justify-content: center;}
+        .highlights{list-style-type: none; display:inline; }
+        img {display: block; max-width: 100%; height: auto;}
         #img-cap {font-size:small; text-align:center;}
         #auth-info {font-size:small; text-align:center;}
         .summary{font-style:italic; color:#404040;}
@@ -47,7 +45,6 @@ class LiveMint(BasicNewsRecipe):
             classes(
                 'trendingSimilarHeight moreNews mobAppDownload label msgError msgOk exclusive disclamerText outsideSso disqus-comment-count moreAbout'
             ),
-            dict(name='p', attrs={'class':'summary'})
         ]
         feeds = [
             ('News', 'https://lifestyle.livemint.com/rss/news'),
@@ -69,7 +66,6 @@ class LiveMint(BasicNewsRecipe):
                 'trendingSimilarHeight moreNews mobAppDownload label msgError msgOk exclusive disclamerText outsideSso disqus-comment-count moreAbout'
                 ' socialHolder imgbig disclamerText disqus-comment-count taboolaHeight'
             ),
-            dict(name='p', attrs={'class':'summary'})
         ]
 
         feeds = [
@@ -99,8 +95,10 @@ class LiveMint(BasicNewsRecipe):
             body = data['articleBody'] + '</p> <p>' + re.sub(r'([a-z]\.|[0-9]\.)([A-Z])', r'\1 <p> \2', value)
             body = '<div class="FirstEle"> <p>' +  body  + '</p> </div>'
             raw = re.sub(r'<div class="FirstEle">([^}]*)</div>', body, raw)
+            print(raw)
             return raw
         else:
+            print(raw)
             return raw
     def preprocess_html(self, soup):
         for img in soup.findAll('img', attrs={'data-src': True}):
@@ -111,3 +109,6 @@ class LiveMint(BasicNewsRecipe):
         return soup
 
 calibre_most_common_ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36'
+
+#         picture+div{font-size: small;display: block;font-weight: bold;margin:0.4em;}
+#         span.author::before{content: " - ";}
