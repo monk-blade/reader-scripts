@@ -1,268 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Wed, 21 Sep 2022 08:18:42 +0000</lastBuildDate><item><title>It seems that inflation may hover around 7 percent</title><link>https://www.civilsdaily.com/news/inflation-2/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>types of inflation</p><p><strong>Mains level : </strong>inflation overview</p></div></div><h4><strong><img alt="inflation" class="alignnone wp-image-637649" height="341" loading="lazy" sizes="(max-width: 647px) 100vw, 647px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/174708-wqudprofvf-1653207399-1-300x158.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/174708-wqudprofvf-1653207399-1-300x158.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/174708-wqudprofvf-1653207399-1-1024x538.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/174708-wqudprofvf-1653207399-1-768x403.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/174708-wqudprofvf-1653207399-1.jpg 1200w" width="647"/> </strong><strong>Context </strong></h4>
-<ul>
-<li>It seems that inflation may hover around 7 per cent despite RBI’s tightening of monetary policy in the months to come.</li>
-</ul>
-<h4><strong>What is a simple definition for inflation?</strong></h4>
-<ul>
-<li>Inflation is an increase in the level of prices of the goods and services that households buy. It is measured as the rate of change of those prices. Typically, prices rise over time, but prices can also fall (a situation called deflation).</li>
-</ul>
-<h4><strong>Inflation Rate</strong></h4>
-<ul>
-<li>Inflation Rate is the percentage change in the price level from the previous period. If a normal basket of goods was priced at Rupee 100 last year and the same basket of goods now cost Rupee 120, then the rate of inflation this year is 20%.</li>
-<li>Inflation Rate= {(Price in year 2 – Price in year 1)/ Price in year 1} *100</li>
-</ul>
-<h4><strong><img alt="inflation" class="alignnone wp-image-637678" height="350" loading="lazy" sizes="(max-width: 841px) 100vw, 841px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-1-300x125.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-1-300x125.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-1-768x319.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-1.jpg 842w" width="841"/>Types of Inflation</strong></h4>
-<p><strong>Creeping Inflation</strong></p>
-<ul>
-<li>Creeping or mild inflation is when prices rise 3% a year or less. This kind of mild inflation makes consumers expect that prices will keep going up. That boosts demand. Consumers buy now to beat higher future prices. That’s how mild inflation drives economic expansion.</li>
-</ul>
-<p><strong>Walking Inflation</strong></p>
-<ul>
-<li>This type of strong, or pernicious, inflation is between 3-10% a year. It is harmful to the economy because it heats up economic growth too fast. People start to buy more than they need, just to avoid tomorrow’s much higher prices. This drives demand even further so that suppliers can’t keep up. More important, neither can wages. As a result, common goods and services are priced out of the reach of most people.</li>
-</ul>
-<p><strong>Galloping Inflation</strong></p>
-<ul>
-<li>When inflation rises to 10% or more, it wreaks absolute havoc on the economy. Money loses value so fast that business and employee income can’t keep up with costs and prices. Foreign investors avoid the country, depriving it of needed capital. The economy becomes unstable, and government leaders lose credibility. Galloping inflation must be prevented at all costs.</li>
-</ul>
-<p><strong>Hyperinflation</strong></p>
-<ul>
-<li>Hyperinflation is when prices skyrocket more than 50% a month. It is very rare. In fact, most examples of hyperinflation have occurred only when governments printed money to pay for wars. Examples of hyperinflation include <strong>Germany</strong>in the 1920s, <strong>Zimbabwe</strong> in the 2000s, and <strong>Venezuela</strong> in the 2010s. The last time America experienced hyperinflation was during its civil war.</li>
-</ul>
-<p><strong>Core Inflation</strong></p>
-<ul>
-<li>The core inflation rate measures rising prices in everything except food and energy. That’s because gas prices tend to escalate now and then. Higher gas costs increase the price of food and anything else that has large transportation costs.</li>
-</ul>
-<p> </p>
-<p><strong>Consumer Price Index</strong></p>
-<ul>
-<li>CPI is used to monitor changes in the cost of living over time. When the CPI rises, the average Indian family has to spend more on goods and services to maintain the same standard of living. The economic term used to define such a rising prices of goods and services is Inflation.</li>
-</ul>
-<p><strong>Whole sale Price Index</strong></p>
-<ul>
-<li>WPI is used to monitor the cost of goods and services bought by producer and firms rather than final consumers. The WPI inflation captures price changes at the factory/wholesale level.</li>
-</ul>
-<p><strong>GDP Deflator</strong></p>
-<ul>
-<li>Another important measure of calculating standard of living of people is GDP Deflator. GDP Deflator is the ratio of nominal GDP to real GDP. The nominal GDP is measured at the current prices whereas the real GDP is measured at the base year prices. Therefore, GDP Deflator reflects the current level of prices relative to prices in a base year. Example, In India the base year of calculating deflator is 2011-12.</li>
-</ul>
-<h4><strong><img alt="inflation" class="alignnone wp-image-637631" height="297" loading="lazy" sizes="(max-width: 527px) 100vw, 527px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Inflation_Rate_0_1200x768-300x169.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Inflation_Rate_0_1200x768-300x169.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Inflation_Rate_0_1200x768-768x432.jpeg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Inflation_Rate_0_1200x768.jpeg 770w" width="527"/>Factors fuelling inflation in India</strong></h4>
-<ul>
-<li><strong>Falling rupee:</strong> Inflation is here to stay because it has much to do with the decline in value of the rupee that has fallen to its lowest, which makes imports of oil and gas more expensive.</li>
-<li><strong>Ukraine crisis:</strong> The war in Ukraine has the same effect and pushes the price of some food items upward.</li>
-<li><strong>Poor inflation management:</strong> With inflation, as measured by the consumer price index, in August going back to 7 per cent, and the wholesale price index coming in at 12.4 per cent, one thing is clear India is not out of the woods on inflation management.</li>
-</ul>
-<h4><strong>Rising inflation have these implications</strong></h4>
-<ul>
-<li><strong>Impact on the poor:</strong> This upsurge of inflation is affecting the poor more because some of the commodities whose prices are increasing the most represent a larger fraction of the budget of the most vulnerable sections of society.</li>
-<li><strong>Rising inequality:</strong> As a result, inequalities which were already on the rise are increasing further. Recently, the State of Inequality in India report showed that an Indian making Rs 3 lakh a year belonged to the top 10 per cent of the country’s wage earners.<strong> </strong></li>
-</ul>
-<ul>
-<li><strong>Inequality in healthcare: </strong>India’s spending on healthcare is among the lowest in the world. Decent level of healthcare is available only to the ones who can afford it because of increasing out-of-pocket expenditure the payment made directly by individuals for the health service, not covered under any financial protection scheme. Overall, these out-of-pocket expenses on healthcare are 60 per cent of the total expenditure on public health in India, which is one of the highest in the world.</li>
-</ul>
-<p> </p>
-<h4><strong><img alt="inflation" class="alignnone wp-image-637701" height="358" loading="lazy" sizes="(max-width: 643px) 100vw, 643px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-300x167.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-300x167.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-1024x569.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-768x427.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200.jpg 1200w" width="643"/>Need for bold steps on three fronts to tackle inflation</strong></h4>
-<ul>
-<li>Unless bold and innovative steps are taken at least on three fronts, GDP growth and inflation both are likely to be in the range of 6.5 to 7.5 per cent in 2022-23.</li>
-</ul>
-<p><strong>1] Tightening of loose<a href="https://www.civilsdaily.com/monetary-economics-barter-system-definition-function-and-evolution-of-money/"> monetary policy:</a></strong> The Reserve Bank of India (RBI) is mandated to keep inflation at 4 per cent, plus-minus 2 per cent.</p>
-<ul>
-<li>The RBI has already started the process of tightening monetary policy by raising the repo rate, albeit a bit late.</li>
-<li>It is expected that by the end of 2022-3, the repo rate will be at least 5.5 per cent, if not more.</li>
-<li>It will still stay below the likely inflation rate and therefore depositors will still lose the real value of their money in banks with negative real interest rates.</li>
-<li>That only reflects an inbuilt bias in the system — in favour of entrepreneurs in the name of growth and against depositors, which ultimately results in increasing inequality in the system.</li>
-</ul>
-<p><strong>2] Prudent fiscal policy:</strong> Fiscal policy has been running loose in the wake of Covid-19 that saw the fiscal deficit of the Union government soar to more than 9 per cent in 2020-21 and 6.7 per cent in 2021-22, but now needs to be tightened.</p>
-<ul>
-<li>Government needs to reduce its fiscal deficit to less than 5 per cent, never mind the FRMB Act’s advice to bring it to 3 per cent of GDP.</li>
-<li>However, it is difficult to achieve when enhanced food and fertiliser subsidies, and cuts in duties of petrol and diesel will cost the government at least Rs 3 trillion more than what was provisioned in the budget.</li>
-</ul>
-<p><strong>3] Rational trade policy:</strong> Export restrictions/bans go beyond agri-commodities, even to iron ore and steel, etc. in the name of taming inflation.</p>
-<ul>
-<li>But abrupt export bans are poor trade policy and reflect only the panic-stricken face of the government.</li>
-<li>A more mature approach to filter exports would be through a gradual process of minimum export prices and transparent export duties for short periods of time, rather than abrupt bans, if at all these are desperately needed to favour consumers.</li>
-</ul>
-<h4><strong>Conclusion</strong></h4>
-<ul>
-<li>Though the government is opting for market-based economics, currently, India needs a mixed solution that comprises price stability via government channels and subsidies.</li>
-</ul>
-<blockquote><p><strong>Mains question </strong></p>
-<p><strong>Q.</strong><strong>What are the fuelling factors for inflation? Discuss what steps should be taken to tackle inflation.</strong></p></blockquote>
-<p><a href="https://bit.ly/cd_regular" rel="noopener" target="_blank"><strong>UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</strong></a></p>
-<p> </p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/inflation-2/</guid><pubDate>Mon, 19 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Geopolitics follows the geoeconomics and not vice-versa</title><link>https://www.civilsdaily.com/news/geoeconomics/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>international relations</p></div></div><h4><strong><img alt="geoeconomics" class="alignnone wp-image-637721" height="347" loading="lazy" sizes="(max-width: 699px) 100vw, 699px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/1-800x445-1-300x149.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/1-800x445-1-300x149.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/1-800x445-1-1024x508.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/1-800x445-1-768x381.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/1-800x445-1-1200x595.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/1-800x445-1.jpg 1269w" width="699"/>Context</strong></h4>
-<ul>
-<li>Over the recent years India’s manoeuvres in indo-pacific have highlighted the India’s geopolitical and ambitions. Pandemic and Chinese incursion in Ladakh forced India to move fast to achieve its geopolitical ends. However missing link in India’s endeavour is geoeconomics.</li>
-</ul>
-<h4><strong>What is mean by geopolitics and geo-economics?</strong></h4>
-<ul>
-<li><strong>Geopolitics:</strong> is defined as the struggle over the control of geographical entities with an international and global dimension, and the use of such geographical entities for political advantage.</li>
-<li><strong>Geo-economics:</strong> is defined as the combination of economic and geographic factors relating to international trade and a governmental policy guided by geoeconomics.</li>
-<li>Geopolitics and geoeconomics are sometimes used interchangeably.</li>
-</ul>
-<h4><strong>What is the strategy to pursue geopolitical goals in indo-pacific?</strong></h4>
-<ul>
-<li>India has managed to emerge as a major pivot of the global Indo-Paciﬁc grand strategic imagination.</li>
-<li>Avoided the temptations to militarise/securitise the Quad (Australia, Japan, India and the United States).</li>
-<li>Which has ensured that the Association of Southeast Asian Nations (ASEAN) states do not feel uneasy by the ever-increasing balance of power articulations in the Indo-Pacific</li>
-</ul>
-<h4><strong><img alt="geoeconomics" class="alignnone wp-image-637722" height="323" loading="lazy" sizes="(max-width: 584px) 100vw, 584px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Geoeconomics-in-a-Globalized-World-300x166.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Geoeconomics-in-a-Globalized-World-300x166.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Geoeconomics-in-a-Globalized-World.jpg 525w" width="584"/>What is the missing link in India’s geopolitical strategy?</strong></h4>
-<ul>
-<li>The missing link in geoeconomics is India’s decision to take to the Indo-Paciﬁc and Quad in a big way.</li>
-<li>While unwilling to join two of the region’s key multilateral trading agreements goes to show that geoeconomics and geopolitics are imagined and pursued parallelly in New Delhi, not as complimenting each other.</li>
-<li>The most recent example is India’s refusal to join the trade pillar of the Indo-Paciﬁc Economic Framework (IPEF) while deciding to join the three other pillars of the IPEF supply chains, tax and anti-corruption, and clean energy.</li>
-</ul>
-<p>India also withdrew from <a href="https://www.civilsdaily.com/news/back-in-news-india-asean-relations/">ASEAN</a> led <a href="https://www.civilsdaily.com/story/regional-comprehensive-economic-partnership-rcep/">RCEP.</a></p>
-<h4><strong>Is the lack of geoeconomic bad for foreign policy?</strong></h4>
-<ul>
-<li>The absence of the world’s fifth largest economy from various regional trading platforms will invariably boost China’s geo-economic hegemony in Asia.</li>
-<li>Staying out of IPEF is a bad idea is because for India, it would be hard to integrate itself into the regional and global supply chains without being a part of important regional multilateral trading agreements.</li>
-<li>We have no option but to address some of the deeper challenges plaguing the investment and business environment in India.</li>
-<li>If India is indeed serious about its maritime grand strategy, which cannot be solely military in nature, it needs to get the states in the region to create economic stakes in India (something China has done cleverly and consistently) and vice-versa.</li>
-<li>Another impact of India’s hesitation about joining regional multilateral trading arrangements is its potential regional economic isolation. The less India engages with the region economically, and the more China does so, and given the Sino-Indian rivalry, India might risk getting economically isolated in the broader region.</li>
-</ul>
-<h4><strong><img alt="Geo-economics: is defined as the combination of economic and geographic factors relating to international trade and a governmental policy guided by geoeconomics. Geopolitics and geoeconomics are sometimes used interchangeably." class="alignnone wp-image-637723" height="397" loading="lazy" sizes="(max-width: 634px) 100vw, 634px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-300x188.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-300x188.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-1024x640.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-768x480.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-1536x960.jpg 1536w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-2048x1280.jpg 2048w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-1200x750.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/nord-stream-ukraine-russia-germany-pj78t0bbf3ufk4uv8iaf36ienfqv3spmrm61lo0as8-1980x1238.jpg 1980w" width="634"/>What can be done?</strong></h4>
-<ul>
-<li><strong>New Delhi should: </strong>rethink its geoeconomic choices if it is serious about enhancing its geopolitical inﬂuence in the region. Given that India has not closed the door on the trade pillar of the IPEF, we have an opportunity to rethink our position.</li>
-<li><strong>India should: </strong>also rethink its decision not to join the RECP and seek to join the Comprehensive and Progressive Agreement for Trans-Paciﬁc Partnership (CPTPP) from which the U.S. walked out and China is seeking to join.</li>
-<li><strong>India should: </strong>also proactively lobby to become a part of the Minerals Security Partnership, the U.S.-led 11-member grouping to secure supply chains of critical minerals.</li>
-</ul>
-<h4><strong>Conclusion</strong></h4>
-<ul>
-<li>In the words of external affairs minister Dr. Jaishankar,” geopolitics follows the geoeconomics and not vice-versa”. Geoeconomics is inclusive of geoeconomics. India should integrate itself in multilateral trading platforms and leverage its big market to bargain the best deal for itself.</li>
-</ul>
-<blockquote><p><strong>Mains question </strong></p>
-<p><strong>Q. Indias pursuit of geopolitics is futile without inclusion of geoeconomics. Comment.</strong></p></blockquote>
-<p><strong><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></strong></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/geoeconomics/</guid><pubDate>Mon, 19 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Without social justice constructive women empowerment is a futile exercise here is why</title><link>https://www.civilsdaily.com/news/women-empowerment/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Women empowerment</p></div></div><h4><strong><img alt="women empowerment" class="alignnone wp-image-637728" height="341" loading="lazy" sizes="(max-width: 585px) 100vw, 585px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/2022_3largeimg_2007581609-300x175.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/2022_3largeimg_2007581609-300x175.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/2022_3largeimg_2007581609-768x447.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/2022_3largeimg_2007581609.jpg 1000w" width="585"/>Context</strong></h4>
-<ul>
-<li>Despite notable progress in closing the gender pay gap over time in India, the gap remains high by international standards. Asymmetries still abound in the country’s labor market stopping women empowerment .</li>
-<li>Time to reassess the progress made in to close the Gender pay gap.</li>
-</ul>
-<h4><strong>Background</strong></h4>
-<ul>
-<li>The third International Equal Pay Day is observed globally on September 18, 2022.</li>
-<li>It is a United Nations-recognized event to highlight the issue of gender pay gap.</li>
-<li>International Labor Organization’s “Global Wage Report 2020–21” which suggests the crisis inflicted massive downward pressure on wages and disproportionately affected women’s total wages compared to</li>
-<li>This greater wage reduction for women means that the pre-existing gender pay gap has widened.</li>
-</ul>
-<h4><strong><img alt="women empowerment" class="alignnone wp-image-637732" height="325" loading="lazy" sizes="(max-width: 584px) 100vw, 584px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/PTI-retail-market-food-inflation-1200-300x167.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/PTI-retail-market-food-inflation-1200-300x167.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/PTI-retail-market-food-inflation-1200-1024x569.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/PTI-retail-market-food-inflation-1200-768x427.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/PTI-retail-market-food-inflation-1200.jpg 1200w" width="584"/>Covid-19 Impact</strong></h4>
-<ul>
-<li>While it is difficult to tell exactly what the economic damage from the global covid-19 pandemic has been, it is clear that its impact has been uneven, with women being among the worst affected in terms of their income security.</li>
-<li>Many women reverted to full-time care of children and the elderly during the pandemic, foregoing their livelihoods to do so.</li>
-</ul>
-<h4><strong>What is gender pay gap?</strong></h4>
-<ul>
-<li>The gender pay gap or gender wage gap measures the difference between the average earnings of women and men in the workforce.</li>
-<li>In simple term it is a measure of what women are paid relative to men.</li>
-<li>Women are generally found to be paid less than men.</li>
-</ul>
-<h4><strong>Why is the gender pay gap?</strong></h4>
-<ul>
-<li><strong>Education: </strong>low investment o girl education<strong>, </strong>Girl children are kept out of schools, or made drop out of school at early age, girl is considered as burden on family in many societies.</li>
-<li><strong>workforce </strong>: even if they are educated they are not allowed to work by their families, very limited or no decision making power, lack of women friendly work environment, discriminatory practices at workplaces.</li>
-<li><strong>Household:</strong> early marriage , responsibilities of the household at early age , spending more times on domestic chores,</li>
-<li><strong>Healthcare: </strong>malnutrition, anemia, Maternity, child care, looking after health of the elderly family members etc.</li>
-</ul>
-<p> </p>
-<p>These are some of the reasons which affect education, skills, experience and the career prospectus of women as compared to men and contribute to widen the gender wage gap.</p>
-<p><strong> </strong></p>
-<h4><strong><img alt="women empowerment" class="alignnone wp-image-637730" height="297" loading="lazy" sizes="(max-width: 527px) 100vw, 527px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Gender-Inequality-in-India-300x169.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Gender-Inequality-in-India-300x169.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Gender-Inequality-in-India-1024x576.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Gender-Inequality-in-India-768x432.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Gender-Inequality-in-India-1536x864.jpg 1536w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Gender-Inequality-in-India-1200x675.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Gender-Inequality-in-India.jpg 1919w" width="527"/>Discrimination as factor</strong></h4>
-<ul>
-<li>A part of gender pay gap attributed to education, skills or experience, a large part of the gender pay gap can still purely because of discrimination based on one’s gender or sex.</li>
-<li>Gender-based discriminatory practices include: lower wages paid to women for work of equal value; undervaluation of women’s work in highly feminized occupations and enterprises, and motherhood pay gap lower wages for mothers compared to non-mother.</li>
-</ul>
-<h4><strong><img alt="women empowerment" class="alignnone wp-image-637734" height="466" loading="lazy" sizes="(max-width: 837px) 100vw, 837px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-1-300x167.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-1-300x167.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-1-1024x569.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-1-768x427.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/inflation-cpi-express-archieve-1200-1.jpg 1200w" width="837"/>Status in India</strong></h4>
-<ul>
-<li>The gender pay gap in India is among the widest in the world.</li>
-<li>Indian women earned, on an average, 48% less compared to their male counterparts in 1993-94</li>
-<li>According to labor force survey data of the National Sample Survey Office (NSSO) gap declined to 28% in 2018-19.</li>
-<li>Periodic Labor Force Survey (PLFS) 2020-21 show an increase in the gap by 7% between 2018-19 and 2020-21.</li>
-<li>Recently, the World Economic Forum (WEF) ranked India at 135 out of 146 countries in its Global Gender Gap (GGG) Index for 2022.</li>
-<li>According to the estimates of the World Inequality Report 2022, in India, men earn 82 per cent of the labor income whereas women earn 18 per cent of it.</li>
-</ul>
-<h4><strong><img alt="women empowerment" class="alignnone wp-image-637731" height="392" loading="lazy" sizes="(max-width: 696px) 100vw, 696px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/8477553337_67c076bed2_o-300x169.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/8477553337_67c076bed2_o-300x169.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/8477553337_67c076bed2_o.jpg 639w" width="696"/>Steps taken by India</strong></h4>
-<ul>
-<li><strong>Minimum Wages Act in 1948</strong>: It is an act of parliament<strong>, </strong>aimed at statutory fixation of minimum wages that must be paid to skilled and unskilled labours. Payment of wages below the minimum wage rate amounts to forced labour.</li>
-<li><strong>Equal Remuneration Act in 1976: </strong>This act of parliament provides for the payment of equal remuneration to men and women workers for the prevention of discrimination. It helps in bridging the gap between unequal remuneration faced by the women of our country.</li>
-<li><strong>Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) 2005:</strong> MGNREGA contributed to the rapid rise in overall rural and agricultural wages in the country. It benefited rural women workers and helped reduce the gender pay gap, both directly and indirectly. Directly, by raising the pay levels of women workers and indirectly to women involved in agricultural occupations through higher earnings.</li>
-<li><strong>The Maternity Benefit (Amendment) Act 2017</strong>: has increased the duration of paid maternity leave available for women employees to 26 weeks from 12 weeks for all women working in establishments employing 10 or more workers. This is expected to reduce the motherhood pay gap among mothers in the median and high end wage earners working in the formal economy also it will help in women empowerment.</li>
-<li><strong>Skill India Mission</strong>: To equip women with market-relevant skills to bridge the learning to-livelihood gap and the gender pay gap.</li>
-<li>In 2019, India carried out comprehensive reforms in both the legislation and enacted the Code on Wages.</li>
-</ul>
-<h4><strong>Way ahead </strong></h4>
-<ul>
-<li>While the gender pay gap is slowly narrowing, acceleration and bold actions to prevent the widening of gender pay gap is the need of the hour.</li>
-<li>Equal pay for work of equal value is necessary to close the gender pay gap.</li>
-<li>Closing the gender pay gap is key to achieving <a href="https://www.civilsdaily.com/story/women-empowerment-issues-jobsreservation-education/">social justice for working women</a>, as well as economic growth for the nation as a whole</li>
-<li>Without social justice women empowerment is a futile exercise.</li>
-</ul>
-<p><strong> </strong></p>
-<blockquote><p><strong>Mains Question </strong></p>
-<p><strong>Q. Define gender equality .Equal pay for equal work is necessary to bridge the gender pay gap India .Comment.</strong></p></blockquote>
-<p><strong><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></strong></p>
-<p><strong> </strong></p>
-<p><strong> </strong></p>
-<p> </p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/women-empowerment/</guid><pubDate>Mon, 19 Sep 2022 00:00:00 +0553</pubDate></item><item><title>What is the PM PRANAM Scheme?</title><link>https://www.civilsdaily.com/news/what-is-the-pm-pranam-scheme/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>PM PRANAM Scheme</p><p><strong>Mains level : </strong>India's fertilizer subsidy</p></div></div><p>In order to reduce the use of chemical fertilisers by incentivising states, the Union government plans to introduce a new scheme – PM PRANAM, which stands for PM Promotion of Alternate Nutrients for Agriculture Management Yojana.</p>
-<h4>What is the PM PRANAM scheme?</h4>
-<ul>
-<li>The proposed scheme intends to reduce the subsidy burden on chemical fertilisers.</li>
-<li>This burden if uneased, is expected to increase to Rs 2.25 lakh crore in 2022-2023, which is 39% higher than the previous year’s figure of Rs 1.62 lakh crore.</li>
-<li>The scheme will not have a separate budget and will be financed by the “savings of existing fertiliser subsidy” under schemes run by the Department of fertilisers.</li>
-</ul>
-<p>Subsidies under the PRANAM</p>
-<ul>
-<li>Further, 50% subsidy savings will be passed on as a grant to the state that saves the money and that 70% of the grant provided under the scheme can be used for asset creation related to technological adoption of alternate fertilisers.</li>
-<li>It would create alternate fertiliser production units at village, block and district levels.</li>
-<li>The remaining 30% grant money can be used for incentivising farmers, panchayats, farmer producer organisations and self-help groups that are involved in the reduction of fertiliser use and awareness generation.</li>
-<li>The government will compare a state’s increase or reduction in urea in a year, to its average consumption of urea during the last three years.</li>
-</ul>
-<h4>How much fertiliser does India require?</h4>
-<ul>
-<li>The kharif season (June-October) is critical for India’s food security, accounting for nearly half the year’s production of foodgrains, one-third of pulses and approximately two-thirds of oilseeds.</li>
-<li>A sizable amount of fertiliser is required for this season.</li>
-<li>The Department of Agriculture and Farmers Welfare assesses the requirement of fertilisers each year before the start of the cropping season, and informs the Ministry of Chemical and fertilisers to ensure the supply.</li>
-<li>The amount of fertiliser required varies each month according to demand, which is based on the time of crop sowing, which also varies from region to region.</li>
-<li>For example, the demand for urea peaks during June-August period, but is relatively low in March and April, and the government uses these two months to prepare for an adequate amount of fertiliser for the kharif season.</li>
-</ul>
-<h4>Why is the scheme being introduced?</h4>
-<ul>
-<li>Due to <strong><u>increased demand for fertiliser</u></strong> in the country over the past 5 years, the overall expenditure by the government on subsidy has also increased.</li>
-<li>The final figure of <a href="https://www.civilsdaily.com/news/centre-enhances-subsidy-for-non-urea-fertilizers/"><strong>fertiliser subsidy</strong></a> touched Rs 1.62 lakh crore in 2021-22.</li>
-<li>The total requirement of four fertilisers — Urea, DAP (Di-ammonium Phosphate), MOP (Muriate of potash), NPKS (Nitrogen, Phosphorus and Potassium) — increased by 21% between 2017-2018 and 2021-2022, from 528.86 lakh metric tonnes (LMT) to 640.27 LMT.</li>
-<li>PM PRANAM, which seeks to reduce the use of chemical fertiliser, will likely <strong><u>reduce the burden on the exchequer. </u></strong></li>
-<li>The proposed scheme is also in line with the government’s focus on promoting the <strong><u>balanced use of fertilisers or alternative fertilisers</u></strong> in the last few years.</li>
-</ul>
-<blockquote>
-<h4>Try this PYQ:</h4>
-<p><strong>Q.What are the advantages of fertigation in agriculture? (CSP 2020)</strong></p>
-<p>1.Controlling the alkalinity of irrigation water is possible.<br/>
-2.Efficient application of Rock Phosphate and all other phosphatic fertilizers is possible.<br/>
-3.Increased availability of nutrients to plants is possible.<br/>
-4.Reduction in the leaching of chemical nutrients is possible.</p>
-<p><strong>Select the correct answer using the code given below:</strong><br/>
-(a) 1, 2 and 3 only</p>
-<p>(b) 1,2 and 4 only</p>
-<p>(c) 1,3 and 4 only</p>
-<p>(d) 2, 3 and 4 only</p>
-<p> </p>
-Post your answers here.</blockquote>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/what-is-the-pm-pranam-scheme/</guid><pubDate>Tue, 20 Sep 2022 00:00:00 +0553</pubDate></item><item><title>What is the Plant Treaty?</title><link>https://www.civilsdaily.com/news/what-is-the-plant-treaty/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Wed, 21 Sep 2022 09:15:06 +0000</lastBuildDate><item><title>What is the Plant Treaty?</title><link>https://www.civilsdaily.com/news/what-is-the-plant-treaty/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Plant treaty</p><p><strong>Mains level : </strong>Not Much</p></div></div><p> </p>
 <p>The ninth session of the governing body of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) has recently begun in New Delhi.</p>
@@ -1201,7 +938,325 @@ Post your answers here.</blockquote>
 <p> </p>
 <p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/monsoon-begins-early-withdrawal-retreat/</guid><pubDate>Wed, 21 Sep 2022 00:00:00 +0553</pubDate></item><item><title>The heavy rainfall and the crazy Banglore flood: A case to study</title><link>https://www.civilsdaily.com/news/flood/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/monsoon-begins-early-withdrawal-retreat/</guid><pubDate>Wed, 21 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Explained: Lumpy Skin Disease in India</title><link>https://www.civilsdaily.com/news/explained-lumpy-skin-disease-in-india/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Lumpy Skin Disease</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p><strong><img alt="lumpy" class="alignnone wp-image-638582 size-medium" height="251" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/lumpy-300x251.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/lumpy-300x251.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/lumpy.jpg 523w" width="300"/></strong></p>
+<p>The Mumbai Police have ordered the prohibition of cattle transportation in the city to prevent the spread of the lumpy skin disease (LSD).</p>
+<h4><strong>What is the Lumpy Skin Disease?</strong></h4>
+<ul>
+<li>Lumpy skin disease is caused by the lumpy skin disease <strong><u>virus</u></strong> (LSDV), which belongs to the genus capripoxvirus, a part of the poxviridae family.</li>
+<li>Smallpox and monkeypox viruses are also a part of the same family.</li>
+<li>The LSDV shares antigenic similarities with the sheeppox virus (SPPV) and the goatpox virus (GTPV) or is similar in the immune response to those viruses.</li>
+</ul>
+<h4><strong>How does it spread?</strong></h4>
+<ul>
+<li>It is <strong><u>not a zoonotic virus</u></strong>, meaning the disease <strong><u>cannot spread to humans</u></strong>.</li>
+<li>It is a <strong><u>contagious vector-borne disease</u></strong> spread by vectors like mosquitoes, some biting flies, and ticks and usually affects host animals like cows and water buffaloes.</li>
+<li>Infected animals shed the virus through oral and nasal secretions which may contaminate common feeding and water troughs.</li>
+<li>Thus, the disease <strong><u>can either spread through direct contact</u></strong> with the vectors or through contaminated fodder and water.</li>
+<li>Studies have also shown that it can spread through animal semen during artificial insemination.</li>
+</ul>
+<h4><strong>How does it affect the animal?</strong></h4>
+<ul>
+<li>LSD affects the lymph nodes of the infected animal, causing the nodes to enlarge and appear like lumps on the skin, which is where it derives its name from.</li>
+<li>The cutaneous nodules, 2–5 cm in diameter, appear on the infected cattle’s head, neck, limbs, udder, genitalia, and perineum.</li>
+<li>The nodules may later turn into ulcers and eventually develop scabs over the skin.</li>
+<li>The other symptoms include high fever, sharp drop in milk yield, discharge from the eyes and nose, salivation, loss of appetite, depression, damaged hides, wasting of animals, infertility and abortions.</li>
+</ul>
+<h4><strong>Do it kills the animal?</strong></h4>
+<ul>
+<li>The incubation period or the time between infection and symptoms is about 28 days according to the FAO, and 4 to 14 days according to some other estimates.</li>
+<li>The morbidity of the disease varies between two to 45% and mortality or rate of date is less than 10%.</li>
+<li>However, the reported mortality of the current outbreak in India is up to 15%, particularly in cases being reported in the western part (Rajasthan) of the country.</li>
+</ul>
+<h4><strong>What is the geographical distribution and how did it spread to India?</strong></h4>
+<ul>
+<li>The disease was <strong><u>first observed in Zambia</u></strong> in 1929.</li>
+<li>Subsequently it got spread to most African countries, followed by West Asia, Southeastern Europe, and Central Asia, and more recently spreading to South Asia and China in 2019.</li>
+<li>As per the FAO, the LSD disease is currently endemic in several countries across Africa, parts of the West Asia (Iraq, Saudi Arabia, Syrian Arab Republic), and Turkey.</li>
+</ul>
+<h4><strong>Lumpy in India</strong></h4>
+<ul>
+<li>The spread in South Asia first affected Bangladesh in July 2019 and then reached India in August that year, with initial cases being detected in Odisha and West Bengal.</li>
+<li>The long porous borders between India, Nepal and Bangladesh allow for a significant amount of bilateral and informal animal trade, including cattle and buffaloes.</li>
+<li>This may have contributed to the spread of LSD in July-August 2019 between Bangladesh and India.</li>
+<li>While the 2019 outbreak later subsided, the recent spread in India began in June this year.</li>
+</ul>
+<h4><strong>Is it safe to consume the milk of affected cattle?</strong></h4>
+<ul>
+<li>Studies say that it has <strong><u>not been possible to ascertain</u></strong> the presence of viable and infectious LSDV virus in milk derived from the infected animal.</li>
+<li>However, that a large portion of the milk in Asia is <strong><u>processed</u></strong> after collection and is either <strong><u>pasteurised</u></strong> or boiled or dried in order to make milk powder.</li>
+<li>This process ensures that the <strong><u>virus is inactivated</u></strong> or destroyed.</li>
+</ul>
+<h4><strong>Economic implications of Lumpy on Dairy Sector</strong></h4>
+<ul>
+<li><strong>Milk reduction:</strong> Lumpy leads to reduced milk production as the animal becomes weak and also loses appetite due to mouth ulceration.</li>
+<li><strong>Animal wasting:</strong> The income losses can also be due to poor growth, reduced draught power capacity and reproductive problems associated with abortions, infertility and lack of semen for artificial insemination.</li>
+<li><strong>Impact of trade ban:</strong> Movement and trade bans after infection also put an economic strain on the whole value chain.</li>
+</ul>
+<h4><strong>Why India is at higher risk?</strong></h4>
+<ul>
+<li>India is the <a href="https://www.civilsdaily.com/news/making-india-a-major-milk-exporting-nation/"><strong>world’s largest milk producer</strong></a> at about 210 million tonnes annually.</li>
+<li>India also has the <strong><u>largest headcount of bovines</u></strong></li>
+<li>In Rajasthan, which is witnessing the worst impact of LSD, it has led to reduced milk production, which lessened by about three to six lakh litres a day.</li>
+<li>Reports indicate that milk production has also gone down in Punjab owing to the spread of the disease.</li>
+<li>According to FAO, the disease threatens the livelihoods of smaller poultry farmers significantly.</li>
+<li>Notably, farmers in Uttar Pradesh and Punjab have incurred losses due to cattle deaths and are seeking compensation from their State governments.</li>
+</ul>
+<h4><strong>How bad is the current spread in India?</strong></h4>
+<ul>
+<li>Lumpy has <strong><u>infected over 16 lakh cattle</u></strong> in 197 districts as of September 11.</li>
+<li>Of the nearly 75,000 cattle that the disease has killed, more than 50,000 deaths, mostly cows, have been reported from Rajasthan.</li>
+</ul>
+<h4><strong>Remedies available in India</strong></h4>
+<ul>
+<li>The Union Ministry of Fisheries, Animal Husbandry and Dairying informed that the ‘<strong><u>Goat Pox Vaccine</u></strong>’ is very effective against LSD.</li>
+<li>It is being used across affected States to contain the spread.</li>
+</ul>
+<h4><strong>Way forward</strong></h4>
+<p>The FAO has suggested a set of spread-control measures for LSD, which involves:</p>
+<ul>
+<li>Vaccination of susceptible populations with more than 80% coverage</li>
+<li>Movement control of bovine animals and quarantining</li>
+<li>Implementing biosecurity through vector control by sanitising sheds and spraying insecticides</li>
+<li>Strengthening active and passive surveillance</li>
+<li>Spreading awareness on risk mitigation among all stakeholders involved, and</li>
+<li>Creating large protection and surveillance zones and vaccination zones</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/explained-lumpy-skin-disease-in-india/</guid><pubDate>Wed, 21 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Why only 2 firms chose Pre-Pack IBC resolution in a year?</title><link>https://www.civilsdaily.com/news/pre-pack-ibc-resolution/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Pre-Packs, IBC</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><strong><img alt="pre-pack" class="alignnone wp-image-638581" height="335" loading="lazy" sizes="(max-width: 574px) 100vw, 574px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/pre-pack-300x175.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/pre-pack-300x175.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/pre-pack.jpg 652w" width="574"/></strong></p>
+<p>India introduced the pre-packaged insolvency resolution process (PPIRP) in April 2021, as an alternative resolution process for micro, small and medium enterprises (MSMEs). However, it has only two cases admitted under it so far.</p>
+<h4><strong>What is the Insolvency and Bankruptcy Code (IBC)?</strong></h4>
+<ul>
+<li>The IBC was enacted in 2016 to simplify insolvency and bankruptcy proceedings, safeguard interests of all stakeholders (the firm, employees, debtors and especially creditors), and resolve non-performing assets.</li>
+<li>From a ‘debtor in possession’ regime, it was a shift to a ‘creditor in control’ one.</li>
+<li>IBC provides for a time-bound process for resolving insolvencies.</li>
+<li>The Insolvency and Bankruptcy Board of India (IBBI) is the regulator implementing the code and overseeing the functioning of stakeholders.</li>
+<li>The IBBI last week allowed payment of performance-linked incentives to resolution professionals.</li>
+</ul>
+<h4><strong>What are Pre-packs?</strong></h4>
+<ul>
+<li>A pre-pack is the resolution of the debt of a distressed company through an agreement between secured creditors and investors instead of a public bidding process.</li>
+<li>This system of insolvency proceedings has become an increasingly popular mechanism for insolvency resolution in the UK and Europe over the past decade.</li>
+<li>Under the pre-pack system, financial creditors will agree to terms with a potential investor and seek approval of the resolution plan from the National Company Law Tribunal (NCLT).</li>
+<li>The approval of a minimum of 66 percent of financial creditors that are unrelated to the corporate debtor would be required before a resolution plan is submitted to the NCLT.</li>
+<li>Further NCLTs are also required to either accept or reject any application for a pre-pack insolvency proceeding before considering a petition for a corporate insolvency resolution process (CIRP).</li>
+</ul>
+<h4><strong>How does it work?</strong></h4>
+<ul>
+<li>Unlike the CIRP, an informal understanding is reached with creditors before the application is filed.</li>
+<li>PPIRP begins only after 66% of financial creditors approve the proposal and the name of resolution professional.</li>
+<li>Debt resolution agreement between financial creditor and a potential investor is arrived at in consultation with the corporate debtor for which subsequent approval of the resolution plan is sought from the NCLT.</li>
+</ul>
+<h4><strong>What were the objectives behind introducing PPIRP?</strong></h4>
+<ul>
+<li>MSMEs greatly contribute to the economy, and employ a wide section of the population.</li>
+<li>The pandemic severely impacted their operations.</li>
+<li>This alternative insolvency resolution process was designed to ensure quicker, cost-effective and value-maximizing outcomes for all.</li>
+</ul>
+<h4><strong>What is the progress in PPIRP so far?</strong></h4>
+<ul>
+<li>Only two insolvency cases have been initiated under PPIRP since it was introduced.</li>
+<li>The poor response has been attributed to the hesitancy on the part of financial institutions.</li>
+<li>In the case of CIRP, the haircut involved is a last resort, against a voluntary one in case of PPIRP.</li>
+<li>Data shows that between December 2016 and June 2022, a total of 5,636 CIRPs commenced, of which 3,637 have been closed.</li>
+</ul>
+<h4><strong>Does PPIRP defeat the purpose of IBC?</strong></h4>
+<ul>
+<li>The IBC’s objective is to facilitate exit from failed units so that capital can be reallocated to better ones.</li>
+<li>However, banks are not comfortable initiating PPIRP due to voluntary haircuts.</li>
+<li>There is a fear that such a decision might be scrutinized later.</li>
+<li>This means capital will remain locked up in failed units, defeating the purpose of IBC.</li>
+<li>Voluntary haircuts mean fewer resources from the winding-up process and greater scope for corrupt practices.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/pre-pack-ibc-resolution/</guid><pubDate>Wed, 21 Sep 2022 00:00:00 +0553</pubDate></item><item><title>More teeth and bigger muscles: ED’s lengthening arm</title><link>https://www.civilsdaily.com/news/more-teeth-and-bigger-muscles-ed-lengthening-arm/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Enforcement Directorate (ED)</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p>Since the advent of the Modi government, the <a href="https://www.civilsdaily.com/burning-issue-enforcement-directorate-ed-dreaded-nightmare-of-indian-politicians-businessmen/">ED – Enforcement Directorate</a> has gone after politicians/celebrities suspected of corruption with far greater prowess than other central law enforcement agencies.</p>
+<h4><strong>What is Enforcement Directorate (ED)?</strong></h4>
+<ul>
+<li>It goes back to May 1, 1956, when an ‘<strong><u>Enforcement Unit</u>’</strong> was formed in the Department of Economic Affairs.</li>
+<li>It then aimed for handling Exchange Control Laws violations under the Foreign Exchange Regulation Act (FERA).</li>
+<li>The ED today is a <strong><u>multi-dimensional organisation</u></strong> investigating economic offences under the Prevention of Money Laundering Act (PMLA), Fugitive Economic Offenders Act, Foreign Exchange Management Act and FERA.</li>
+</ul>
+<h4><strong>From where does the ED get its powers?</strong></h4>
+<ul>
+<li>When proceeds of crime (property/money) are generated, the best way to save that money is by parking it somewhere, so one is not answerable to anyone in the country.</li>
+<li>Therefore, there was a need to control and prevent the laundering of money.</li>
+<li>The <strong><u>PMLA</u></strong> was brought in for this exact reason in 2002, but was enacted only in 2005.</li>
+<li>The objective was to prevent parking of the money outside India and to trace out the layering and the trail of money.</li>
+<li>So as per the Act, the ED got its power to investigate under Sections 48 (authorities under act) and 49 (appointment and powers of authorities and other officers).</li>
+</ul>
+<h4><strong>Roles and functions of the ED</strong></h4>
+<ul>
+<li><strong>Summon, Search and seizure:</strong> The ED carries out search (property) and seizure (money/documents) after it has decided that the money has been laundered, under Section 16 (power of survey) and Section 17 (search and seizure) of the PMLA.</li>
+<li><strong>Arrest and detentions:</strong> On the basis of that, the authorities will decide if an arrest is needed as per Section 19 (power of arrest).</li>
+<li><strong>Attachment of property:</strong> Under Section 50, the ED can also directly carry out search and seizure without calling the person for questioning. It is not necessary to summon the person first and then start with the search and seizure.</li>
+<li><strong>Filing of chargesheet:</strong> If the person is arrested, the ED gets 60 days to file the prosecution complaint (chargesheet) as the punishment under PMLA doesn’t go beyond seven years.</li>
+</ul>
+<h4><strong>At what stage does the ED step in when a crime is committed?</strong></h4>
+<ul>
+<li>Whenever any offence is registered by a local police station, which has generated proceeds of crime <strong><u>over and above ₹1 crore</u></strong>, the investigating police officer forwards the details to the ED.</li>
+<li>Alternately, <strong><u>if the offence comes under the knowledge of the Central agency</u></strong>, they can then call for the First Information Report (FIR) or the chargesheet if it has been filed directly by police officials.</li>
+<li>This will be done to find out if any laundering has taken place.</li>
+</ul>
+<h4><strong>PMLA, the ED’s sword arm</strong></h4>
+<ul>
+<li>The ED’s aggression has been largely on leveraging the massive powers bestowed on the agency by the Prevention of Money Laundering Act (PMLA), 2002.</li>
+<li>PMLA, 2002 is an Act of the Parliament of India enacted by the NDA government to prevent money laundering and to provide for the confiscation of property derived from money laundering.</li>
+<li>It was enacted in response to India’s global commitment (including the Vienna Convention) to combat the menace of money laundering.</li>
+<li>PMLA and the Rules notified there under came into force with effect from July 1, 2005.</li>
+</ul>
+<h4><strong>How is PMLA going increasingly stringent?</strong></h4>
+<p>The PMLA’s ambit was widened through amendments in 2009, 2013, 2015, and 2019, giving the ED the teeth it now has.</p>
+<ul>
+<li><strong>Broader jurisdiction for investigation:</strong> In 2009, ‘criminal conspiracy’ under Section 120B of the Indian Penal Code was added to the PMLA’s schedule among various other offences. This has, over the years, allowed the ED to enter any case where a conspiracy is alleged — even if the principal offence is not part of the PMLA schedule. In 2009, the ED also got international jurisdiction as far as tracking laundered money was concerned.</li>
+<li><strong>Immediate attachment of property:</strong> Following amendments in 2015 and 2018, the ED was allowed to attach properties in India equivalent to properties acquired abroad through laundered money. Through certain “explanations” inserted into the PMLA in 2019, the government allowed the ED to attach properties earned directly or indirectly through alleged criminal activity that was even “relatable” to a scheduled offence.</li>
+</ul>
+<h4><strong>Why ED mostly grips Politicians?</strong></h4>
+<ul>
+<li><strong>Exposing rampant corruption:</strong> It is not always ironic to say that most politicians are never corrupt. We have a very inglorious past of political corruption.</li>
+<li><strong>Selective witch-hunt:</strong> The ED has often been attacked for initiating investigations, raiding and questioning leaders of opposition parties, be it under the current regime or under past governments.</li>
+</ul>
+<h4><strong>Issues with PMLA</strong></h4>
+<ul>
+<li><strong>Misuse of central agencies:</strong> PMLA is being pulled into the investigation of even ordinary crimes by the Enforcement Directorate.</li>
+<li><strong>Seizing of assets:</strong> Assets of genuine victims have been attached. The ED could just walk into anybody’s house.</li>
+<li><strong>Politically motivated raids:</strong> In all this, the fundamental purpose of PMLA to investigate the conversion of “illegitimate money into legitimate money” was lost.</li>
+<li><strong>Opacity of charges:</strong> Petitioners pointed out that even the Enforcement Case Information Report (ECIR) – an equivalent of the FIR – is considered an “internal document” and not given to the accused.</li>
+<li><strong>Vagueness over evidence:</strong> The accused is called upon to make statements that are treated as admissible in evidence.</li>
+<li><strong>Harassment:</strong> The ED begins to summon accused persons and seeks details of all their financial transactions and of their family members.</li>
+<li><strong>Against individual liberty:</strong> The initiation of an investigation by the ED has consequences that have the potential of curtailing the liberty of an individual.</li>
+</ul>
+<h4><strong>Allegations against ED</strong></h4>
+<ul>
+<li><strong>Huge discretions:</strong> The ED is the only Central agency in the country that does not require permission from the government to summon or prosecute politicians or government functionaries for committing economic offences like money laundering.</li>
+<li><strong>Used for petty crimes:</strong> PMLA is pulled into the investigation of even “ordinary” crimes and assets of genuine victims have been attached.</li>
+<li><strong>Actual purpose denigrated: </strong>PMLA was a comprehensive penal statute to counter the threat of money laundering, specifically stemming from the trade in narcotics.</li>
+<li><strong>Violations of Rights:</strong> PMLA was enacted in response to India’s global commitment to combat the menace of money laundering. Instead, rights have been “cribbed, cabined and confined”.</li>
+<li><strong>Functional opacity:</strong> There is also a lack of clarity about ED’s selection of cases to investigate. We often see ED raiding houses of opposition parties suddenly.</li>
+<li><strong>Poor rate of conviction:</strong> We have hardly read the conclusion of cases by ED. Meantime media-trial tears off the accused person’s credibility which is the most desired intent.</li>
+<li><strong>Under-trials and slower prosecution</strong>: ED has been focusing on keeping the accused in custody rather than actually proving the charges against them.</li>
+</ul>
+<h4><strong>Challenges to ED</strong></h4>
+<ul>
+<li><strong>ED being dragged to court:</strong> The petitions against the ED had the effect of slowing down the investigations, as officers have to defend themselves in court.</li>
+<li><strong>Foul crying politicians:</strong> There are attempts to cover up unexplained, high-value transactions that fall within the PMLA’s ambit</li>
+<li><strong>Investigation of foreign transactions:</strong> Getting information on accounts and money stashed abroad to establish a trail is the biggest challenge they face.</li>
+</ul>
+<h4><strong>Way forward</strong></h4>
+<ul>
+<li>The fight against corruption is intimately linked with the reform of the investigations.</li>
+<li>Therefore the adjudicating authorities must work in cooperation and ensure the highest standards of transparency and fairness.</li>
+<li>ED has been walking a tightrope to safeguard its integrity by speeding up investigations and court procedures.</li>
+<li>The need of the hour could be systemic fixes—and not shrill calls to throw the baby out with the bathwater.</li>
+<li>It is unlikely that corruption can be substantially reduced without modifying the way government agencies operate.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/more-teeth-and-bigger-muscles-ed-lengthening-arm/</guid><pubDate>Wed, 21 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Donations to recognised Political Parties come under EC lens</title><link>https://www.civilsdaily.com/news/donations-recognised-political-parties-come-under-ec-lens/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Issues with Political Funding</p></div></div><p>The Election Commission’s ongoing drive to clean up the electoral space has now gone beyond RUPPs (<a href="https://www.civilsdaily.com/news/vacant-offices-unaware-office-bearers-curious-case-of-delisted-parties/">registered unrecognised political parties</a>) to cover recognised national and State parties.</p>
+<h4>What is Political Funding?</h4>
+<ul>
+<li>Political Funding implies the methods that political parties use to raise funds to finance their campaign and routine activities.</li>
+<li>A political party needs money to pitch itself, its objectives, and its intended actions to get votes for itself. (<a href="http://www.drbrambedkarcollege.ac.in/sites/default/files/UNIT-2_PART-5_CORPORATE%20FUNDING%20OF%20POLITICAL%20PARTIES.pdf" rel="noopener" target="_blank">Reference</a>)</li>
+</ul>
+<h4>Why need political funding?</h4>
+<ul>
+<li>Across the world, political parties need access to money in order to reach out to the electorate, explain their policies and receive inputs from people.</li>
+<li>And in order to do the same, parties resort to political party funding.</li>
+</ul>
+<h4>Generally who makes these funding?</h4>
+<ul>
+<li><strong>Individuals:</strong> One of the primary sources of this funding is voluntary contributions made by individuals.</li>
+<li><strong>Corporates:</strong> Besides this, corporates pay hefty donations to parties in different forms.</li>
+<li><strong>Foreign aid:</strong> This is yet another source but highly controversial.</li>
+</ul>
+<h4>Statutory Provisions</h4>
+<ul>
+<li><strong><u>Section 29B of the Representation of the People Act (RPA)</u></strong> entitles parties to accept voluntary contributions by any person or company, except a Government Company.</li>
+<li><strong><u>Section 29C of the RPA mandates political parties to declare donations</u></strong> that exceed 20,000 rupees. Such a declaration is made by making a report and submitting the same to the EC. Failure to do so on time disentitles a party from tax relief under the Income Tax Act, 1961.</li>
+</ul>
+<h4><strong>Methods used by Indian Political Parties</strong></h4>
+<ol>
+<li><strong>Individual Persons:</strong> Section 29B of RPA allows political parties to receive donations from individual persons.</li>
+</ol>
+<p> </p>
+<ol start="2">
+<li><strong>State/Public Funding:</strong> Here, the government provides funds to parties for election related purposes. State Funding is of two types:</li>
+</ol>
+<ul>
+<li><strong>Direct Funding:</strong> The government provides funds directly to the political parties. Direct funding by tax is prohibited in India.</li>
+<li><strong>Indirect Funding:</strong> It includes other methods except direct funding, like free access to media, free access to public places for rallies, free or subsidized transport facilities. It is allowed in India in a regulated manner.</li>
+</ul>
+<p> </p>
+<ol start="3">
+<li><strong>Corporate Funding:</strong> In India, donations by corporate bodies are governed under the Companies Act, 2013. Section 182 of the Act provides that:</li>
+</ol>
+<ul>
+<li>A company needs to be at least three years old to be able to donate to a political party.</li>
+<li>Companies can donate up to 7.5% of average net profits made during three simultaneous preceding financial years. (Now removed after Finance Act, 2017)</li>
+<li>Such contributions must be disclosed in the company’s profit and loss account. (Removed)</li>
+</ul>
+<p> </p>
+<ol start="4">
+<li><strong>Electoral Trusts:</strong> A non-profit company created in India for orderly receipt of voluntary contributions from any person like an individual or a domestic company.</li>
+</ol>
+<ul>
+<li>According to the Election Commission Guidelines, all electoral trusts formed after January 2013 are required to declare details of the money received and disbursed.</li>
+<li>The Central Government rules mandate these firms to donate 95% of their total income to registered political parties in a financial year.</li>
+</ul>
+<h4>Issues with Political Funding</h4>
+<ul>
+<li><strong>Money laundering:</strong> One of the biggest disadvantages of the corporate funding is the use of fake companies to route black money.</li>
+<li><strong>Influence of contributor:</strong> Influence of people and companies over political parties to which they provide funds.</li>
+<li><strong>Election malpractices:</strong> There are various gaps in Indian rules, the benefit of which political parties take to avoid any kind of reporting.</li>
+<li><strong>Money politics:</strong> Hidden sources of funding lead to more spending of funds in election campaigns, thus impacting the economy of the country.</li>
+</ul>
+<h4>Recent steps taken</h4>
+<ul>
+<li><strong>FCRA Reforms:</strong> In March, 2018, the government passed a key amendment to the Foreign Contribution Regulation Act, 2010 allowing foreign companies to fund political parties in India.</li>
+<li><strong>Electoral Bonds Schemes:</strong> The government notified the Electoral Bond Scheme on 2nd January, 2018 to establish and cleanse the system of political funding in the country.</li>
+</ul>
+<h4>What is Electoral Bond Scheme?</h4>
+<ul>
+<li>An electoral bond is a bearer instrument like a Promissory Note.</li>
+<li>It can be purchased by any citizen of India or a body incorporated in India to donate to the political party of their choice.</li>
+<li>Donor’s name is not there on the bond.</li>
+<li>These bonds can be used for making donations to the political parties registered under Section 29A of the RP Act, 1951.</li>
+<li>The party should have secured not less than one per cent of the votes polled in the last general election to the Lok Sabha or a Legislative Assembly.</li>
+</ul>
+<h4>Issues with the scheme</h4>
+<ul>
+<li><strong>Opaque funding:</strong> While the identity of the donor is captured, it is not revealed to the party or public. So transparency is not enhanced for the voter.</li>
+<li><strong>No IT break:</strong> Also income tax breaks may not be available for donations through electoral bonds. This pushes the donor to choose between remaining anonymous and saving on taxes.</li>
+<li><strong>No anonymity for donors:</strong> The privacy of the donor is compromised as the bank will know their identity.</li>
+<li><strong>Differential benefits:</strong> These bonds will help any party that is in power because the government can know who donated what money and to whom.</li>
+</ul>
+<h4><strong>Way forward</strong></h4>
+<p>Former Chief Election Commissioner SY Quraishi has suggested an alternative worth exploring:</p>
+<ul>
+<li>A National Electoral Fund to which all donors can contribute.</li>
+<li>The funds would be allocated to political parties in proportion to the votes they get.</li>
+<li>Not only would this protect the identity of donors, it would also weed out black money from political funding.</li>
+<li>There can be a tax benefit for those who donate to the fund.</li>
+</ul>
+<p> </p>
+<h4>Try this question from our AWE Initiative</h4>
+<blockquote class="wp-embedded-content" data-secret="ihyxvccakT"><p><a href="https://www.civilsdaily.com/mains/q-2-examine-the-issues-with-political-funding-in-india-how-far-has-the-introduction-of-electoral-bonds-succeeded-in-dealing-with-the-issues-with-political-funding-10-marks/">Q.2) Examine the issues with political funding in India. How far has the introduction of electoral bonds succeeded in dealing with the issues with political funding? (10 marks)</a></p></blockquote>
+<p><iframe class="wp-embedded-content" data-secret="ihyxvccakT" frameborder="0" height="327" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.civilsdaily.com/mains/q-2-examine-the-issues-with-political-funding-in-india-how-far-has-the-introduction-of-electoral-bonds-succeeded-in-dealing-with-the-issues-with-political-funding-10-marks/embed/#?secret=Wm8HVXEafF#?secret=ihyxvccakT" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“Q.2) Examine the issues with political funding in India. How far has the introduction of electoral bonds succeeded in dealing with the issues with political funding? (10 marks)” — Civilsdaily" width="580"></iframe></p>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/donations-recognised-political-parties-come-under-ec-lens/</guid><pubDate>Wed, 21 Sep 2022 00:00:00 +0553</pubDate></item><item><title>The heavy rainfall and the crazy Banglore flood: A case to study</title><link>https://www.civilsdaily.com/news/flood/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>urban floods mitigation</p></div></div><h4><img alt="flood" class="alignnone wp-image-638490" height="321" loading="lazy" sizes="(max-width: 570px) 100vw, 570px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-300x169.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-300x169.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-1024x576.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-768x432.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-1536x864.jpg 1536w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-1200x675.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734.jpg 1600w" width="570"/>Context</h4>
 <ul>
