@@ -1,100 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Fri, 23 Sep 2022 06:41:27 +0000</lastBuildDate><item><title>Donations to recognised Political Parties come under EC lens</title><link>https://www.civilsdaily.com/news/donations-recognised-political-parties-come-under-ec-lens/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Issues with Political Funding</p></div></div><p>The Election Commission’s ongoing drive to clean up the electoral space has now gone beyond RUPPs (<a href="https://www.civilsdaily.com/news/vacant-offices-unaware-office-bearers-curious-case-of-delisted-parties/">registered unrecognised political parties</a>) to cover recognised national and State parties.</p>
-<h4>What is Political Funding?</h4>
-<ul>
-<li>Political Funding implies the methods that political parties use to raise funds to finance their campaign and routine activities.</li>
-<li>A political party needs money to pitch itself, its objectives, and its intended actions to get votes for itself. (<a href="http://www.drbrambedkarcollege.ac.in/sites/default/files/UNIT-2_PART-5_CORPORATE%20FUNDING%20OF%20POLITICAL%20PARTIES.pdf" rel="noopener" target="_blank">Reference</a>)</li>
-</ul>
-<h4>Why need political funding?</h4>
-<ul>
-<li>Across the world, political parties need access to money in order to reach out to the electorate, explain their policies and receive inputs from people.</li>
-<li>And in order to do the same, parties resort to political party funding.</li>
-</ul>
-<h4>Generally who makes these funding?</h4>
-<ul>
-<li><strong>Individuals:</strong> One of the primary sources of this funding is voluntary contributions made by individuals.</li>
-<li><strong>Corporates:</strong> Besides this, corporates pay hefty donations to parties in different forms.</li>
-<li><strong>Foreign aid:</strong> This is yet another source but highly controversial.</li>
-</ul>
-<h4>Statutory Provisions</h4>
-<ul>
-<li><strong><u>Section 29B of the Representation of the People Act (RPA)</u></strong> entitles parties to accept voluntary contributions by any person or company, except a Government Company.</li>
-<li><strong><u>Section 29C of the RPA mandates political parties to declare donations</u></strong> that exceed 20,000 rupees. Such a declaration is made by making a report and submitting the same to the EC. Failure to do so on time disentitles a party from tax relief under the Income Tax Act, 1961.</li>
-</ul>
-<h4><strong>Methods used by Indian Political Parties</strong></h4>
-<ol>
-<li><strong>Individual Persons:</strong> Section 29B of RPA allows political parties to receive donations from individual persons.</li>
-</ol>
-<p> </p>
-<ol start="2">
-<li><strong>State/Public Funding:</strong> Here, the government provides funds to parties for election related purposes. State Funding is of two types:</li>
-</ol>
-<ul>
-<li><strong>Direct Funding:</strong> The government provides funds directly to the political parties. Direct funding by tax is prohibited in India.</li>
-<li><strong>Indirect Funding:</strong> It includes other methods except direct funding, like free access to media, free access to public places for rallies, free or subsidized transport facilities. It is allowed in India in a regulated manner.</li>
-</ul>
-<p> </p>
-<ol start="3">
-<li><strong>Corporate Funding:</strong> In India, donations by corporate bodies are governed under the Companies Act, 2013. Section 182 of the Act provides that:</li>
-</ol>
-<ul>
-<li>A company needs to be at least three years old to be able to donate to a political party.</li>
-<li>Companies can donate up to 7.5% of average net profits made during three simultaneous preceding financial years. (Now removed after Finance Act, 2017)</li>
-<li>Such contributions must be disclosed in the company’s profit and loss account. (Removed)</li>
-</ul>
-<p> </p>
-<ol start="4">
-<li><strong>Electoral Trusts:</strong> A non-profit company created in India for orderly receipt of voluntary contributions from any person like an individual or a domestic company.</li>
-</ol>
-<ul>
-<li>According to the Election Commission Guidelines, all electoral trusts formed after January 2013 are required to declare details of the money received and disbursed.</li>
-<li>The Central Government rules mandate these firms to donate 95% of their total income to registered political parties in a financial year.</li>
-</ul>
-<h4>Issues with Political Funding</h4>
-<ul>
-<li><strong>Money laundering:</strong> One of the biggest disadvantages of the corporate funding is the use of fake companies to route black money.</li>
-<li><strong>Influence of contributor:</strong> Influence of people and companies over political parties to which they provide funds.</li>
-<li><strong>Election malpractices:</strong> There are various gaps in Indian rules, the benefit of which political parties take to avoid any kind of reporting.</li>
-<li><strong>Money politics:</strong> Hidden sources of funding lead to more spending of funds in election campaigns, thus impacting the economy of the country.</li>
-</ul>
-<h4>Recent steps taken</h4>
-<ul>
-<li><strong>FCRA Reforms:</strong> In March, 2018, the government passed a key amendment to the Foreign Contribution Regulation Act, 2010 allowing foreign companies to fund political parties in India.</li>
-<li><strong>Electoral Bonds Schemes:</strong> The government notified the Electoral Bond Scheme on 2nd January, 2018 to establish and cleanse the system of political funding in the country.</li>
-</ul>
-<h4>What is Electoral Bond Scheme?</h4>
-<ul>
-<li>An electoral bond is a bearer instrument like a Promissory Note.</li>
-<li>It can be purchased by any citizen of India or a body incorporated in India to donate to the political party of their choice.</li>
-<li>Donor’s name is not there on the bond.</li>
-<li>These bonds can be used for making donations to the political parties registered under Section 29A of the RP Act, 1951.</li>
-<li>The party should have secured not less than one per cent of the votes polled in the last general election to the Lok Sabha or a Legislative Assembly.</li>
-</ul>
-<h4>Issues with the scheme</h4>
-<ul>
-<li><strong>Opaque funding:</strong> While the identity of the donor is captured, it is not revealed to the party or public. So transparency is not enhanced for the voter.</li>
-<li><strong>No IT break:</strong> Also income tax breaks may not be available for donations through electoral bonds. This pushes the donor to choose between remaining anonymous and saving on taxes.</li>
-<li><strong>No anonymity for donors:</strong> The privacy of the donor is compromised as the bank will know their identity.</li>
-<li><strong>Differential benefits:</strong> These bonds will help any party that is in power because the government can know who donated what money and to whom.</li>
-</ul>
-<h4><strong>Way forward</strong></h4>
-<p>Former Chief Election Commissioner SY Quraishi has suggested an alternative worth exploring:</p>
-<ul>
-<li>A National Electoral Fund to which all donors can contribute.</li>
-<li>The funds would be allocated to political parties in proportion to the votes they get.</li>
-<li>Not only would this protect the identity of donors, it would also weed out black money from political funding.</li>
-<li>There can be a tax benefit for those who donate to the fund.</li>
-</ul>
-<p> </p>
-<h4>Try this question from our AWE Initiative</h4>
-<blockquote class="wp-embedded-content" data-secret="ihyxvccakT"><p><a href="https://www.civilsdaily.com/mains/q-2-examine-the-issues-with-political-funding-in-india-how-far-has-the-introduction-of-electoral-bonds-succeeded-in-dealing-with-the-issues-with-political-funding-10-marks/">Q.2) Examine the issues with political funding in India. How far has the introduction of electoral bonds succeeded in dealing with the issues with political funding? (10 marks)</a></p></blockquote>
-<p><iframe class="wp-embedded-content" data-secret="ihyxvccakT" frameborder="0" height="327" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.civilsdaily.com/mains/q-2-examine-the-issues-with-political-funding-in-india-how-far-has-the-introduction-of-electoral-bonds-succeeded-in-dealing-with-the-issues-with-political-funding-10-marks/embed/#?secret=Wm8HVXEafF#?secret=ihyxvccakT" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“Q.2) Examine the issues with political funding in India. How far has the introduction of electoral bonds succeeded in dealing with the issues with political funding? (10 marks)” — Civilsdaily" width="580"></iframe></p>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/donations-recognised-political-parties-come-under-ec-lens/</guid><pubDate>Wed, 21 Sep 2022 00:00:00 +0553</pubDate></item><item><title>The heavy rainfall and the crazy Banglore flood: A case to study</title><link>https://www.civilsdaily.com/news/flood/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Fri, 23 Sep 2022 07:27:54 +0000</lastBuildDate><item><title>The heavy rainfall and the crazy Banglore flood: A case to study</title><link>https://www.civilsdaily.com/news/flood/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>urban floods mitigation</p></div></div><h4><img alt="flood" class="alignnone wp-image-638490" height="321" loading="lazy" sizes="(max-width: 570px) 100vw, 570px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-300x169.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-300x169.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-1024x576.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-768x432.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-1536x864.jpg 1536w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734-1200x675.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/54388ec2-4968-11ec-854b-e26f413988f6_1637348831734.jpg 1600w" width="570"/>Context</h4>
 <ul>
@@ -1152,7 +1057,7 @@ What are India’s concerns regarding the West created world order?</strong></h4
 </div><!-- .entry-content -->
 </div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/the-kyrgyzstan-tajikistan-conflict/</guid><pubDate>Fri, 23 Sep 2022 00:00:00 +0553</pubDate></item><item><title>Maoist movement declines along the Andhra-Odisha boundary</title><link>https://www.civilsdaily.com/news/maoist-movement-declines-the-andhra-odisha-boundary/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Maoism, Leninism and Marxism</p><p><strong>Mains level : </strong>LWE in India</p></div></div><p><img alt="mao" class="alignnone wp-image-526403 size-full" height="994" sizes="(max-width: 1200px) 100vw, 1200px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe-300x249.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe-1024x848.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe-768x636.jpg 768w" width="1200"/></p>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Maoism, Leninism and Marxism</p><p><strong>Mains level : </strong>LWE in India</p></div></div><p><img alt="mao" class="alignnone wp-image-526403 size-full" height="994" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe-300x249.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe-1024x848.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/02/lwe-768x636.jpg 768w" width="1200"/></p>
 <p>The Maoist movement is on the ebb on the Andhra Pradesh-Odisha boundary, with its cadre and militia strength heavily depleted.</p>
 <h4><strong>Who are the Maoists?</strong></h4>
 <ul>
@@ -1247,4 +1152,129 @@ What are India’s concerns regarding the West created world order?</strong></h4
 <p> </p>
 <p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/maoist-movement-declines-the-andhra-odisha-boundary/</guid><pubDate>Fri, 23 Sep 2022 00:00:00 +0553</pubDate></item></channel></rss>
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/maoist-movement-declines-the-andhra-odisha-boundary/</guid><pubDate>Fri, 23 Sep 2022 00:00:00 +0553</pubDate></item><item><title>A census is not just about aimless counting sheep</title><link>https://www.civilsdaily.com/news/census/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>particulars of census data</p><p><strong>Mains level : </strong>Population issues</p></div></div><h4><strong><img alt="census" class="alignnone wp-image-639439" height="379" sizes="(max-width: 512px) 100vw, 512px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-300x222.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-300x222.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-1024x759.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-768x570.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-1536x1139.jpg 1536w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-2048x1519.jpg 2048w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-1200x890.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/000_17H0TP-1980x1468.jpg 1980w" width="512"/>Context</strong></h4>
+<ul>
+<li>As there is no official reassurance that India will not skip its decadal Census, we can declare that we have a case of the missing census.</li>
+<li>The census is a very important source of statistics on various indicators.</li>
+<li>The ability to hold a census peacefully, and not coercively, has been the hallmark of a civilized state and state of affairs.</li>
+</ul>
+<h4><strong>What is a census?</strong></h4>
+<ul>
+<li>Census is nothing but a process of collecting, compiling, analyzing, evaluating, publishing and disseminating statistical data regarding the population.</li>
+<li>It covers demographic, social and economic data and is provided as of a particular date.</li>
+</ul>
+<h4><strong>What is the purpose of the census?</strong></h4>
+<ul>
+<li>To collect the information for planning and formulation policies for Central and the State Governments.</li>
+<li>The census tells us who we are and where we are going as a nation.</li>
+<li>It helps the government decide how to distribute funds and assistance to states and localities.</li>
+<li>The census data is widely used by National and International Agencies, scholars, business people, industrialists, and many more.</li>
+</ul>
+<h4><strong><img alt="census" class="alignnone wp-image-639440" height="263" loading="lazy" sizes="(max-width: 499px) 100vw, 499px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/136455-zzzrhagmjy-1581566412-300x158.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/136455-zzzrhagmjy-1581566412-300x158.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/136455-zzzrhagmjy-1581566412.jpg 600w" width="499"/>Why is the census important?</strong></h4>
+<ul>
+<li><strong>Provides most credible source of information</strong><strong>:</strong> information on Demography (Population characteristics), Economic Activity, Literacy and Education, Housing &amp; Household Amenities, Urbanisation, Fertility and Mortality, Scheduled Castes and Scheduled Tribes, Language, Religion, Migration, Disability and many other socio-cultural and demographic data<strong>.</strong></li>
+<li><strong>The delimitation/reservation of Constituencies</strong><strong>: </strong>Parliamentary/Assembly/Panchayats and other Local Bodies are also done on the basis of the demographic data thrown up by the Census.</li>
+<li><strong>Administration: </strong>Census is the basis for reviewing the country’s progress in the past decade, monitoring the ongoing Schemes of the Government.</li>
+<li><strong>Planning the future:</strong> It provides pathways for planning and resolving problems, and fixing deficiencies. Government goes through analysis over the census data and formulates policies for the future accordingly.</li>
+<li><strong>Detailed accounts: </strong>The best of sample surveys find it impossible to beat a census as It carries the promise of counting each and every Indian. A census is when the state connects to every individual and it will find it hard to hide or duck from the data.</li>
+<li><strong>Welfare schemes</strong>: Identifying the actual beneficiaries<strong>, </strong>Census is the key to creating identity and affirming it over time .Census data enable neat, inter-temporal comparability.</li>
+</ul>
+<h4><strong>Censuses in India so far</strong></h4>
+<ul>
+<li>Census operations started in India long back during the period of the Maurya dynasty.</li>
+<li>It was systematized during the years 1865 to 1872, though it has been conducted uninterruptedly from the year 1881 being a trustworthy resource of information.</li>
+<li>India has held its decadal censuses regularly from 1881 to 2011, despite diseases, world wars, Partition and other instances of turmoil only COVID-19 as an exception.</li>
+<li>Census 2011 is the 15th National Census of the Country.</li>
+<li>The Census established that the Total Fertility Rate (TFR) is coming down at a very rapid pace and is well on its way to stabilization.</li>
+<li>The 2011 Census also dispelled the notion of divorce rate differentials between city and rural India. The urban divorce rate (0.89%) is almost equal to the rural rate (0.82%).</li>
+</ul>
+<h4><strong><img alt="census" class="alignnone wp-image-639441" height="334" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Census-exercise_featured-image-300x167.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Census-exercise_featured-image-300x167.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Census-exercise_featured-image-1024x572.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Census-exercise_featured-image-768x429.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Census-exercise_featured-image-1200x670.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/Census-exercise_featured-image.jpg 1390w" width="600"/>Why census 2021 has been postponed indefinitely?</strong></h4>
+<ul>
+<li>The Ministry of Home Affairs told the Lok Sabha in August, 2021 that the massive, decennial exercise came to a grinding halt due to the advent of Coid-19 pandemic.</li>
+</ul>
+<h4><strong>What was the original timeline of the Census and how is it being delayed?</strong></h4>
+<ul>
+<li><strong>Gazette notification: </strong>The Centre’s intent to conduct Census 2021 was notified in the Gazette of India on March 28, 2019. The exercise was to have been conducted in two phases, with the housing Census from April to September 2020 and population enumeration from February 9, 2021.but it did not take place due to the spread of COVID-19.</li>
+<li><strong>Alternative timeline post-covid-19: </strong>In March 2021, the Home Ministry gave a Parliamentary panel a tentative alternative timeline. The fieldwork for the first phase, which would provide data on housing conditions, household amenities and assets possessed by households, is expected during 2021-22, while the fieldwork to count the population and provide data on demography, religion, Scheduled Castes and Tribes (SC/ST), language, literacy and education, economic activity, migration and fertility would be done in 2023-24, it said.</li>
+<li><strong>Said Provisional data: </strong>The Ministry added that provisional data would be released in 2023-24 before the next general elections. Usually, more detailed tables providing village-level data on specific indicators will continue to be released for several years after the key information.</li>
+</ul>
+<h4><strong><img alt="census" class="alignnone wp-image-639443" height="266" loading="lazy" sizes="(max-width: 505px) 100vw, 505px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/population-census-2021-300x158.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/population-census-2021-300x158.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/population-census-2021-1024x538.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/population-census-2021-768x403.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/09/population-census-2021.jpg 1200w" width="505"/>Impact of delay in census 2021</strong></h4>
+<ul>
+<li><strong>Public distribution system</strong>:</li>
+<li>The National Food Security Act, 2013, says that 75% of the rural population and 50% of the rural population are entitled to receive subsidised food grains from the government under the targeted public distribution system (PDS).</li>
+<li>Under the 2011 Census, India’s population was about 121 crore, hence PDS covered approximately 80 crore people.</li>
+<li>If we apply projected population of 137crore ,current delay in Census data would continue to deprive more than 10 crore people of subsidised food entitlements, with the biggest gaps in Uttar Pradesh and Bihar, with 2.8 crore and 1.8 crore projected exclusions respectively.</li>
+<li><strong>welfare schemes:</strong></li>
+<li>Although the Government’s intent to use SECC data but failed at budgetary allocation for the projected expansion<strong>.</strong></li>
+<li>Census data may not be used to calculate the beneficiaries of most schemes, but it is critical to policy planning, budgeting and administration<strong>.</strong></li>
+<li>A number of schemes need to use the disaggregated age and fertility indicators to assess effectiveness as demographics change over time.</li>
+<li><strong>Huge lag in Migration data: </strong></li>
+<li>From the COVID19 lockdowns it is realized that the Numbers, causes and patterns of migration, which could not be answered using outdated 2011 Census data.</li>
+<li>The D-tables on migration from the 2011 Census were only released in 2019, so it’s outdated by the time it came out.</li>
+<li>Apart from the One Nation, One Ration card scheme which now allows for portability of food subsidy entitlements, the migration data is actually not used too much in broader economic policy and planning.</li>
+</ul>
+<h4><a href="https://www.civilsdaily.com/news/the-caste-census-debate/"><strong>Why there is a demand for caste census in India?</strong></a></h4>
+<ul>
+<li>India’s population has since increased three-fold to 1.21 billion in 2011.</li>
+<li>Experts believe the economic status of the dominant OBC castes have improved in the past 80 years and certain castes have not benefited as much.</li>
+<li>So, the new caste census is required to measure the economic and social well-being of all castes.</li>
+</ul>
+<h4><strong>Other related information Key findings of 2011 census</strong></h4>
+<ul>
+<li><strong>Population</strong><strong>:</strong></li>
+<li>India’s population grew by 17.7 per cent during 2001-11, against 21.5 per cent in the previous decade.</li>
+<li>India’s total population stands at 1.21 billion, which is 17.7 per cent more than the last decade, and growth of females was higher than that of males.</li>
+<li>The growth rate of females was 18.3 per cent which is higher than males — 17.1 per cent.</li>
+<li>Among the major states, highest decadal growth in population has been recorded in Bihar (25.4 per cent) while 14 states and Union Territories have recorded population growth above 20 per cent.</li>
+<li><strong>Rural and urban population:</strong></li>
+<li>Urban proportion has gone up from 17.3 per cent in 1951 to 31.2 per cent in 2011.</li>
+<li>Highest proportion of urban population is in NCT Delhi (97.5 per cent).</li>
+<li>Top five states in share of urban population are Goa (62.2 per cent), Mizoram (52.1 per cent), Tamil Nadu (48.4 per cent), Kerala (47.7 per cent) and Maharashtra (45.2 per cent).</li>
+<li><strong>Literacy</strong>:</li>
+<li>Literacy rate in India in 2011 has increased by 8 per cent to 73 per cent in comparison to 64.8 per cent in 2001.</li>
+<li>Male literacy rate stands at 80.9 per cent, which is 5.6 per cent more than the previous census whereas the female literacy rate stands at 64.6 per cent, increase of 10.9 per cent than 2001.</li>
+<li>The highest increase took place in Dadra and Nagar Haveli by 18.6 points (from 57.6 per cent to 76.2 per cent), while in Bihar by 14.8 points (from 47.0 per cent to 61.8 per cent), Tripura by 14.0 points (from 73.2 per cent to 87.2 per cent)</li>
+<li><strong>Density</strong>:</li>
+<li>The density of population in the country has also increased from 325 in 2001 to 382 in 2011 in per sq km.</li>
+<li>Among the major states, Bihar occupies the first position with a density of 1106, surpassing West Bengal which occupied the first position during 2001.</li>
+<li>Delhi (11,320) turns out to be the most densely inhabited followed by Chandigarh (9,258), among all states and UT’s, both in 2001 and 2011 Census.</li>
+<li>The minimum population density works out in Arunachal Pradesh (17) for both 2001 and 2011 Census.</li>
+<li><strong>Sex ratio</strong>:</li>
+<li>The sex ratio of population in the country in 2011 stands at 940 female against 1000 males, which is 10 per cent more than the last census when the number female per thousand male stood at 933.</li>
+<li>The number of females per 1000 males in Haryana in 2011 stands at 879 followed by Jammu and Kashmir (889 female) and Punjab (895 females).</li>
+<li>The other two worst-performing states in terms of skewed sex ration are Uttar Pradesh (912 females) and Bihar (918 females).</li>
+<li>Five top performing states in terms of sex ratio were Kerala (1,084 females), Tamil Nadu (996), Andhra Pradesh (993), Chhattisgarh (991),Odisha (979).</li>
+<li><strong>Child population</strong>:</li>
+<li>Child population in the age of 0 to 6 years has seen an increase of 0.4 per cent.</li>
+<li>There has been a decline of 8 per cent in the sex ratio of 0-6 age group. In 2011, the child sex ratio (0-6) stands at 919 female against 1000 male in comparison to 927 females in 2001.</li>
+<li>Male child (0-6) population has increased whereas female child population has decreased during 2001-11.</li>
+<li>The worst performing states in regard to sex ration in the age group of 0 to 6 years are Haryana (834 females), Punjab (846), Jammu and Kashmir (862), Rajasthan (888) and Gujarat (890).</li>
+<li>The best performing states are Chhattisgarh (969), Kerala (964), Assam (962), West Bengal (956) Jharkhand (948) and Karnataka (948).</li>
+<li><strong>SC/ST data</strong>:</li>
+<li>According to the Census, Scheduled Castes are notified in 31 states and UTs and Scheduled Tribes in 30 states. There are altogether 1,241 individual ethnic groups notified as SC’s .The number of individual ethnic groups, notified as ST’s is 705.</li>
+<li>There have been some changes in the list of SC’s/ST’s in states and UT’s during the last decade.</li>
+<li>The SC population in India now stands at 201.4 million, which is 20 per cent more than the last census. The ST population stands at 104.3 million in 2011 – 23.7 per cent more than 2001.</li>
+<li><strong>Religious demographics</strong>:</li>
+<li>The religious data on India Census 2011 was released by the Government of India on 25 August 2015.</li>
+<li>Hindus are 79.8% (966.3 million), while Muslims are 14.23% (172.2 million) in India.</li>
+<li>For the first time, a “No religion” category was added in the 2011 census. 2.87 million Were classified as people belonging to “No Religion” in India in the 2011 census. – 0.24% of India’s population of 1.21 billion.</li>
+<li><strong>Median marriage age</strong>:</li>
+<li>The median age increased for men – from 22.6 (2001) to 23.5 (2011) and for women – from 18.2 (2001) to 19.2 (2011).</li>
+</ul>
+<h4><strong>Conclusion</strong></h4>
+<ul>
+<li>The census is vital and precious as it is a repository of complete data about the country which is gathered openly, voluntarily, and with the use of public money, making it a social good.</li>
+<li>The new Census is likely to capture the extent of the observed movement in migration trends towards smaller two-tier towns apart from the large metropolitan centre.</li>
+<li>It could help answer questions of what kind of healthcare and social services are most needed and where.</li>
+<li>The Census is about many things. But, fundamentally, it is a way in which the state, by knocking at all doors, displays its desire to connect with the people who ultimately comprise the nation.</li>
+</ul>
+<p><strong> </strong></p>
+<blockquote><p><strong>Mains Question </strong></p>
+<p><strong>Q. Apart from being used to demarcate constituencies, updated decadal census data is vital to administration. How will the indefinite postponement of census impact the policy formation for the future? Critically Analyse.</strong></p></blockquote>
+<p><strong> Do follow this link </strong></p>
+<p class="entry-title"><a href="https://www.civilsdaily.com/census-2011-the-basics-and-summary-of-important-findings/">Census 2011 | The basics and summary of important findings</a></p>
+<p><strong><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a> </strong></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/census/</guid><pubDate>Fri, 23 Sep 2022 00:00:00 +0553</pubDate></item></channel></rss>
