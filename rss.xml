@@ -1,299 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 06 Oct 2022 06:20:05 +0000</lastBuildDate><item><title>Satellite Broadband Services in India</title><link>https://www.civilsdaily.com/news/satellite-broadband-in-india/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Satellite broadband</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p><img alt="satellite broadband" class="alignnone size-full wp-image-643393" height="464" loading="lazy" sizes="(max-width: 464px) 100vw, 464px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/broadband.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/broadband.jpg 464w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/broadband-300x300.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/broadband-150x150.jpg 150w" width="464"/></p>
-<p>The race for providing satellite broadband connectivity in India is heating up as companies like Jio, Oneweb, Hughes and Tata-backed Nelco are preparing to provide these services.</p>
-<h4><strong>Recent developments on satellite broadband<br/>
-</strong></h4>
-<ul>
-<li>Earlier last month, Hughes Communications India (HCI), a satellite internet service provider launched India’s first high throughput satellite (HTS) broadband service powered by ISRO satellites.</li>
-<li>It used Ku-band capacity from ISRO GSAT-11 and GSAT-29 satellites with Hughes JUPITER Platform ground technology to deliver high-speed broadband.</li>
-</ul>
-<h4><strong>What is a Satellite Broadband Service?</strong></h4>
-<ul>
-<li>Broadband essentially means a wide bandwidth, high-capacity data transmission technique, using a broad range of frequencies.</li>
-<li>In the case of a satellite broadband service, broadband services are delivered directly via satellites instead of optical fibre or mobile networks.</li>
-</ul>
-<h4><strong>How is it different from existing broadband services?</strong></h4>
-<p><strong>(1) Transmission of data over space</strong></p>
-<ul>
-<li>The main difference is that aggregation of all the data generated and transmitted by users accessing the internet happens in the sky or space that is in the satellite.</li>
-<li>In contrast to this, if we take a look at cellular networks, aggregation happens on the ground, in the base stations through optical fibre, cable, etc.</li>
-</ul>
-<p><strong>(2) Access to the services</strong></p>
-<ul>
-<li>Another key difference is that to access satellite services, we will need a dish antenna just like we do in the case of TV services, so a normal mobile handset cannot directly access satellite broadband.</li>
-<li>For a user to access satellite broadband a clear line of sight to the satellite is needed.</li>
-</ul>
-<h4><strong>Advantages offered </strong></h4>
-<ul>
-<li><strong>Speed:</strong> The main advantage of satellite services is that you can provide high-speed internet services in remote areas, where terrestrial networks cannot be set up.</li>
-<li><strong>Eliminating terrain shortcomings:</strong> For instance in the middle of the ocean, in rugged unreachable terrain such as the Himalayas — even as remote as on top of Mt. Everest, satellite broadband will work.</li>
-<li><strong>Curbing the divide:</strong> In a country with a wide range of geographies such as India, 20-25 per cent of the Indian population resides in areas where it is extremely hard for terrestrial operators to install internet facilities.</li>
-</ul>
-<h4><strong>Present scope in India</strong></h4>
-<ul>
-<li>Currently, VSAT operators offer satellite broadband services at a very limited capacity in India in a few remote locations.</li>
-<li>The utilisation of satellite services for broadband services is restricted to minimal applications — such as disaster management, defence, scientific locations, etc.</li>
-</ul>
-<h4><strong>How India (undoubtedly, the ISRO) has geared up for adapting to this?</strong></h4>
-<ul>
-<li>ISRO’s high throughput GEO (Geostationary Equatorial Orbit) satellites – GSAT-11 and GSAT-29 a few years ago, can beam high-speed internet up to 300 gigabytes per second.</li>
-<li>Apart, many global players look to provide satellite broadband services in India by deploying low earth orbit (LEO) satellites.</li>
-<li>They are launching a constellation of satellites very close to the earth’s surface in order to reduce the latency of satellite broadband.</li>
-<li>Presently, Elon Musk’s Starlink, Sunil Bharti Mittal-backed OneWeb and the Canadian satellite major Telesat are eyeing the Indian market.</li>
-</ul>
-<h4><strong>When will these services be available in India?</strong></h4>
-<ul>
-<li>If things go as planned and the players get the necessary regulatory clearance, these services could become operational in India as soon as next year.</li>
-<li>OneWeb wants to provide backhaul services to telcos by mid-next year, while Starlink wants to provide direct broadband services by December 2022, aiming at 2 lakh terminals.</li>
-<li>Telesat, on the other hand, is eyeing an India launch by 2024.</li>
-</ul>
-<h4><strong>How much will it cost?</strong></h4>
-<ul>
-<li>The provision of direct broadband services through satellites will be pricey.</li>
-<li>According to a user guide for India, provided by Starlink, the first-year cost of a Starlink terminal will be ₹1,58,000 after which it will cost around ₹1,15,000 every year.</li>
-</ul>
-<h4><strong>Has it been rolled out in other parts of the world?</strong></h4>
-<ul>
-<li>Starlink is operational in 14 countries, with 1 lakh terminals shipped to North America and Europe.</li>
-<li>Starlink and OneWeb are still launching satellites that will be a part of their LEO constellation.</li>
-</ul>
-<h4><strong>What are the major hurdles?</strong></h4>
-<ul>
-<li><strong>Latency:</strong> Additionally, satellite Internet latency can be a significant problem. This can be a matter of only a second or two, but a delay on that scale can seriously affect real-time applications like video chats.</li>
-<li><strong>Spatial hurdles:</strong> Users might not be able to connect to a satellite at all if they are located under heavy foliage or surrounded by other obstructions.</li>
-<li><strong>Limited bandwidth:</strong> Satellite data transfer provides very slow Internet speeds and limited satellite bandwidth because of the distances the signals have to travel and all the potential obstacles in between.</li>
-<li><strong>Connection times:</strong> This can also be impacted by your surroundings, the length of your message, and the status and availability of the satellite network.</li>
-<li><strong>High input cost:</strong> This along with the complex equipment like satellite dishes being used to avail these services makes the service expensive.</li>
-</ul>
-<h4>Perspective analysis: Why is India itself lagging in this race?</h4>
-<ul>
-<li>Globally, companies are striving to build and deploy “mega-constellations” of hundreds or thousands of satellites for this.</li>
-<li>Despite India’s impressive achievements in the space sector, growth has been at snail’s pace.</li>
-<li>Satellite broadband services in India remains primarily for the B2B sector with a market size of roughly $100 million.</li>
-</ul>
-<h4><strong>Reason’s for India’s slow pace</strong></h4>
-<ul>
-<li><strong>Upgrade issues:</strong> The Indian networks are still using conventional satellites despite the proliferation of high throughput satellites world-over.</li>
-<li><strong>Lack of domestic industries:</strong> There is a lack of domestic participation for building space infrastructure despite ‘Make in India’ mission.</li>
-</ul>
-<h4><strong>Way forward</strong></h4>
-<ul>
-<li>An urgent re-look at deregulation and privatization is required.</li>
-<li>Advanced space-faring nations have privatized most of these blocks in the value chain.</li>
-<li>There is a need for building systems to help nurture the industry and create an extensive ecosystem to generate a ‘Space 2.0’ in India.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/satellite-broadband-in-india/</guid><pubDate>Mon, 03 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Progress of the Jal Jeevan Mission</title><link>https://www.civilsdaily.com/news/progress-jal-jeevan-mission/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Jal Jeevan Mission</p><p><strong>Mains level : </strong>NA</p></div></div><p>Around 62% of rural households in India had fully functional tap water connections under the Jal Jeevan Mission.</p>
-<h4><strong>Jal Jeevan Mission</strong></h4>
-<ul>
-<li>Jal Jeevan Mission, a central government initiative under the Ministry of Jal Shakti, aims to ensure access of piped water for every household in India.</li>
-<li>The mission’s goal is to provide to all households in rural India safe and adequate water through individual household tap connections by 2024.</li>
-<li>The Har Ghar Nal Se Jal programme was announced by FM in Budget 2019-20 speech.</li>
-<li>This programme forms a crucial part of the Jal Jeevan Mission.</li>
-<li>It is a central sector scheme with the Centre funding 50% of the cost with States and UTs, except for UT without a legislature, and 90% for NE and Himalayan states.</li>
-</ul>
-<blockquote><p><strong>Note:</strong> A fully functional tap water connection is defined as a household getting at least 55 litres of per capita per day of potable water all through the year.</p></blockquote>
-<h4><strong>Components of the mission</strong></h4>
-<p>The following key components are supported under JJM-</p>
-<ul>
-<li>Development of in-village piped water supply infrastructure to provide tap water connection to every rural household</li>
-<li>Bulk water transfer, treatment plants and distribution network to cater to every rural household</li>
-<li>Technological interventions for removal of contaminants where water quality is an issue</li>
-<li>Retrofitting of completed and ongoing schemes</li>
-<li>Greywater management</li>
-</ul>
-<h4><strong>Progress of the scheme</strong></h4>
-<ul>
-<li>Tamil Nadu, Himachal Pradesh, Goa, and Puducherry reported more than 80% of households with fully functional connections.</li>
-<li>However, less than half the households in Rajasthan, Kerala, Manipur, Tripura, Maharashtra, Madhya Pradesh, Mizoram and Sikkim had such connection.</li>
-<li>Close to three-fourths of households received water all seven days a week and 8% just once a week.</li>
-<li>On average, households got water for three hours every day, and 80% reported that their daily requirements of water were being met by the tap connections.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/progress-jal-jeevan-mission/</guid><pubDate>Tue, 04 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Light Combat Helicopter (LCH) Prachand inducted into IAF</title><link>https://www.civilsdaily.com/news/light-combat-helicopter-lch/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>LCH Prachanda</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><img alt="lch" class="alignnone size-full wp-image-643735" height="519" loading="lazy" sizes="(max-width: 956px) 100vw, 956px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/lch.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/lch.jpg 956w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/lch-300x163.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/lch-768x417.jpg 768w" width="956"/></p>
-<p>The indigenous Light Combat Helicopter LCH-Prachand was formally inducted into the Indian Air Force (IAF).</p>
-<h4>LCH- Prachand</h4>
-<ul>
-<li>The LCH has been designed as a twin-engine, dedicated combat helicopter of 5.8-ton class, thus categorized as light.</li>
-<li>It features a narrow fuselage and tandem — one behind the other — configuration for pilot and co-pilot. The co-pilot is also the Weapon Systems Operator (WSO).</li>
-<li>While LCH inherits many features of the ALH-Dhruv, it mainly differs in tandem cockpit configuration, making it sleeker.</li>
-<li>It also has many more state-of-art systems that make it a dedicated attack helicopter.</li>
-</ul>
-<h4>Features, the significance of LCH</h4>
-<ul>
-<li>LCH has the maximum take-off weight of 5.8 tonnes, a maximum speed of 268 kilometers per hour, range of 550 kilometers.</li>
-<li>It has endurance of over three hours and service ceiling the maximum density altitude to which it can fly — of 6.5 kilometres.</li>
-<li>LCH is powered by two French-origin Shakti engines manufactured by the HAL.</li>
-</ul>
-<h4>Combat capabilities</h4>
-<ul>
-<li>The helicopter uses radar-absorbing material to lower radar signature and has a significantly crash-proof structure and landing gear.</li>
-<li>A pressurised cabin offers protection from nuclear, biological and chemical (NBC) contingencies.</li>
-<li>With these features, the LCH has the capabilities of combat roles such as destruction of enemy air defence, counter-insurgency warfare, combat search and rescue, anti-tank, and counter surface force operations.</li>
-</ul>
-<h4>Why need indigenous LCH?</h4>
-<ul>
-<li>It was during the 1999 Kargil war that the need was first felt for a homegrown lightweight assault helicopter that could hold precision strikes in all Indian battlefield scenarios.</li>
-<li>This meant a craft that could operate in very hot deserts and also in very cold high altitudes, in counter-insurgency scenarios to full-scale battle conditions.</li>
-<li>India has been operating sub 3 ton category French-origin legacy helicopters, Chetak and Cheetah, made in India by the HAL.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/light-combat-helicopter-lch/</guid><pubDate>Tue, 04 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Medicine Nobel for Work on Human Evolution</title><link>https://www.civilsdaily.com/news/medicine-nobel-for-work-on-human-evolution/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Nobel Prize, Neanderthal, Hominins, Denisovians</p><p><strong>Mains level : </strong>Not Much</p></div></div><p><img alt="" class="alignnone size-full wp-image-643737" height="829" loading="lazy" sizes="(max-width: 483px) 100vw, 483px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-prize-for-medicine.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-prize-for-medicine.jpg 483w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-prize-for-medicine-175x300.jpg 175w" width="483"/></p>
-<p>Swedish scientist Svante Paabo won the <a href="https://www.civilsdaily.com/story/nobel-prizes/">Nobel Prize</a> in medicine for his discoveries on human evolution that provided key insights into our immune system and what makes us unique compared with our extinct ancestors.</p>
-<h4><strong>Svante Paabo: His work, explained</strong></h4>
-<ul>
-<li>Svante Paabo’s seminal discoveries provide the basis for exploring what makes us uniquely human.</li>
-<li>Hominins refer to the now-extinct species of apes that are believed to be related to modern humans, as well as modern humans themselves.</li>
-<li>Paabo found that <strong><u>gene transfer had occurred</u></strong> <strong><u>from these now extinct Hominins to Homo sapiens</u></strong> following the migration out of Africa <strong><u>around 70,000 years ago</u></strong>.</li>
-<li>This ancient flow of genes to present-day humans has physiological relevance today, for example affecting how our immune system reacts to infections.</li>
-<li>Paabo established an entirely new scientific discipline, called <strong><u>paleogenomics</u></strong> that focuses on studying the DNA and genetic information of extinct hominins through reconstruction.</li>
-</ul>
-<h4><strong>What is the relation between evolution and biology?</strong></h4>
-<ul>
-<li>Paabo’s discoveries have established a unique resource, which is utilized extensively by the scientific community to better understand human evolution and migration.</li>
-<li>We now understand that archaic gene sequences from our extinct relatives influence the physiology of present-day humans.</li>
-</ul>
-<h4><strong>How did Paabo establish the linkage?</strong></h4>
-<ul>
-<li>Paabo extracted DNA from bone specimens from extinct hominins, from Neanderthal remains in the Denisova caves of Germany.</li>
-<li>The bone contained exceptionally well-preserved DNA, which his team sequenced.</li>
-<li>It was found that this DNA sequence was unique when compared to all known sequences from Neanderthals and present-day humans.</li>
-<li>Comparisons with sequences from contemporary humans from different parts of the world showed that gene flow, or mixing of genetic information among a species, had also occurred between Denisova and Homo sapiens – the species of modern-day humans.</li>
-<li>This relationship was first seen in populations in Melanesia (near Australia) and other parts of South East Asia, where individuals carry up to 6% Denisova DNA.</li>
-<li>The Denisovan version of the gene EPAS1 confers an advantage for survival at high altitudes and is common among present-day Tibetans.</li>
-</ul>
-<h4><strong>What are the challenges in carrying out such research?</strong></h4>
-<ul>
-<li>There are extreme technical challenges because with time DNA becomes chemically modified and degrades into short fragments.</li>
-<li>The main issue is that only trace amounts of DNA are left after thousands of years, and exposure to the natural environment leads to contamination with DNA.</li>
-</ul>
-<hr/>
-<h4><strong>Back2Basics: Neanderthal Man </strong></h4>
-<p><img alt="neanderthal" class="alignnone wp-image-643736" height="821" loading="lazy" sizes="(max-width: 408px) 100vw, 408px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/neanderthal.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/neanderthal.jpg 476w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/neanderthal-149x300.jpg 149w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/neanderthal-447x900.jpg 447w" width="408"/></p>
-<ul>
-<li>Neanderthals were humans like us, but they were a distinct species called Homo Neanderthalensis.</li>
-<li>Together with an Asian people known as Denisovans, Neanderthals are our closest ancient human relatives. Scientific evidence suggests our two species shared a common ancestor.</li>
-<li>Current evidence from both fossils and DNA suggests that Neanderthal and modern human lineages separated at least 500,000 years ago. Some genetic calibrations place their divergence at about 650,000 years ago.</li>
-<li>The best-known Neanderthals lived between about 130,000 and 40,000 years ago, after which all physical evidence of them vanishes.</li>
-<li>They evolved in Europe and Asia while modern humans – our species, <em>Homo sapiens</em> – were evolving in Africa.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/medicine-nobel-for-work-on-human-evolution/</guid><pubDate>Tue, 04 Oct 2022 00:00:00 +0553</pubDate></item><item><title>What is Purchasing Managers Index (PMI)?</title><link>https://www.civilsdaily.com/news/pmi-purchasing-managers-index/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Manufacturing Purchasing Managers’ Index (PMI)</p><p><strong>Mains level : </strong>India's manufacturing sector slowdown</p></div></div><p>India’s manufacturing sector experienced its slowest expansion in September since June, the S&amp;P Global India Manufacturing Purchasing Managers’ Index (PMI) indicated, with the index easing to 55.1 from August’s 56.2.</p>
-<h4><strong>PMI improves<br/>
-</strong></h4>
-<ul>
-<li>A PMI reading above 50 indicates an increase in firms’ activity levels, and September marked the 15th straight month of growth in manufacturing activity.</li>
-</ul>
-<h4><strong>Purchasing Managers’ Index (PMI)</strong></h4>
-<ul>
-<li>PMI is an indicator of business activity — <strong><u>both in the manufacturing </u></strong><u>and<strong> services sectors</strong></u>.</li>
-<li>It is a survey-based measure that asks the respondents about changes in their perception of some key business variables from the month before.</li>
-<li>It is calculated separately for the manufacturing and services sectors and then a composite index is constructed.</li>
-<li>The PMI is compiled by IHS Markit based on responses to questionnaires sent to purchasing managers in a panel of around 400 manufacturers.</li>
-</ul>
-<h4><strong>How is the PMI derived?</strong></h4>
-<ul>
-<li>The PMI is derived from a series of qualitative questions.</li>
-<li>Executives from a reasonably big sample, running into hundreds of firms, are asked whether key indicators such as output, new orders, business expectations and employment were stronger than the month before and are asked to rate them.</li>
-</ul>
-<h4><strong>How does one read the PMI?</strong></h4>
-<ul>
-<li>A figure above 50 denotes expansion in business activity. Anything below 50 denotes contraction.</li>
-<li>Higher the difference from this mid-point greater the expansion or contraction. The rate of expansion can also be judged by comparing the PMI with that of the previous month data.</li>
-<li>If the figure is higher than the previous month’s then the economy is expanding at a faster rate.</li>
-<li>If it is lower than the previous month then it is growing at a lower rate.</li>
-</ul>
-<h4><strong>What are its implications for the economy?</strong></h4>
-<ul>
-<li>The PMI is usually released at the start of the month, much before most of the official data on industrial output, manufacturing and GDP growth becomes available.</li>
-<li>It is, therefore, considered a good leading indicator of economic activity.</li>
-<li>Economists consider the manufacturing growth measured by the PMI as a good indicator of industrial output, for which official statistics are released later.</li>
-<li>Central banks of many countries also use the index to help make decisions on interest rates.</li>
-</ul>
-<p> </p>
-<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/pmi-purchasing-managers-index/</guid><pubDate>Tue, 04 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Live-streaming of Court: Definitely A Great Move</title><link>https://www.civilsdaily.com/news/live-streaming-of-court/</link><description><![CDATA[<div class="post-inner thin">
-<div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>Live streaming of courts proceedings</p></div></div><h4><strong><img alt="Court" class="alignnone wp-image-643641 size-full" height="360" loading="lazy" sizes="(max-width: 1080px) 100vw, 1080px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-2.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-2.jpeg 1080w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-2-300x100.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-2-1024x341.jpeg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-2-768x256.jpeg 768w" width="1080"/>Context</strong></h4>
-<ul>
-<li>On September 27, the Supreme Court enabled the live streaming of the hearing of cases.</li>
-<li>A full court of all Supreme Court judges under the leadership of Chief Justice U U Lalit took the unanimous decision to live-stream constitutional bench proceedings. Justice Chandrachud, the Chairperson of the Supreme Court’s E-committee and the driving force behind the live streaming initiative, began the hearing in his courtroom by announcing,”We are virtual”.</li>
-</ul>
-<h4><strong>Background</strong></h4>
-<ul>
-<li>The Court’s original decision by the bench of the then Chief Justice Dipak Misra, Justice A M Khanwilkar and Justice D Y Chandrachud on September 27, 2018, allowing the live telecast of important proceedings paved the way for this outcome. They had held that the live-streaming of court proceedings is in the public interest.</li>
-<li>Their vision had the full support of Chief Justices M V Ramana and U U Lalit.</li>
-</ul>
-<h4><strong>What is live-streaming technology?</strong></h4>
-<ul>
-<li>At its core, streaming content is meant to help people attend events, expos, and experiences they cannot attend in person.</li>
-<li>Live streaming technology is how videos are streamed over the internet, live, in real-time, as they are being recorded.</li>
-<li>Live streaming technology is the internet’s response to live television broadcasts, with the most popular being news shows and sports.</li>
-</ul>
-<h4><strong>What is Live-streaming of the court?</strong></h4>
-<ul>
-<li>Live streaming of court is that its proceedings that the people can watch on their mobiles and computers.All courtrooms function under camera glare.</li>
-</ul>
-<h4><strong><img alt="Court" class="alignnone wp-image-643650 size-full" height="577" loading="lazy" sizes="(max-width: 985px) 100vw, 985px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-1.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-1.jpeg 985w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-1-300x176.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.51-1-768x450.jpeg 768w" width="985"/>Why </strong><strong><a href="https://www.civilsdaily.com/news/live-streaming-of-sc-proceedings/">Live-streaming of court</a> is so important?</strong></h4>
-<ul>
-<li><strong>Instilling Faith in the Judiciary: </strong>Enabling the ordinary people of the country to view, without any barrier, the workings of the highest court of the land will go a long way in instilling faith in the judiciary.</li>
-<li><strong>Empowering the masses: </strong>It will enable the legal system to deliver on its promise of empowering the masses.Important step toward developing an informed citizenry.</li>
-<li><strong>Respect to Rule of Law: </strong>The decision will enable people to understand the importance of the rule of law.It will help people appreciate that the judiciary is firm in protecting the rights of the impoverished, historically marginalised and disempowered sections of society. Potential to build a culture of respect for the rule of law.</li>
-<li><strong>Living up the expectation of Constitution: </strong>Live-Streaming of Court proceedings is manifested in public interest. Public interest has always been preserved through the Constitution article 19 and 21.</li>
-<li><strong>More transparency: </strong>It will encourage the principle of open court and reduce dependence on second-hand views. It will effectuate the public’s right to know. This would inspire confidence in the functioning of the judiciary as an institution and help maintain the respect that it deserved as a co-equal organ of the state.</li>
-<li><strong>Raise the quality and standards of the legal profession:</strong> Lawyers will be better prepared to appear before the court and they will be mindful of not making irresponsible remarks. An inclusive approach to public scrutiny could nudge and enable lawyers to take the justice delivery mechanisms more seriously than they may have in the past.</li>
-<li><strong>Level playing field:</strong> It also creates a level playing ground for the younger members of the legal profession as their preparedness and intellectual prowess will be apparent to all.</li>
-<li><strong>Academic help:</strong> Watching courtroom proceedings,actual arguments by lawyers and searching questions by judges  could inspire law students to take up this relatively neglected field.Law faculty members and legal researchers will be motivated to work on new areas of scholarship and research relating to the functioning of the judiciary and legal profession.</li>
-<li><strong>Easy accessibility reducing the obstacle of distance: </strong>With live-streaming, the litigants will no longer have to come to Delhi to witness proceedings of their case which would be just a click away.</li>
-<li><strong>Strengthening Democracy:</strong> Transparency and accessibility of the process of justice delivery will strengthen the country’s democracy</li>
-</ul>
-<h4><strong><img alt="Court" class="alignnone wp-image-643654 size-full" height="397" loading="lazy" sizes="(max-width: 772px) 100vw, 772px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.50.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.50.jpeg 772w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.50-300x154.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.02.50-768x395.jpeg 768w" width="772"/>What are the Concerns around live-streaming of court?</strong></h4>
-<ul>
-<li><strong>Contempt of court:</strong> Video clips of proceedings from Indian courts are already on YouTube and other social media platforms with sensational titles and little context, such as “HIGH COURT super angry on army officer”.</li>
-<li><strong>Disinformation and sensationalism:</strong> There are fears that irresponsible or motivated use of content could spread disinformation among the public.</li>
-<li><strong>Unnecessary activism:</strong> With the advent of social media, every citizen became a potential journalist. Study shows that justices behave like politicians when given free television time, they act to maximize their individual exposure</li>
-<li><strong>Internet connectivity: </strong>Internet connectivity issues and the need for a well-equipped space where lawyers can conduct their cases are some of the major problems requiring attention.</li>
-<li><strong>Awareness and training:</strong> Judges, court staff and lawyers are not well-versed with digital technology and its benefits. The need of the hour is for them to be made aware of these and receive adequate training.</li>
-</ul>
-<h4><strong><img alt="Court" class="alignnone wp-image-643657 size-large" height="654" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.24.04-1024x654.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.24.04-1024x654.jpeg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.24.04-300x191.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.24.04-768x490.jpeg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.24.04-1200x766.jpeg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-04-at-08.24.04.jpeg 1280w" width="1024"/>Which countries live-stream their court hearing</strong>?</h4>
-<ul>
-<li>Internationally,constitutional court proceedings are recorded in some form or the other.</li>
-<li><strong>United States</strong>: The Supreme Court of the United States streams its hearings in audio format at the end of each week.The US top court publishes hearings on its website and Oyez of all cases. Oyez is a multimedia judicial archive of the Supreme Court of the United States’ proceedings.</li>
-<li><strong>Brazil</strong>: The Supreme Federal Court of Brazil live streams hearings of all cases in video format on television.</li>
-<li><strong>UK</strong>: The UK Supreme Court live streams hearings of all cases in video format on its website.</li>
-<li><strong>Canada</strong>: The Canadian Supreme Court also live streams hearings of all its cases in video format on its website.</li>
-<li><strong>Australia</strong>: The Australian Supreme Court streams hearings of its full-court cases on its website with a delay of about a day. Meanwhile, the High Court of Australia (HCA) does not live-stream its proceedings.</li>
-<li><strong>China</strong>: In China,court proceedings are live-streamed from trial courts up to the Supreme People’s Court of China.</li>
-</ul>
-<h4><strong>Conclusion</strong></h4>
-<ul>
-<li>The chief justices (past and present) and the judges of the Supreme Court deserve to be congratulated for enabling a path-breaking and democratic decision that allows the people of India to be able to watch the live proceedings of the Constitutional Bench.The distinguished jurist, Oliver Holmes,famously observed,“The great thing in the world is not so much where we stand, as in what direction we are moving.” The judges of the Supreme Court of India have ensured that we are indeed moving in the right direction.</li>
-</ul>
-<blockquote><p><strong>Mains Question</strong></p>
-<p><strong>Q.</strong><strong>Adoption of technology will radically change the field of law and transform the judiciary. What will be the role of courts, judges, politicians,media and citizens of the country regarding live streaming of court proceedings. Discuss</strong></p></blockquote>
-<p><strong> <a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></strong></p>
-<p> </p>
-</div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/live-streaming-of-court/</guid><pubDate>Tue, 04 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Has Ayushman Bharat lived up to its potential?</title><link>https://www.civilsdaily.com/news/has-ayushman-bharat-lived-up-its-potential/</link><description><![CDATA[<div class="post-inner thin">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link><description>This is generated feed from main website.</description><atom:link href="http://larskiesow.de/test.atom" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://ex.com/logo.jpg</url><title>CivilsDaily Feeds</title><link>http://larskiesow.de/test.atom</link></image><language>en</language><lastBuildDate>Thu, 06 Oct 2022 07:17:40 +0000</lastBuildDate><item><title>Has Ayushman Bharat lived up to its potential?</title><link>https://www.civilsdaily.com/news/has-ayushman-bharat-lived-up-its-potential/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Ayushman Bharat</p><p><strong>Mains level : </strong>Success of India's health policies</p></div></div><p><img alt="ayushman bharat" class="alignnone size-full wp-image-643733" height="430" loading="lazy" sizes="(max-width: 803px) 100vw, 803px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/abnhm.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/abnhm.jpg 803w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/abnhm-300x161.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/abnhm-768x411.jpg 768w" width="803"/></p>
 <p>India has completed four years of Ayushman Bharat Pradhan Mantri-Jan Arogya Yojana (AB-PMJAY), the world’s largest public health insurance programme.</p>
@@ -902,7 +608,249 @@
 <p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 <p> </p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/civil/</guid><pubDate>Wed, 05 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Marital rape, MTP Act and the Society</title><link>https://www.civilsdaily.com/news/marital-rape/</link><description><![CDATA[<div class="post-inner thin">
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/civil/</guid><pubDate>Wed, 05 Oct 2022 00:00:00 +0553</pubDate></item><item><title>What is OPEC+?</title><link>https://www.civilsdaily.com/news/what-is-opec-3/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Opec+</p><p><strong>Mains level : </strong>Global fuel dynamics</p></div></div><p>Oil prices rose about 1%, as OPEC+ members agreed to its deepest cuts to output since the 2020 COVID pandemic, despite a tight market and opposition to cuts from the United States and others.</p>
+<h4><strong>What is OPEC+?</strong></h4>
+<ul>
+<li>The non-OPEC countries which export crude oil along with the 14 OPECs are termed as OPEC plus countries.</li>
+<li>OPEC plus countries include Azerbaijan, Bahrain, Brunei, Kazakhstan, Malaysia, Mexico, Oman, Russia, South Sudan, and Sudan.</li>
+<li>Saudi and Russia, both have been at the heart of a three-year alliance of oil producers known as OPEC Plus — which now includes 11 OPEC members and 10 non-OPEC nations — that aims to shore up oil prices with production cuts.</li>
+</ul>
+<h4><strong>Why is OPEC+ slashing production?</strong></h4>
+<ul>
+<li>Oil prices skyrocketed after Russia’s invasion of Ukraine.</li>
+<li>The cut made recently is the biggest of its kind since 2020 when OPEC+ members slashed outputs by 10 million bpd during the Covid-19 pandemic.</li>
+<li>The reductions would boost prices and be extremely beneficial for the Middle Eastern member states, to whom Europe has turned for oil after levelling sanctions against Russia since it invaded Ukraine.</li>
+<li>OPEC+ members are concerned that a faltering global economy would reduce the demand for oil, and the cuts are seen as a way to protect profits.</li>
+</ul>
+<h4><strong>Concerns for India</strong></h4>
+<ul>
+<li>Even after importing cheap Russian oil, India has not seen any cut in fuel prices.</li>
+<li>Rising oil prices are posing fiscal challenges for India, where heavily-taxed retail fuel prices have touched record highs, threatening the demand-driven recovery.</li>
+<li>India imports about 84% of its oil and relies on West Asian supplies to meet over three-fifths of its demand.</li>
+<li>As one of the largest crude-consuming countries, India is concerned that such actions by producing countries have the potential to undermine consumption-led recovery.</li>
+<li>This would hurt consumers, especially in our price-sensitive market.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/what-is-opec-3/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Centre raises credit limit under ECLGS</title><link>https://www.civilsdaily.com/news/eclgs-centre-raises-credit-limit/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>ECLGS Scheme</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>The Ministry of Finance has raised the credit limit for airlines under the Emergency Credit Line Guarantee Scheme (ECLGS), making them eligible for a sum equivalent to 100% of their outstanding debt, up to a maximum of ₹1,500 crore.</p>
+<h4><strong>Boost for Aviation sector</strong></h4>
+<ul>
+<li>Earlier, airlines were eligible to borrow up to 50% of their credit outstanding up to ₹400 crore.</li>
+<li>This is the second time the government has liberalized the scheme for the aviation sector.</li>
+<li>The scheme introduced for medium and small enterprises during the outbreak of the COVID-19 pandemic was extended till March 2023 and its guarantee cover expanded by ₹50,000 crore to ₹5 lakh crore.</li>
+</ul>
+<h4><strong>What is ECLGS?</strong></h4>
+<ul>
+<li>Under the Scheme, 100% guarantee coverage to be provided by National Credit Guarantee Trustee Company Limited (NCGTC) for additional funding of up to Rs. 3 lakh crore to eligible MSMEs and interested MUDRA borrowers.</li>
+<li>The credit will be provided in the form of a Guaranteed Emergency Credit Line (GECL) facility.</li>
+<li>The Scheme would be applicable to all loans sanctioned under GECL Facility during the period from the date of announcement of the Scheme to 31.10.2020.</li>
+</ul>
+<h4><strong>Aims and objectives</strong></h4>
+<ul>
+<li>The Scheme aims at mitigating the economic distress faced by MSMEs by providing them additional funding in the form of a fully guaranteed emergency credit line.</li>
+<li>The main objective is to provide an incentive to Member Lending Institutions (MLIs), i.e., Banks, Financial Institutions (FIs) and NBFCs to increase access to, and enable the availability of additional funding facility to MSME borrowers.</li>
+<li>It aims to provide a 100 per cent guarantee for any losses suffered by them due to non-repayment of the GECL funding by borrowers.</li>
+</ul>
+<h4><strong>Salient features of ECGLS<br/>
+</strong></h4>
+<ul>
+<li>The entire funding provided under GECL shall be provided with a 100% credit guarantee by NCGTC to MLIs under ECLGS.</li>
+<li>Tenor of the loan under Scheme shall be four years with a moratorium period of one year on the principal amount.</li>
+<li>No Guarantee Fee shall be charged by NCGTC from the Member Lending Institutions (MLIs) under the Scheme.</li>
+<li>Interest rates under the Scheme shall be capped at 9.25% for banks and FIs, and at 14% for NBFCs.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/eclgs-centre-raises-credit-limit/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Nobel for work on Click Chemistry</title><link>https://www.civilsdaily.com/news/nobel-for-work-on-click-chemistry/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Click Chemistry</p><p><strong>Mains level : </strong>Read the attached story</p></div></div><p><img alt="click" class="alignnone wp-image-644553 size-full" height="2362" loading="lazy" sizes="(max-width: 2362px) 100vw, 2362px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1.jpg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1.jpg 2362w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-300x300.jpg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-1024x1024.jpg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-150x150.jpg 150w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-768x768.jpg 768w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-1536x1536.jpg 1536w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-2048x2048.jpg 2048w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-900x900.jpg 900w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-1200x1200.jpg 1200w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/nobel-1-1980x1980.jpg 1980w" width="2362"/></p>
+<p>Scientists Carolyn R. Bertozzi, Morten Meldal and K. Barry Sharpless won the 2022 Nobel Prize in Chemistry on for discovering reactions that let molecules snap together to create desired compounds and that offer insight into cell biology.</p>
+<h4><strong>What the scientists worked on?</strong></h4>
+<ul>
+<li>Sharpless came up with the term ‘<strong><u>Click Chemistry’</u></strong> and worked extensively on it,</li>
+<li>Meldal came up with a special chemical structure called ‘<strong><u>Triazole’</u></strong> which has many significant applications, and</li>
+<li>Bertozzi took the next step of developing click reactions that could work inside living organisms — <strong><u>‘bioorthogonal’ reactions</u></strong> take place living systems without interfering with native biochemical processes.</li>
+</ul>
+<h4><strong>What is Click Chemistry?</strong></h4>
+<ul>
+<li>Chemists often try to recreate complex chemical molecules found in nature, and this has applications, among other things, in the field of medicine – how to target and block pathogens in cells.</li>
+<li>However, this process can be complicated and time-consuming.</li>
+<li>Instead of trying to wrangle reluctant carbon atoms into reacting with each other, Barry Sharpless encouraged his colleagues to start with smaller molecules that already had a complete carbon frame.</li>
+<li>If chemists choose simple reactions – where there is a strong intrinsic drive for the molecules to bond together – they avoid many of the side reactions, with a minimal loss of material.</li>
+</ul>
+<h4><strong>Applications of click chemistry</strong></h4>
+<ul>
+<li>Meldal through his experiments came up with the useful chemical structure called triazoles, whch are stable and are found in pharmaceuticals, dyes and agricultural chemicals.</li>
+<li>He also found that the reaction he used could bind together numerous different molecules.</li>
+<li>Bertozzi, using the work of Sharpless and Meldal, came up with an efficient and innovative method to map glycans, which are carbohydrate-based polymers made by all living organisms.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/nobel-for-work-on-click-chemistry/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item><item><title>In news: Criterion for SC status</title><link>https://www.civilsdaily.com/news/criterion-for-sc-status/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>NA</p><p><strong>Mains level : </strong>SC status and related issues</p></div></div><p>The Supreme Court has sought the most recent position of the Union government on a batch of petitions challenging the Constitution (Scheduled Castes) Order of 1950, which allows only members of Hindu, Sikh and Buddhist religions to be recognised as SCs.</p>
+<h4><strong>The Constitution Order of 1950</strong></h4>
+<ul>
+<li>When enacted, the Constitution (Scheduled Castes) Order of 1950, initially provided for recognising only Hindus as SCs.</li>
+<li>It was then aimed to address the social disability arising out of the practice of untouchability.</li>
+<li>The Order was amended in 1956 to include Dalits who had converted to Sikhism and once more in 1990 to include Dalits who had converted to Buddhism.</li>
+<li>Both amendments were aided by the reports of the <strong><u>Kaka Kalelkar Commission</u></strong> in 1955 and the High Powered Panel (HPP) on Minorities, SCs and STs in 1983 respectively.</li>
+</ul>
+<h4><strong>What about Christians?</strong></h4>
+<ul>
+<li>The Union government in 2019 rejected the possibility of including Dalit Christians as members of SCs.</li>
+<li>This decision was rooted on the exclusion on an Imperial Order of 1936 of the then colonial government, which had first classified a list of the Depressed Classes and specifically excluded “Indian Christians” from it.</li>
+</ul>
+<h4><strong>Why are Dalit Christians excluded?</strong></h4>
+<ul>
+<li>SC status is meant for communities suffering from social disabilities arising out of the practice of <strong><u>untouchability that was prevalent in Hindu and Sikh communities</u></strong>.</li>
+<li>SC status for everyone would significantly <strong><u>swell the population of SCs</u></strong> across the country thus trivializing the purpose itself.</li>
+</ul>
+<h4><strong>Why neo-Buddhists are included in SC quota?</strong></h4>
+<ul>
+<li>The amendment to include Buddhist converts as SCs was passed in 1990.</li>
+<li>Like Dalit Buddhists, Dalits who converted to Islam or Christianity belonged to different sets of caste groups and not just one.</li>
+<li>As a result of this, they cannot be categorised as a “single ethnic group”, which is required by Clause (2) of Article 341 for inclusion.</li>
+</ul>
+<h4><strong>Major concerns of including other religions</strong></h4>
+<ul>
+<li><strong>Sanction of untouchability:</strong> The practice of “untouchability” was a feature of Hindu religion and its branches. This would imply that India was trying to “impose its caste system” upon Christians and Muslims.</li>
+<li><strong>Undue internationalization:</strong> Allowing the inclusion of Dalit Muslims and Dalit Christians as SCs could result in being misunderstood internationally.</li>
+<li><strong>Reviving casteism:</strong> Christians and Muslims of Dalit origin had lost their caste identity by way of their conversion and that in their new religious community, the practice of untouchability is not prevalent.</li>
+</ul>
+<h4><strong>Is there a case for inclusion?</strong></h4>
+<ul>
+<li>The petitions arguing for inclusion have cited several independent Commission reports that have documented the existence of caste and caste inequalities among Indian Christians and Indian Muslims.</li>
+<li>Even after conversion, members who were originally from SCs continued to experience the same social disabilities.</li>
+<li>This was substantiated in the First Backward Classes Commission’s report in 1953, the HPP report on SCs, STs, and Minorities in 1983, the Mandal Commission Report, etc.</li>
+<li>However, these reports do not have enough empirical evidence to support their claims.</li>
+</ul>
+<h4><strong>Why is the issue debated?</strong></h4>
+<ul>
+<li><strong>Non-deserving beneficiaries:</strong> The proposition that caste identity is lost upon conversion, noting that even in Sikhism and Buddhism, casteism is not present and yet they have been included as SCs.</li>
+<li><strong>Continued discrimination:</strong> The above-mentioned reports argue that caste-based discrimination continues even after conversion, hence entitling these communities to SC status.</li>
+</ul>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/criterion-for-sc-status/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Parliamentary Committees, their leaders, and their role in law-making</title><link>https://www.civilsdaily.com/news/parliamentary-committee-significance/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Parliamentary Committess</p><p><strong>Mains level : </strong>Not Much</p></div></div><p>A recent revamp of the Standing Committees of Parliament could potentially worsen the relations between the government and opposition parties.</p>
+<h4><strong>Why in news?</strong></h4>
+<ul>
+<li>Of the 22 committees announced, the erstwhile ruling party has the post of chairperson in only one, and the opposition party from West Bengal has none.</li>
+<li>The ruling party has the chairmanship of the important committees on Home, Finance, IT, Defence and External Affairs.</li>
+</ul>
+<h4><strong>What are Committees of Parliament?</strong></h4>
+<ul>
+<li>A Parliamentary Committee is a panel of MPs that is appointed or elected by the House or nominated by the Speaker, and which works under the direction of the Speaker.</li>
+<li>It presents its report to the House or to the Speaker.</li>
+<li>Parliamentary Committees have their origins in the British Parliament.</li>
+<li>They draw their authority from Article 105, which deals with the privileges of MPs, and Article 118, which gives Parliament authority to make rules to regulate its procedure and conduct of business.</li>
+</ul>
+<h4><strong>What do they do?</strong></h4>
+<ul>
+<li>Legislative business begins when a Bill is introduced in either House of Parliament.</li>
+<li>But the process of lawmaking is often complex, and Parliament has limited time for detailed discussions.</li>
+<li>Also, the political polarisation and shrinking middle ground has been leading to inconclusive debates in Parliament.</li>
+<li>As a result of this, a great deal of legislative business ends up taking place in the Parliamentary Committees instead.</li>
+<li>The aim is to increase Parliamentary scrutiny, and to give members more time and a wider role in examining important legislation.</li>
+</ul>
+<h4><strong>What are the various Committees of Parliament?</strong></h4>
+<ul>
+<li>Broadly, Parliamentary Committees can be classified into Financial Committees, Departmentally Related Standing Committees, Other Parliamentary Standing Committees, and Ad hoc Committees.</li>
+<li>The Financial Committees include the Estimates Committee, Public Accounts Committee, and the Committee on Public Undertakings.</li>
+<li>These committees were constituted in 1950.</li>
+<li>Seventeen Departmentally Related Standing Committees came into being in 1993, when Shivraj Patil was Speaker of Lok Sabha.</li>
+<li>They aimed to examine budgetary proposals and crucial government policies.</li>
+</ul>
+<h4><strong>Composition of these committees</strong></h4>
+<ul>
+<li>The number of Committees was subsequently increased to 24.</li>
+<li>Each of these Committees has 31 members — 21 from Lok Sabha and 10 from Rajya Sabha.</li>
+<li>Ad hoc Committees are appointed for a specific purpose.</li>
+</ul>
+<h4><strong>How are the Committees constituted?</strong></h4>
+<ul>
+<li>There are 16 Departmentally Related Standing Committees for Lok Sabha and eight for Rajya Sabha; however, every Committee has members from both Houses.</li>
+<li>Lok Sabha and Rajya Sabha panels are headed by members of these respective Houses.</li>
+<li>Among the important Lok Sabha panels are: Agriculture; Coal; Defence; External Affairs; Finance; Communications &amp; Information Technology; Labour; Petroleum &amp; Natural Gas; and Railways.</li>
+<li>The important Rajya Sabha panels include Commerce; Education; Health &amp; Family Welfare; Home Affairs; and Environment.</li>
+<li>There are other Standing Committees for each House, such as the Business Advisory Committee and the Privileges Committee.</li>
+<li>The Presiding Officer of each House nominates members to these panels. A Minister is not eligible for election or nomination to Financial Committees, and certain Departmentally Related Committees.</li>
+</ul>
+<h4><strong>Appointing of chairmen </strong></h4>
+<ul>
+<li>The appointment of heads of the Committees is also done in a similar way. By convention, the main Opposition party gets the post of PAC chairman; it is currently with the Congress.</li>
+<li>Chairmanship of some key committees has been allocated to opposition parties in the past. However, this pattern has changed in the latest rejig.</li>
+<li>The heads of the panels schedule their meetings.</li>
+<li>They play a clear role in preparing the agenda and the annual report, and can take decisions in the interest of the efficient management of the Committee.</li>
+<li>The chairperson presides over the meetings and can decide who should be summoned before the panel.</li>
+</ul>
+<h4><strong>How do they work?</strong></h4>
+<ul>
+<li>Bills that are referred to Committees often return to the House with significant value-addition.</li>
+<li>The Committees look into the demands for grants of Ministries/departments, examine Bills pertaining to them, consider their annual reports, and look into their long-term plans and report to Parliament.</li>
+</ul>
+<h4><strong>What are Ad hoc Committees?</strong></h4>
+<ul>
+<li>Ad hoc Committees cease to exist after they have completed the task assigned to them, and have submitted a report to the House.</li>
+<li>The principal Ad hoc Committees are the Select and Joint Committees on Bills.</li>
+<li>Committees like the Railway Convention Committee, Committee on Food Management and Security in Parliament House Complex, etc. also come under the category of Ad hoc Committees.</li>
+</ul>
+<h4><strong>What about Joint Parliamentary Committee (JPC)?</strong></h4>
+<ul>
+<li>Parliament can also constitute a JPC with a special purpose, with members from both Houses, for detailed scrutiny of a subject or Bill.</li>
+<li>Also, either of the two Houses can set up a Select Committee with members from that House.</li>
+<li>JPCs and Select Committees are usually chaired by ruling party MPs, and are disbanded after they have submitted their report.</li>
+</ul>
+<h4><strong>Why need all these committees?</strong></h4>
+<ul>
+<li>The time to speak on a Bill is allocated according to the size of the party in the House.</li>
+<li>MPs often do not get adequate time to put forward their views in Parliament, even if they are experts on the subject.</li>
+<li>Committees are small groups with relatively less demands on their time; in these meetings, every MP gets a chance and the time to contribute to the discussion.</li>
+<li>Parliament has only around 100 sittings a year; Committee meetings are independent of Parliament’s calendar.</li>
+</ul>
+<h4><strong>How do discussions/ debates here differ from those in Parliament?</strong></h4>
+<ul>
+<li>The discussions are confidential and off-camera.</li>
+<li>Political Party affiliations usually do not come in the way of MPs speaking their minds in ways they are unable to do in Parliament.</li>
+<li>The Committees work closely with multiple Ministries, and facilitate inter-ministerial coordination.</li>
+</ul>
+<h4><strong>How important are the recommendations of the Committees?</strong></h4>
+<ul>
+<li>Reports of Departmentally Related Standing Committees are <strong><u>recommendatory in nature</u></strong>.</li>
+<li>However, suggestions by the Select Committees and JPCs — which have a majority of MPs and heads from the ruling party — are accepted more frequently.</li>
+<li>They are not binding on the government, but they <strong><u>do carry significant weight</u></strong>.</li>
+<li>In the past, governments have accepted suggestions given by the Committees and incorporated them into the Bills.</li>
+</ul>
+<h4><strong>Significance of Parliamentary committees</strong></h4>
+<ul>
+<li>Many MPs concede that “real discussions” happen inside the Committees.</li>
+<li>The former US President Woodrow Wilson had observed that “Congress in session is Congress on public exhibition, whilst Congress in its committee rooms is Congress at work”.</li>
+</ul>
+<blockquote>
+<h4>Try this PYQ:</h4>
+<p><strong>Q.With reference to the Parliament of India which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub rules, bylaws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation? </strong></p>
+<p> </p>
+<p>(a) Committee on Government Assurances</p>
+<p>(b) Committee on Subordinate Legislation</p>
+<p>(c) Rules Committee</p>
+<p>(d) Business Advisory Committee</p>
+<p> </p>
+Post your answers here.</blockquote>
+<p> </p>
+<p><a href="https://civilsdaily3.freshworks.com/crm/sales/web_forms/3d94588692757bc7fa91a20e163e1993124789e67302006fe3783f0984276181/form.html" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/parliamentary-committee-significance/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Marital rape, MTP Act and the Society</title><link>https://www.civilsdaily.com/news/marital-rape/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
 <div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>MTP Act.</p><p><strong>Mains level : </strong>Abortion rights,Persistence of marital rape and need for its criminalization</p></div></div><h4><strong><img alt="Marital rape" class="alignnone wp-image-644505 size-full" height="807" loading="lazy" sizes="(max-width: 962px) 100vw, 962px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-03-at-07.03.12.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-03-at-07.03.12.jpeg 962w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-03-at-07.03.12-300x252.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-03-at-07.03.12-768x644.jpeg 768w" width="962"/>Context</strong></h4>
 <ul>
@@ -980,7 +928,7 @@
 </div><!-- .entry-content -->
 </div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/marital-rape/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Analysing Insolvency and bankruptcy Code</title><link>https://www.civilsdaily.com/news/insolvency/</link><description><![CDATA[<div class="post-inner thin">
 <div class="entry-content">
-<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>what is IBC</p><p><strong>Mains level : </strong>IBC reforms</p></div></div><h4><strong><img alt="Insolvency" class="alignnone wp-image-644504 size-full" height="579" sizes="(max-width: 997px) 100vw, 997px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38.jpeg 997w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38-300x174.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38-768x446.jpeg 768w" width="997"/>Context</strong></h4>
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>what is IBC</p><p><strong>Mains level : </strong>IBC reforms</p></div></div><h4><strong><img alt="Insolvency" class="alignnone wp-image-644504 size-full" height="579" loading="lazy" sizes="(max-width: 997px) 100vw, 997px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38.jpeg 997w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38-300x174.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-08.29.38-768x446.jpeg 768w" width="997"/>Context</strong></h4>
 <ul>
 <li>Speaking at the Sixth anniversary of the insolvency and bankruptcy Board of India (IBBI) on October 1, Union Finance Minister Nirmala Sitharaman said that the country could not afford to lose the “sheen” of its insolvency law, the Insolvency and Bankruptcy code(IBC)</li>
 </ul>
@@ -1039,4 +987,57 @@
 <p><strong>Q.</strong> <strong>Insolvency and Bankruptcy Code (IBC) is a comprehensive and systemic process, which gives a quantum leap to the functioning of the credit market. Discuss the challenges and way ahead in the resolution mechanism of IBC</strong>.</p></blockquote>
 <p><a href="https://bit.ly/cd_regular" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
 </div><!-- .entry-content -->
-</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/insolvency/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item></channel></rss>
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/insolvency/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item><item><title>Governor: 1st essential part of State Legislature</title><link>https://www.civilsdaily.com/news/governor/</link><description><![CDATA[<div class="post-inner thin">
+<div class="entry-content">
+<div class="n4s"><div class="heading">Note4Students</div><div class="content"><p>From UPSC perspective, the following things are important : </p><p><strong>Prelims level : </strong>Role of Governors in State</p><p><strong>Mains level : </strong>Issues with role of Governor</p></div></div><h4><img alt="Governor" class="alignnone wp-image-644527 size-full" height="618" sizes="(max-width: 994px) 100vw, 994px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.37.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.37.jpeg 994w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.37-300x187.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.37-768x477.jpeg 768w" width="994"/><strong>Context</strong></h4>
+<ul>
+<li>In Tamil Nadu, the Governor forwarded the Bill for exemptio from the National Eligibility cum Entrance Test (NEET) to the President after considerable delay.</li>
+<li>In Kerala the situation has become a bit curious with the Governor publicly announcing that he would not give assent to the Lokayukta Amendment Bill and the Kerala University Amendment Bill. Such actions by Governors throw the legislative programmes of governments out of gear because of the uncertainty surrounding the assent.</li>
+</ul>
+<h4><strong>What is Role of Governor in Legislature?</strong></h4>
+<ul>
+<li><strong>Integral part: </strong>A Bill passed by the State Assembly becomes law only after it is assented to by the Governor.The Governor being a part of the State legislature, the process of law making is complete only when he signs it, signifying his assent.</li>
+<li><strong>Established practice: </strong>In all democratic countries, similar provision exists in their constitutions.</li>
+</ul>
+<h4><strong><img alt="Governor" class="alignnone wp-image-644528 size-full" height="415" loading="lazy" sizes="(max-width: 739px) 100vw, 739px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.36.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.36.jpeg 739w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.36-300x168.jpeg 300w" width="739"/> What is the <a href="https://www.civilsdaily.com/news/governors-powers-and-friction-with-states/">Power of Governor Vis-e-vis legislature?</a></strong></h4>
+<ul>
+<li><strong>What Article 200 says</strong>: The Constitution provides certain options for the Governor to exercise when a Bill reaches him from the Assembly.</li>
+<li><strong>There are four possible scenarios:</strong></li>
+</ul>
+<ol>
+<li><strong>Assent: </strong>He may give assent.</li>
+<li><strong>Reconsider: </strong>He can send it back to the Assembly requesting it to reconsider some provisions of the Bill, or the Bill itself. In this case, if the Assembly passes the Bill without making any change and sends it back to the Governor, he will have to give assent to it.</li>
+<li><strong>Reserve: </strong>The third option is to reserve the Bill for the consideration of the President.</li>
+<li><strong>Withhold: </strong>The fourth option, of course, is to withhold the assent.</li>
+</ol>
+<h4><strong>What are the Legislative practice in other democracies ?</strong></h4>
+<ul>
+<li><strong>UK: </strong>The royal assent is necessary for a Bill to be passed by Parliament to become law and the crown has the power to withhold assent. But it is a dead letter.</li>
+<li><strong>No power of veto: </strong>By practice and usage there is no power of veto exercised by the crown in England now. Moreover, refusal of royal assent on the ground that the monarchy strongly disapproves of the Bill or that the Bill is very controversial is treated as unconstitutional.</li>
+<li><strong>USA: </strong>In the United States, the President is empowered by the Constitution to refuse assent and return a Bill to the House but if the Houses again pass it with two thirds of each House the Bill becomes law.</li>
+</ul>
+<h4><strong><img alt="Governor" class="alignnone wp-image-644530 size-full" height="768" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.35.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.35.jpeg 1024w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.35-300x225.jpeg 300w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.35-768x576.jpeg 768w" width="1024"/>Why there is an ambiguity over the role of governors in India?</strong></h4>
+<ul>
+<li><strong>Role of the governor: </strong>The question of whether a Governor is permitted by the Constitution to cause uncertainty in the matter of giving assent to the Bills passed by State legislatures assumes great importance.</li>
+<li><strong>Presidential Assent: </strong>The provision concerned makes it clear that a Bill can be reserved for the consideration of the President only if the Governor forms an opinion that the Bill would endanger the position of the High Court by whittling away its powers. The Constitution does not mention any other type of Bill which is required to be reserved for the consideration of the President. Nevertheless, the courts have conceded a certain discretion to the Governors in the matter of sending Bills to the President.</li>
+<li><strong>Constitution is silent: </strong>the Constitution does not mention the grounds on which a Governor may withhold assent to a Bill.</li>
+<li><strong>No remedy</strong>: The Indian Constitution, however, does not provide any such remedy as that of USA or UK . The courts too have more or less accepted the position that if the Governor withholds assent, the Bill will go. Thus, the whole legislative exercise will become fruitless. It does not square with the best practices in old and mature democracies.</li>
+</ul>
+<h4><strong>What is the Court mandated legislative practice?</strong></h4>
+<ul>
+<li><strong>According to Article 361</strong>: The Constitution prohibits the court from initiating proceedings against a Governor or the President for any act done in exercise of their powers. They enjoy complete immunity from court proceedings. It is in fact a unique situation where a government is placed in a situation of having to challenge a Governor’s action of withholding assent to a Bill.</li>
+<li><strong>Reasons: </strong>Governor while declaring that he withholds assent will have to disclose the reason for such refusal.</li>
+<li><strong>No Arbitrary actions: </strong>Being a high constitutional authority, the Governor cannot act in an arbitrary manner</li>
+<li><strong>Unconstitutional: </strong>If the grounds for refusal disclose mala fide or extraneous considerations or ultravires, the Governor’s action of refusal could be struck down as unconstitutional.</li>
+<li><strong>Rameshwar Prasad and Others. vs Union of India case</strong>: The Court held: “the immunity granted by Article 361(1) does not, however, take away the power of the Court to examine the validity of the action including on the ground of malafides”.</li>
+<li><strong>Pocket veto: </strong>since the Constitution does not fix any timeline for the Governor to decide the question of assent, he can wait for any length of time without doing anything. This is illogical and militates against the constitutional scheme in respect of law making by the legislatures.</li>
+</ul>
+<h4><strong><img alt="Governor" class="alignnone wp-image-644540" height="1066" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.33.jpeg" srcset="https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.33.jpeg 413w, https://d18x2uyjeekruj.cloudfront.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-06-at-11.27.33-169x300.jpeg 169w" width="600"/>Conclusion</strong></h4>
+<ul>
+<li>The legislature reflects the will of the people and is the constitutionally designated body to make laws. If the Governor who does not reflect in any way the aspirations of the people of the State refuses assent, and thereby defeats the legislative programme of the elected government, it would be against the spirit of the Constitution.</li>
+</ul>
+<blockquote><p><strong>Mains Question </strong></p>
+<p><strong>Q.</strong><strong>Governor is the connecting link between state and central executive. Discuss the duties of Governor with respect to state legislature? Why Governor tilt more towards centre than state?</strong></p></blockquote>
+<p><a href="https://bit.ly/cd_regular" rel="noopener" target="_blank">UPSC 2023 countdown has begun! Get your personal guidance plan now! (Click here)</a></p>
+</div><!-- .entry-content -->
+</div>]]></description><guid isPermaLink="false">https://www.civilsdaily.com/news/governor/</guid><pubDate>Thu, 06 Oct 2022 00:00:00 +0553</pubDate></item></channel></rss>
